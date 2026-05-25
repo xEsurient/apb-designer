@@ -1,8 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
-
 /**
- * Generates WeaponItemTypes from APBDb
+ * Generates WeaponItemTypes.ger from APBDb
  */
 export async function generateWeapons(dataDir) {
   console.log(' -> Generating WeaponItemTypes.ger');
@@ -16,12 +15,10 @@ export async function generateWeapons(dataDir) {
     
     // Process items (basic mapping example)
     for (const item of items) {
-      if (!item.name) continue;
+      if (!item.sAPBDB || !item.sDisplayName) continue;
       
-      const id = item.id;
-      // Many items in APBDb contain HTML or raw tags; we assume standard text here for simplicity,
-      // but in reality we would parse rarity to inject `<col:>` tags.
-      const name = item.name.english || item.name;
+      const id = item.sAPBDB;
+      const name = item.sDisplayName;
       
       fileContent += `${id}=${name}\n`;
     }

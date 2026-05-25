@@ -1,4 +1,3 @@
-
 [ModifierEffects]
 
 ;;;            |||   Orange Weapon Modifier   |||            ;;;

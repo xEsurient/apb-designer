@@ -25,7 +25,7 @@ async function checkVersion() {
 
     if (liveVersion && liveVersion !== localVersion.version) {
       console.log(`Update detected: ${localVersion.version} -> ${liveVersion}`);
-      await runSync();
+      await runSync(liveVersion);
 
       // Save new version
       await fs.writeFile(VERSION_FILE, JSON.stringify({
@@ -43,11 +43,11 @@ async function checkVersion() {
   }
 }
 
-async function runSync() {
+async function runSync(liveVersion) {
   console.log('Starting data generation...');
   // In a full implementation, all generators would be called here.
-  await generateWeapons(DATA_DIR);
-  // await generateInventoryItems(DATA_DIR);
+  // For the MVP, we demonstrate with Weapons (.ger).
+  await generateWeapons(DATA_DIR, liveVersion);
   // await generateVehicles(DATA_DIR);
   console.log('Data generation finished.');
 }

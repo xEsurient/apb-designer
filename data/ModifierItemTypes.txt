@@ -1,4 +1,3 @@
-
 [ModifierItemTypes]
 
 ModifierItemTypes_Mod_None_Description=DNT - DO NOT TRANSLATE

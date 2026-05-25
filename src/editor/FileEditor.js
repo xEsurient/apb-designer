@@ -25,7 +25,7 @@ export class FileEditor {
     this.container.innerHTML = `
       <div class="editor-header">
         <div class="file-actions">
-          <input type="file" id="fe-file-upload" accept=".txt" style="display: none;">
+          <input type="file" id="fe-file-upload" accept=".ger" style="display: none;">
           <button id="fe-btn-upload" class="btn btn-primary">Open File</button>
           <button id="fe-btn-save" class="btn btn-primary" style="display: none;" disabled>Save & Download</button>
           <span id="fe-file-name" class="file-name-display"></span>
@@ -36,7 +36,7 @@ export class FileEditor {
       </div>
       <div id="fe-table-container" class="editor-table-container">
         <div class="empty-state">
-          <p>Select a localization .txt file to begin editing.</p>
+          <p>Select a localization .ger file to begin editing.</p>
         </div>
       </div>
       <div id="fe-pagination" class="pagination-controls" style="display: none;"></div>

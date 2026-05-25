@@ -10,5 +10,6 @@ A web-based localization editor and color tool for APB: Reloaded. Built to run e
 - **Auto Data Sync**: Localization file templates are automatically generated from the APBDb REST API using GitHub Actions, ensuring zero client-side API requests.
 
 ## Credits
+- **[Mewre]()** - Original, concept designer
 - **[Speed](https://apbdb.com/)** — APBDB (Provides the required data for the changes)
 - **[myami](https://myamai.neocities.org/apb/localization)** — Documentation on APB's custom color tags (HEX,RGB,etc)

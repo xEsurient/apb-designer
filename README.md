@@ -9,26 +9,6 @@ A web-based localization editor and color tool for APB: Reloaded. Built to run e
 - **Rainbow Generator**: Generate dynamic per-character color gradients (either HSL full rainbow or linear interpolation between two colors) using APB's color tags.
 - **Auto Data Sync**: Localization file templates are automatically generated from the APBDb REST API using GitHub Actions, ensuring zero client-side API requests.
 
-## Setup & Development
-
-[Vite](https://vitejs.dev/) with vanilla JavaScript.
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Build for production:
-   ```bash
-   npm run build
-   ```
-
 ## Credits
-
-A huge thank you to the following community resources that made this tool possible:
-
-- **[Speed](https://apbdb.com/)** — For maintaining the APBDb REST API, which provides the structured game data required to automatically generate accurate localization files.
-- **[myami](https://myamai.neocities.org/apb/localization)** — For their comprehensive documentation on APB's custom color tags and localization syntax.
+- **[Speed](https://apbdb.com/)** — APBDB (Provides the required data for the changes)
+- **[myami](https://myamai.neocities.org/apb/localization)** — Documentation on APB's custom color tags (HEX,RGB,etc)

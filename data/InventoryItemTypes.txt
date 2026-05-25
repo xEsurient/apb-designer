@@ -1,0 +1,1300 @@
+               _ _       _     
+              (_) |     | |    
+__      ___ __ _| |_ ___| |__  
+\ \ /\ / / '__| | __/ __| '_ \ 
+ \ V  V /| |  | | || (__| | | |
+  \_/\_/ |_|  |_|\__\___|_| |_|
+
+[InventoryItemTypes]
+;
+;                        Marksman 
+;
+InventoryItemTypes_Weapon_Rifle_FFA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_PR3_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_5Day_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56 R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 'BullShark'<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 'BullShark'<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_ArmasTradable_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56 R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_Armas_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 5.56 R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_FFA_Slot3_RUSJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FFA 'BullShark'<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker Carbine 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine: Gunrunner<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_PR2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine: Gunrunner EX<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_PR3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine: Gunrunner EX-II<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_PR3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker Carbine "Punchline"<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_PR4_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine: Gunrunner EX-III<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Perm_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR115 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot1_Perm_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR115 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR215 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot2_Perm_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR215 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR315 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR315 Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot3_Valentines_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 'Casanova'<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot3_Valentines_Leased_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 'Casanova'<Color:/>
+InventoryItemTypes_Weapon_Rifle_JokerCarbine_Slot3_Viper_FC_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker SR15 'Viper' Carbine<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"OBIR.1 "Desert Storm"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_PR2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"OBIR.2 "Desert Storm Mk-II"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_PR3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"OBIR.3 "Desert Storm Mk-III"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_PR3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"OBIR "Vladivostok"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_PR4_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"OBIR.4 "Desert Storm Mk-IV"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Perm_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR NFCP 1<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot2_Militant_FC_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR NFCP 2 'Militant'<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot3_Valentines_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR "Heartache"<Color:/>
+InventoryItemTypes_Weapon_Rifle_OBIR_Slot3_Valentines_Leased_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OBIR "Heartache"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya CR762.1 "Artic Blaze"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_PR2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya CR762.2 "Artic Blaze Mk-II"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_PR3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya CR762.3 "Artic Blaze Mk-III"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_PR3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya CR762 "Below-Zero"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_PR4_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya CR762.4 "Artic Blaze Mk-IV"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Perm_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 NFCP 1<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot2_WinterSpecOps_FC_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 NFCP 2 'Winter'<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot3_HighTech_FC_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 'Cyborg'<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot3_Valentines_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 'Heartbreaker'<Color:/>
+InventoryItemTypes_Weapon_Rifle_Obeya_Slot3_Valentines_Leased_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya CR762 'Heartbreaker<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Dev_GG2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR 'Bricklayer'<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_PR3_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR NFCP 1<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot1_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR JT1<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot3_Valentines_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR "Sweetheart"<Color:/>
+InventoryItemTypes_Weapon_Rifle_Oscar_Slot3_Valentines_Leased_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OSCAR "Sweetheart"<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Scope_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Scope_PR3_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 - Scope<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Scope_Slot3_5Day_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 - Scope<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Scope_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 - Scope R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Stock_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 Tactical<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR-Stock_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 Tactical R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 R&D III<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR_Slot3_GunGame_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 JT3<Color:/>
+InventoryItemTypes_Weapon_Rifle_SACR_Slot3_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>STAC 10 JT3<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot1_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner' JT1<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot3_5Day_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot3_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Slot3_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR 'Coroner' JT3<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Legends_C_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR Coroner 'Terminus'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SBSR_Legends_E_Slot3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SBSR Coroner 'Lenda'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Hoplite'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR-Bipod_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Broadside'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR-Bipod_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Broadside'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR-Stock_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Spartan'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR-Stock_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Spartan'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Hoplite'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR_Slot3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Hoplite'<Color:/>
+InventoryItemTypes_Weapon_Rifle_SLR_Slot3_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya SLR-762 'Hoplite' JT3<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR_Base<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR-SD_PR3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR 'Temptress'<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR-SD_PR3_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR 'Temptress'<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR_Silencer_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR_Silencer<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR_Slot2_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR 'Huntress'<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR 'Huntress'<Color:/>
+InventoryItemTypes_Weapon_Rifle_VBR_Stock_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>VBR_Stock<Color:/>
+;
+;                        SMG 
+;
+InventoryItemTypes_Weapon_SMG_ACES_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Agrotech ACES<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES-Rifle_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Agrotech ACES Rifle<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES-Rifle_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Agrotech ACES Rifle JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES-Rifle_PR3_GG_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Agrotech ACES Rifle<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES-Rifle_Slot1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Agrotech ACES Rifle JT2<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES-Rifle_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Agrotech ACES Rifle R&D III<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Agrotech ACES JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Agrotech ACES JT2<Color:/>
+InventoryItemTypes_Weapon_SMG_ACES_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Agrotech ACES R&D III<Color:/>
+InventoryItemTypes_Weapon_SMG_Apoc-Plague_Slot3_5Day_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>H-9 'Curse'<Color:/>
+InventoryItemTypes_Weapon_SMG_Apoc-Plague_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>H-9 'Curse'<Color:/>
+InventoryItemTypes_Weapon_SMG_Apoc_Plague_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Apocalypse_Plague<Color:/>
+InventoryItemTypes_Weapon_SMG_Apoc_Plague_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>H-9 'Curse' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_Apoc_Plague_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>H-9 'Curse' JT3<Color:/>
+InventoryItemTypes_Weapon_SMG_C9-SD-Sight_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9S EX-III<Color:/>
+InventoryItemTypes_Weapon_SMG_C9-SD_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9S EX-III<Color:/>
+InventoryItemTypes_Weapon_SMG_C9-SD_Slot3_GunGame_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9S EX-III JT2 PR1<Color:/>
+InventoryItemTypes_Weapon_SMG_C9-Sight_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9 'Hornet'<Color:/>
+InventoryItemTypes_Weapon_SMG_C9S_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>C9S Base<Color:/>
+InventoryItemTypes_Weapon_SMG_C9S_Sight_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>C9S Sight<Color:/>
+InventoryItemTypes_Weapon_SMG_C9_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>C9 Base<Color:/>
+InventoryItemTypes_Weapon_SMG_C9_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9<Color:/>
+InventoryItemTypes_Weapon_SMG_C9_Sight_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>C9 Sight<Color:/>
+InventoryItemTypes_Weapon_SMG_C9_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9 'Wasp'<Color:/>
+InventoryItemTypes_Weapon_SMG_C9_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9 JT3<Color:/>
+InventoryItemTypes_Weapon_SMG_C9-SD-Sight_Slot3_ArmasJB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Joker C9S 'Prototype'<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CAP40<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40-C_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40-C_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40-C  NFCP 2<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40-C_Slot2_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40-C  NFCP 2<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40-C_Slot3_5Day_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40-C<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40_Slot2_ArmasJB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40 'Sergeant'<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40 'Sergeant'<Color:/>
+InventoryItemTypes_Weapon_SMG_CAP40_Slot2_RUSJB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Obeya CAP40 'Sergeant'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP-Compact_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Bolt'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Arrow'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Arrow'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Dart'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Compact_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Bolt'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Dart'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Dart'<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Dart' JT3<Color:/>
+InventoryItemTypes_Weapon_SMG_CBMP_Tactical_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>CBMP-45 'Arrow'<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Fanatic_Sight<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_Slot1_GunGame_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>S1-NA 'Manic' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>S1-NA 'Manic' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_Slot3_5Day_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>S1-NA 'Manic'<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>S1-NA 'Manic'<Color:/>
+InventoryItemTypes_Weapon_SMG_Fanatic_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>S1-NA 'Manic' JT3<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Hel_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Hel'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Hel_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Hel'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Hoenir_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Hoenir'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Hoenir_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Hoenir'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Odin_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Odin'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Odin_PR3_GG_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Odin'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Tyr_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Tyr'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen-Tyr_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norseman 'Tyr'<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norsemen Base<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen_FoldingStock_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norsemen Folding Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen_Sight_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norsemen Sight<Color:/>
+InventoryItemTypes_Weapon_SMG_Norsemen_Silenced_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Norsemen Silenced<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626-SD<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_PR1_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.1-SD "Sidewinder"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_PR2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.2-SD "Silverado""<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_PR2_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.2-SD "Silverado"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_PR2_Gold_FC_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.4 SD "Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.4-SD "Iron Reaper"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_Slot1_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626-SD NFCP1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_Slot2_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626-SD NFCP2<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-SD_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626-SD NFCP3<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_PR1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.1 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_PR2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.2 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_PR3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.4 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_Slot1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 1 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 2 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_Slot3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 3 Stock<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Stock_Slot3_Fireball_FC_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP3 'Fireball'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR1_Joker_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR1_RT_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' RT1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR1_RT_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' RT1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR2_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' PR1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR2_Armas_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' PR1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR2_Gold_FC_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.4 Whisper "Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' PR2<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_PR3_Armas_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' PR2<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_Slot1_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' NFCP 1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_Slot1_Armas_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' NFCP 1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA-Whisper_Slot1_Joker_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 'Whisper' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_PR1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.1 "Sidewinder"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_PR2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.2 "Silverado"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_PR3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.3 "Red Dawn"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_PR4_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>"OCA-EW 626.4 "Iron Reaper"<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Perm_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot1_Perm_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 1<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 2<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot2_Perm_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 2<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot2_UK_FC_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626.3 'Union Flag'<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 3<Color:/>
+InventoryItemTypes_Weapon_SMG_OCA_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>OCA-EW 626 NFCP 3<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57_Base<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S_Base<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Scoped_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S_Scoped<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Scoped_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Sight_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S_Sight<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Sight_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57-S_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57-S<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Scoped_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57_Scoped<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Scoped_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57 'Stiletto'<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Silenced_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW57_Silenced<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Silenced_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57 'Kris'<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57 JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57 'Dagger'<Color:/>
+InventoryItemTypes_Weapon_SMG_PDW57_Slot3_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PDW-57 JT3<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_PR1_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Murmur' PR1<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_PR2_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Murmur' PR2<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_Slot1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Hush' X-I<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_Slot1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Hush' JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Hush' X-II<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_Slot2_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Hush' JT2<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG-SD_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG-SD 28 'Hush' X-III<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Dev_GG2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>PMG-SD 'Staple Gun'<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_PR1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28: TROJAN X-I<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_PR2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28: TROJAN X-II<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_PR3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28: TROJAN X-III<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_PR3_Armas_RUS_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28 PR3<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_PR4_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28: TROJAN X-IV<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Perm_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG 28<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Slot1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG Mk 2<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG Mk 3<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Slot3_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG Mk 4<Color:/>
+InventoryItemTypes_Weapon_SMG_PMG_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby PMG Mk 4<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR1_Valentines_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Chopper'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR1_Valentines_Leased_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Chopper'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR2_ArmasJB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Hazardous'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR2_ArmasJB_NoTrade_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Hazardous'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR2_RUSJB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Hazardous'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR2_Valentines_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Big Chopper'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR2_Valentines_Leased_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Big Chopper'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_PR3_GG_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_Slot2_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 Mk2<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_Slot3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 Mk3<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_Slot3_USA_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>Colby M-1922 'Uncle Sam'<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_TestVarient_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>DNT - TEST VARIENT A<Color:/>
+InventoryItemTypes_Weapon_SMG_TommyGun_TestVarientB_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>DNT - TEST VARIENT B<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2-SD_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2 PR3 'Trouble Maker'<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2-Sight_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2 PR3 'Tin Soldier'<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_Base_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_PR1_Joker_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2 JT1<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_PR3_Armas_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2 PR3 'Entente'<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_Sights_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_Silenced_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS-C2<Color:/>
+InventoryItemTypes_Weapon_SMG_VAS-C2_Slot1_DisplayName=<Color:R=0.290196 G=0.003922 B=0.72549>VAS C2 NFCP 1<Color:/>
+;
+;                        Assault 
+;
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC-Bodyguard_PR2_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"ATAC 424 "Bodyguard"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC-Mercenary_PR2_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"ATAC 424 "Mercenary"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC-Watchman_PR3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"ATAC 424 "Watchman"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC-Watchman_PR3b_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424 PR3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Armas_Preset_FN1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"ATAC 424 "Patroller"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Slot1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424 NFCP 1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Slot1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424 JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Slot2_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424 JT2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ATAC_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ATAC 424 NFCP 3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Apoc-Famine_Slot1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>AR-97 'Misery' JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Apoc-Famine_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>AR-97 'Misery'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Apoc-Famine_Slot3_GunGame_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>AR-97 'Misery'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Apoc-Famine_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>AR-97 'Misery' JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Apoc_Famine_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Apocalypse_Famine<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>COBR-A<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"COBR-A "Venom"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Scoped_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>COBR-A Scoped<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Scoped_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"COBR-A "Adder"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>COBR-A "Venom" NFCP 2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Slot3_5Day_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"COBR-A "Venom"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"COBR-A "Venom"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Slot3_GunGame_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>COBR-A "Venom" JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_COBR-A_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>COBR-A "Venom" JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_CBS_Slot1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"Joker CR-5 "CBS"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Gold_Slot3_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_PR1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 PR1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_PR2_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 PR2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_PR3_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 PR3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_PR3_GG_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Slot3_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_CR5_Tactical_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Joker CR-5 'Tactical'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR-FoldedStock_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Charger' NFCP 2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR-FoldedStock_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Charger'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR-Sight_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Spearhead'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Base_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Assault Rifle FAR Base<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Sight_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Slot1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard' JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard' NFCP 2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Slot3_5Day_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>FAR 'Vanguard' JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_FAR_Stock_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Assault Rifle FAR Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Fanatic_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>S1-FA 'Frenzy'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Fanatic_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>S1-FA 'Frenzy'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Fanatic_Slot3_GG_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>S1-FA 'Frenzy'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Fanatic_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>S1-FA 'Frenzy'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-ISSR-A<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR-FoldedStock_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-ISSR-A<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR-FoldedStock_PR3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a PR3 'Artemis'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR-Stock_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-ISSR-a<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR-Stock_Kingdom_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ISSR-C 'Kingdom'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR-Stock_PR3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a PR3 'Diana'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR_PR3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a PR3 'Bendis'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a Adeen<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_ISSR_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>ISSR-a JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-7_Compact_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>NTEC-7c<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-7_Compact_GunGame_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>NTEC-7c 'New Glory'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-7_Compact_Slot2_ArmasJB_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>NTEC-7c 'New Glory'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-7_Compact_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>NTEC-7c Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-7_Compact_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>NTEC-7c Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Joker_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 PR1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 PR1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_Joker_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_RT_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 RT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR1_RT_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 RT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR2_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 PR2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR2_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 PR2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_PR3_WinterSpecOps_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 'Spec-Ops'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Slot1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 Nol<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Slot1_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 Nol<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Scope_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Scoped N-TEC 5 Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Nol Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Adeen Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Dvah Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_CopsBane_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 'Cops-Bane' Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_CrimSlayer_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 'Crim-Slayer' Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_Gold_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Dvah 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_Militant_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 'Militant' Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC-Stock_Slot3_Paramilitary_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 'Paramilitary'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC7_Slot1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 7 Nol<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC7_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 7 Adeen<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC7_Slot2_ArmasJB_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 7 'Ursus'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC7_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 7 'Ursus'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC7_Slot2_RUSJB_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 7 'Ursus'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Dev_GG3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_PR1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"N-TEC 5a "Kasatka"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_PR2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"N-TEC 5b "KasatkaV2"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_PR3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"N-TEC 5c "Kasatka V3"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_PR3_Slot3_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 PR3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_PR4_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"N-TEC 5d "Kasatka V4"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Perm_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Nol<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot1_Perm_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Nol<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Adeen<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot2_Perm_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Adeen<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot2_USA_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Adeen 'USA Flag'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_NTEC_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>N-TEC 5 Dvah<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>raptor_base<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor-Foregrip_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>raptor_foregrip<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor-Sight_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>raptor_sight<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor-Sight_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Vulture'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_PR1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Hawk' JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Hawk'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_Slot2_ArmasJB_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Condor'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Condor'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Raptor_Slot2_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Raptor 45 'Hawk' PR1 JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR1_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' PR1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR1_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' PR1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR2_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' PR2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR2_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' PR2<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_5Day_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 'LCR' "Old Glory"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 'LCR' "Old Glory"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' R&D III<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' R&D III<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' "Love Gun"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Leased_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' "Love Gun"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Dev_GG_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 "Deadeye""<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 I "Army Ant"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR1_Valentines_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'Love-Gun'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 II "Mantis"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 III "Spider"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR3_Armas_RUS_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 PR3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_PR4_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>"STAR 556 IV "Scorpion"<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot1_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 R&D I<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot2_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 R&D II<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 R&D III<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 R&D III<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_Hazard_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'Hazard'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_UrbanSpecOps_FC_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 R&D III 'Urban Spec-Ops'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_Valentines_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'Love-Gun' R&D III<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_STAR_Slot3_Valentines_Leased_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'Love-Gun'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Star-LCR_PR1_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>STAR 556 'LCR' JT1<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Base_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2_Base<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Base_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2 'Sword'<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Base_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2 'Sword' NFCP 3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Base_Slot3_Joker_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2 'Sword' JT3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Sights_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2_Sights<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Sights_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2 'Scepter' NFCP 3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Silenced_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2_Silenced<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VAS-R2-Silenced_Slot3_Armas_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>VAS-R2 'Crown' NFCP 3<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_Vespa_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Vespa<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VespaStock_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Vespa Stock<Color:/>
+InventoryItemTypes_Weapon_AssaultRifle_VespaTactical_DisplayName=<Color:R=0.384314 G=0.003922 B=0.54902>Vespa Tactical<Color:/>
+;
+;                        Sniper 
+;
+InventoryItemTypes_Weapon_SniperRifle_Apoc-Death_Slot3_5Day_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>S-247 'Oblivion'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Apoc-Death_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>S-247 'Oblivion'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Apoc_Death_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Apocalypse_Death<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Apoc_Death_PR3_GG_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>S-247 'Oblivion'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Apoc_Death_Slot1_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>S-247 'Oblivion' JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Apoc_Death_Slot3_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>S-247 'Oblivion' JT3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-SD<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR1_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR1_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR2_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR-AV_PR3_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-AV PR3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_PR1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"DMR-SD I "Assassin 5Zero R1"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_PR2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"DMR-SD II "Assassin 5Zero R2"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_PR3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"DMR-SD III "Assassin 5Zero R3"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_PR4_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"DMR-SD IV "Assassin 5Zero R4"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_Perm_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Agrotech DMR-SD<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_Slot1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DMR-SD R&D I<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_Slot2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DMR-SD R&D II<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_Slot3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DMR-SD R&D III<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_DMR_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DMR-SD R&D III<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR1_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR2_Gold_FC_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD Scout PR2 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR2_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PR3_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD PR3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_PurpleCat_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"N-HVR 243-SD "PurpleCat"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_Reaper_ArmasJB_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD 'Reaper'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_Reaper_ArmasJB_NoTrade_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD 'Reaper'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_Reaper_RUSJB_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD 'Reaper'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243-SD_Sluttles_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243-SD 'Sluttles'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Dev_GG3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Joker_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR1_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR1_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR1_RT_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' RT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR1_RT_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' RT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_PR2_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot1_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot1_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot1_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot1_Joker_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Scout' JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot2_RUSJB_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Sitting Duck'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot2_SittingDuck_ArmasJB_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Sitting Duck'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot2_SittingDuck_ArmasJB_NoTrade_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Sitting Duck'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot3_Valentines_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Cupid's Arrow'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR243_Slot3_Valentines_Leased_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Cupid's Arrow'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Golden N-HVR 762-SD Dvah<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_PR2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_PR2_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_PR2_Gold_FC_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD PR2 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_PR3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_PR3_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_Slot2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762-SD_Slot2_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762-SD Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Dev_GG2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-SPiN 3310<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Dev_GG3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"N-HVR 762a "Akula"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"N-HVR 762b "Akula V2"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"N-HVR 762c "Akula V3"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR3a_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 PR3a<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR3b_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 PR3b<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_PR4_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>"N-HVR 762d "Akula V4"<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Perm_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot1_Perm_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Nol<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot2_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Adeen<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot2_Perm_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Adeen<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Dvah<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 Dvah<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Slot3_Rapid99_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762c 'Rapid-99'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_HVR762_Vivi_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 762 "Vivi" Dvah<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Dogear_Slot2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Dog-Ear'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot1_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Recon'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Recon'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Wisp_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Wisp' JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Wisp'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_GunGame_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Wisp' JT1 PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-ISSR-B 'Wisp' JT2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Jump_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>N-HVR 243 'Jump Shootest'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_NCR_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>NCR-762<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_NCR-Anubis_Slot2_ArmasJB_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>NCR-762 'Anubis'  Adeen<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_NCR-Anubis_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>NCR-762 'Anubis'  Adeen<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_NCR-Anubis_Slot2_NoTrade_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>NCR-762 'Anubis'  Adeen<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_NCR_PR3_GG_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>NCR-762<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DNT - PSR Dev-Test<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-Brake_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR 'Harrier'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-Brake_Slot3_5Day_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR 'Harrier'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-Brake_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR 'Harrier' R&D III<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-SD_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>DNT - PSR-SD Dev-Test<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-SD_PR3_GG_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR-SD<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR-SD_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR 'Osprey' R&D III<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR 'Kite' R&D III<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_PSR_Slot3_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>PSR JT3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-LR_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder LR<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-LR_PR1_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder LR PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-LR_PR2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder LR PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-SD_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder SD<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-SD_PR1_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder SD PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-SD_PR2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder SD PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder-SD_PR3_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder SD PR3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_PR1_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder PR1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_PR1_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_PR2_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder PR2<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Pathfinder_PR3_Armas_RUS_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Pathfinder PR3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR_<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_Slot1_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR 'IRS' JT1<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_Slot3_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR 'IRS'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_Slot3_5Day_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR 'IRS'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_Slot3_Armas_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR 'IRS'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_SBSR_Slot3_Joker_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>SBSR 'IRS' JT3<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VAS-PR1_Base_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471><Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VAS-PR1_Sights_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471><Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VAS-PR1_Silenced_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471><Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VBR-Stock_Enchantress_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>VBR 'Enchantress'<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_Vesper_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Vesper<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VesperFoldingStock_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Vesper Folding Stock<Color:/>
+InventoryItemTypes_Weapon_SniperRifle_VesperTactical_DisplayName=<Color:R=0.47451 G=0.003922 B=0.376471>Vesper Tactical<Color:/>
+;
+;                        Shotgun 
+;
+InventoryItemTypes_Weapon_Shotgun_Apoc-War_PR2_GG_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>SG-21 'Strife'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Apoc-War_Slot3_5Day_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>SG-21 'Strife'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Apoc-War_Slot3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>SG-21 'Strife'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Apoc_War_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Apocalypse_War<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Apoc_War_Slot1_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>SG-21 'Strife' JT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Apoc_War_Slot3_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>SG-21 'Strife' JT3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_Joker_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 PR1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_Armas_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 PR1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_Gold_FC_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>CSG-20 Mk3 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 JT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_Joker_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 JT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_RT_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 RT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR1_RT_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 RT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR2_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 PR2<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR2_Armas_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 PR3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR2_Valentines_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>CSG-20 'Speed-Dater'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR2_Valentines_Leased_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>CSG-20 'Speed-Dater'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR3_CountryGent_FC_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"CSG-20 "Country Gent"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_PR3_CountryGent_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"CSG-20 "Country Gent"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_Slot1_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 Mk2<Color:/>
+InventoryItemTypes_Weapon_Shotgun_CSG_Slot1_Armas_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Colby CSG-20 Mk2<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Base_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Base<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_FoldedStock_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Jokerbox<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Slot2_ArmasJB_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW 'Thumper'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW 'Thumper'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Stock_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Stock<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Stock_Slot2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Stock NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Stock_Slot3_5Day_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Stock<Color:/>
+InventoryItemTypes_Weapon_Shotgun_DOW_Stock_Slot3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>DOW Stock NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-840<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-840 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_PR1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-841 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_PR2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-843 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_PR3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-844 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_PR3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"JG-1140 "Knock-Knock"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_PR3_Armas_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"JG-1140 "Knock-Knock"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_slot1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-940 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_slot2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1040 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG-Stock_slot3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1140 Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Dev_GG3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_PR1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-841: Firecracker<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_PR2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-842: Firecracker EX<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_PR3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-843: Firecracker EX-II<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_PR4_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-844: Firecracker EX-III<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Perm_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-840<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-940<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot1_Perm_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-940<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1040<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot2_Hazard_FC_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1040 'Hazard'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot2_Perm_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1040<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1140<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1140<Color:/>
+InventoryItemTypes_Weapon_Shotgun_JG_Slot3_Gold_FC_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>JG-1140 Tac 'Gold-Plated'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS-Ogre_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS Ogre<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 'True Ogre'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_NoTrade_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 'True Ogre'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_RUSJB_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 'True Ogre'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS-Ogre_Slot3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS Ogre Dvah<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_PR1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12a "Red Star"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_PR2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12b "Red Star V2"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_PR3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12c "Red Star V3"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_PR3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12 "The Janitor"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_PR4_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12d "Red Star V4"<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Perm_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot1_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Nol<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot1_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Nol<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot2_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Adeen<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot2_Fireball_FC_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Adeen 'Fireball'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot3_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Dvah<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NFAS_Slot3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>NFAS-12 Dvah<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NL9_Slug_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>RHD LS1 'Corsair'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NL9_Slug_Dev_GG_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"RHD LS1 "Cannon""<Color:/>
+InventoryItemTypes_Weapon_Shotgun_NL9_Slug_GunGame_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>RHD LS1 'Corsair'<Color:/>
+InventoryItemTypes_Weapon_Shotgun_RocketShotgun_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>"NFAS-12 "Carnage""<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder SB<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder-DrumMag_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder DF<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder-DrumMag_PR3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder DF PR3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder-Torch_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder EB<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder-Torch_PR3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder EB PR3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder SB<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_PR3_GG_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder DF PR3<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_Slot1_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder SB JT1<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_Slot3_5Day_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder SB<Color:/>
+InventoryItemTypes_Weapon_Shotgun_Shredder_Slot3_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Shredder SB R&D III<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Stock_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Stock<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Stock_PR2_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Stock<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Stock_PR2_Armas_RUS_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Stock<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Tactical_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Tactical_PR2_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20-Tactical_PR3_GG_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 - Tactical<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20_PR2_Armas_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20<Color:/>
+InventoryItemTypes_Weapon_Shotgun_TAS20_Slot1_Joker_DisplayName=<Color:R=0.568627 G=0.003922 B=0.203922>Joker TAS20 JT1<Color:/>
+;
+;                        LMG 
+;
+InventoryItemTypes_Weapon_LMG_ALIG762_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR1_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"ALIG 762 "Commando 76Two R1"<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"ALIG 762 "Commando 76Two R2"<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR3_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"ALIG 762 "Commando 76Two R3"<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"ALIG 762 "Surefire"<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR3a_Armas_RUS_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762 PR3<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_PR4_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"ALIG 762 "Commando 76Two R4"<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_Perm_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_Slot1_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762 R&D I<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_Slot2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762 R&D II<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_Slot3_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762 R&D III<Color:/>
+InventoryItemTypes_Weapon_LMG_ALIG762_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>ALIG 762 R&D III<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG-Compact_Slot1_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Stheno' JT1<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG-Compact_Slot2_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Stheno'<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG-Compact_Slot2_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Stheno' JT2<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG-Compact_Slot3_5Day_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Stheno'<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Base_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG - Base<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Bipod_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG - Bipod<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Compact_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG - Compact<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_PR3_GG_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Jingle-Bell'<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Slot2_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Euryale'<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Slot2_ArmasJB_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Medusa'<Color:/>
+InventoryItemTypes_Weapon_LMG_AMG_Slot2_ArmasJB_NoTrade_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>AMG-556 'Medusa'<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE-Handle_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE 'The Bolo'<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE-Handle_GG_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE 'The Bolo'<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE-Handle_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE 'The Bolo' NFCP 3<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE-Sight_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE - Sight<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE-Sight_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE 'The K.O.'<Color:/>
+InventoryItemTypes_Weapon_LMG_CASE_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>CASE 'The Haymaker'<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid'<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_PR3_GG_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid'<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_Slot1_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid' JT1<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_Slot3_5Day_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid'<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid'<Color:/>
+InventoryItemTypes_Weapon_LMG_Fanatic_Slot3_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>S1-TIC 'Rabid' JT3<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW-K_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"N-SSW 74 "Kraken"<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW-K_PR3_PR3_GG_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"N-SSW 74 "Kraken"<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_Joker_Slot1_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74 JT1<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_Joker_Slot3_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74 JT3<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_PR3_Armas_RUS_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74 PR3<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_Slot2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74 Adeen<Color:/>
+InventoryItemTypes_Weapon_LMG_NSSW_Slot3_5Day_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>N-SSW 74<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_PR1_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"SHAW 556 I "Badger"<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_PR2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"SHAW 556 II "Wolf"<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_PR3_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"SHAW 556 III "Lion"<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 "First Blood" PR3<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_PR4_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>"SHAW 556 IV "Bear"<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Perm_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Slot1_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 R&D I<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Slot2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 R&D II<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Slot2_Fireball_FC_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 R&D II 'Fireball'<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Slot3_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 R&D III<Color:/>
+InventoryItemTypes_Weapon_LMG_SHAW556_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SHAW 556 R&D III<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm-Handle_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM 'Yellow Jacket'<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Base_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM Base<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Handle_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Sight_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM Sight<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Sight_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM 'Locust'<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Slot1_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM 'Killer Bee' JT1<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Slot2_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM NFCP 2<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM 'Killer Bee'<Color:/>
+InventoryItemTypes_Weapon_LMG_Swarm_Slot3_Joker_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>SWARM 'Killer Bee' JT3<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Base_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Base_Slot3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2 'Empire' NFCP 3<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Handle_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2 Handle<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Handle_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2 'Saxon' PR3<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Sights_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2 Sights<Color:/>
+InventoryItemTypes_Weapon_LMG_VAS-SW2-Sights_PR3_Armas_DisplayName=<Color:R=0.658824 G=0.003922 B=0.027451>VAS SW2 'Union' PR3<Color:/>
+;
+;                        Explosive 
+;
+InventoryItemTypes_Weapon_Explosive_AAEPD_DisplayName=<Color:R=0.501961 G=0.301961 B=1>AAEPD<Color:/>
+InventoryItemTypes_Weapon_Explosive_AAEPD_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>AAEPD<Color:/>
+InventoryItemTypes_Weapon_Explosive_AAEPD_PR3_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>AAEPD<Color:/>
+InventoryItemTypes_Weapon_Explosive_AAEPD_Slot3_ArmasJB_DisplayName=<Color:R=0.501961 G=0.301961 B=1>AAEPD "Volcano"<Color:/>
+InventoryItemTypes_Weapon_Explosive_AAEPD_Slot3_ArmasJB_NoTrade_DisplayName=<Color:R=0.501961 G=0.301961 B=1>AAEPD "Volcano"<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Conc_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Deep Impact'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Concussion_PR1_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Deep Impact'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Deep Impact' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_NoTrade_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Deep Impact' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Frag_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Kickback'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-LightFrag_PR1_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Kickback'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-LightFrag_Slot3_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Kickback' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-LightFrag_Slot3_Armas_NoTrade_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Kickback' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Perc_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'The Hammer'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Percussion_PR1_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'The Hammer'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Percussion_Slot3_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'The Hammer' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL-Percussion_Slot3_Armas_NoTrade_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'The Hammer' Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL_Launcher_Dev_GG2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL 'Snowstorm'<Color:/>
+InventoryItemTypes_Weapon_Explosive_EOL_Slot3_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>EOL Mk4<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"O-PGL 79R.1 "Thunder Strike"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_PR2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"O-PGL 79R.2 "Thunder Strike Mk-II"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_PR3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"O-PGL 79R.3 "Thunder Strike Mk-III"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_PR4_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"O-PGL 79R.4 "Thunder Strike Mk-IV"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Slot1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R NFCP 1<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Slot2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Slot3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Slot3_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79R NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Slot3_Joker_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Golden O-PGL JT3<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball-Automatic_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL Auto<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball-Automatic-Nutcracker_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL Auto<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball-Automatic_Missions_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL Auto<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball-Fairy_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Snowball-Nutcracker_DisplayName=<Color:R=0.501961 G=0.301961 B=1>HoHoHoPGL<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Armas_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Bastard_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW NFCP 3 'BASTARD'<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Dev_GG3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_GG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Joker_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Golden OSMOWO<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"OSMAW.1 "Red Beard"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_PR2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"OSMAW.2 "Little Boy"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_PR3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"OSMAW.3 "Thin Man"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_PR4_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"OSMAW.4 "Fat Man"<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Slot1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW NFCP 1<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Slot2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW NFCP 2<Color:/>
+InventoryItemTypes_Weapon_Explosive_OSMAW_Slot3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>OSMAW NFCP 3<Color:/>
+InventoryItemTypes_Weapon_Explosive_OPGL_Easter-Automatic_Missions_DisplayName=<Color:R=0.35 G=0.80 B=0.89>E<Color:/><Color:R=0.96 G=0.66 B=0.72>g<Color:/><Color:R=1 G=1 B=1>g<Color:/><Color:R=0.35 G=0.80 B=0.89>-<Color:/><Color:R=0.96 G=0.66 B=0.72>L<Color:/><Color:R=1 G=1 B=1>a<Color:/><Color:R=0.35 G=0.80 B=0.89>u<Color:/><Color:R=0.96 G=0.66 B=0.72>n<Color:/><Color:R=1 G=1 B=1>c<Color:/><Color:R=0.35 G=0.80 B=0.89>h<Color:/><Color:R=0.96 G=0.66 B=0.72>e<Color:/><Color:R=1 G=1 B=1>r<Color:/>
+InventoryItemTypes_Weapon_Minigame_OPGL_Easter_DisplayName=<Color:R=0.35 G=0.80 B=0.89>E<Color:/><Color:R=0.96 G=0.66 B=0.72>g<Color:/><Color:R=1 G=1 B=1>g<Color:/><Color:R=0.35 G=0.80 B=0.89>-<Color:/><Color:R=0.96 G=0.66 B=0.72>L<Color:/><Color:R=1 G=1 B=1>a<Color:/><Color:R=0.35 G=0.80 B=0.89>u<Color:/><Color:R=0.96 G=0.66 B=0.72>n<Color:/><Color:R=1 G=1 B=1>c<Color:/><Color:R=0.35 G=0.80 B=0.89>h<Color:/><Color:R=0.96 G=0.66 B=0.72>e<Color:/><Color:R=1 G=1 B=1>r<Color:/>
+;
+;                        Less Than Lethal / LTL 
+;
+InventoryItemTypes_Weapon_LTL_CCG_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Stabba - CCG<Color:/>
+InventoryItemTypes_Weapon_LTL_CCG_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - CCG "Keravnos"<Color:/>
+InventoryItemTypes_Weapon_LTL_CCG_PR2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - CCG "Bronth"<Color:/>
+InventoryItemTypes_Weapon_LTL_CCG_PR3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - CCG "Astraph"<Color:/>
+InventoryItemTypes_Weapon_LTL_CCG_PR4_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - CCG "Zeus"<Color:/>
+InventoryItemTypes_Weapon_LTL_DartGun_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Stabba - TG-8<Color:/>
+InventoryItemTypes_Weapon_LTL_DartGun_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - TG-8 "Thunderbolt"<Color:/>
+InventoryItemTypes_Weapon_LTL_GrenadeLauncher_DisplayName=<Color:R=0.501961 G=0.301961 B=1>O-PGL 79 CD<Color:/>
+InventoryItemTypes_Weapon_LTL_Tazer_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Stabba - PIG<Color:/>
+InventoryItemTypes_Weapon_LTL_TazerShotgun_DisplayName=<Color:R=0.501961 G=0.301961 B=1>Stabba - NL9<Color:/>
+InventoryItemTypes_Weapon_LTL_TazerShotgun_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - NL9 "Indra"<Color:/>
+InventoryItemTypes_Weapon_LTL_TazerShotgun_PR2_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - NL9 "Enlil"<Color:/>
+InventoryItemTypes_Weapon_LTL_TazerShotgun_PR3_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - NL9 "Inazuma"<Color:/>
+InventoryItemTypes_Weapon_LTL_TazerShotgun_PR4_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - NL9 "Thor"<Color:/>
+InventoryItemTypes_Weapon_LTL_Tazer_PR1_DisplayName=<Color:R=0.501961 G=0.301961 B=1>"Stabba - PIG "Susanowo"<Color:/>
+;
+;                        Pistol 
+;
+InventoryItemTypes_Weapon_Pistol_ACT44_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-GM_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44 GM JT1<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-GM_PR1a_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44 GM PR1<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-GM_PR1a_Armas_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44 GM PR1<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-GM_PR1b_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44 GM PR2<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-GM_PR1b_Armas_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>ACT 44 GM PR2<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-LS_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"ACT 44 "Last Stand"<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44-LS_PR1_RT_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"ACT 44 "Last Stand"<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44_FN1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"ACT 44 "Pillager"<Color:/>
+InventoryItemTypes_Weapon_Pistol_ACT44_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"ACT 44  "Executioner 4Four"<Color:/>
+InventoryItemTypes_Weapon_Pistol_Apoc_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Apocalypse_Revolver<Color:/>
+InventoryItemTypes_Weapon_Pistol_Apoc_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>R-2 'Harbinger'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Apoc_DA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>R-2 'Harbinger'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Apoc_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>R-2 'Harbinger' JT<Color:/>
+InventoryItemTypes_Weapon_Pistol_Blowtorch_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Blowtorch<Color:/>
+InventoryItemTypes_Weapon_Pistol_Colby45AP_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby .45 AP<Color:/>
+InventoryItemTypes_Weapon_Pistol_Colby45AP_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby .45 AP<Color:/>
+InventoryItemTypes_Weapon_Pistol_Colby45AP_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby .45 AP<Color:/>
+InventoryItemTypes_Weapon_Pistol_Colby45AP_PR1_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby .45 AP<Color:/>
+InventoryItemTypes_Weapon_Pistol_ColbyCommander_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby Classic<Color:/>
+InventoryItemTypes_Weapon_Pistol_ColbyCommander_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby Commander<Color:/>
+InventoryItemTypes_Weapon_Pistol_ColbyCommander_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby Commander<Color:/>
+InventoryItemTypes_Weapon_Pistol_ColbyCommander_PR1_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby Commander<Color:/>
+InventoryItemTypes_Weapon_Pistol_ColbyCommander_PR1_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby Commander<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW-SD PR1<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_Joker_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW-SD PR1<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_Kitteh_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya FBW-SD "Kitteh"<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW - SD<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_PR1_Armas_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW - SD<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_PR1a_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW - SD<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW-SD_PR1a_Armas_RUS_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW - SD<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Obeya FBW 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Pistol_FBW_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Obeya FBW "Sight Zero"<Color:/>
+InventoryItemTypes_Weapon_Pistol_FlareGun_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Flare Gun<Color:/>
+InventoryItemTypes_Weapon_Pistol_FlareGun-Dev_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Flare Gun - Dev Edition<Color:/>
+InventoryItemTypes_Weapon_Pistol_FlareGun_Fireworks_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Firework Launcher<Color:/>
+InventoryItemTypes_Weapon_Pistol_FlareGun_Fireworks_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Firework Launcher<Color:/>
+InventoryItemTypes_Weapon_Pistol_FlareGun_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Flare Gun<Color:/>
+InventoryItemTypes_Weapon_Pistol_Flaregun_Fireworks_RUSJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Firework Launcher<Color:/>
+InventoryItemTypes_Weapon_Pistol_Flaregun_Minigame_Infection_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Ghostly Flare Gun<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Kokoe_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Kokoe'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Kokoe_PR1_Armas_OTW_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Kokoe' PR1 OTW<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Rocket_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Rocket' JT1<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Rocket_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Rocket'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Rocket_PR1_Armas_OTW_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Rocket' PR1 OTW<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog-Thumbnail_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Thumbnail'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G<Color:/>
+InventoryItemTypes_Weapon_Pistol_Frog_DA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>FR0G 'Thumbnail'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Joker_M9_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker M9<Color:/>
+InventoryItemTypes_Weapon_Pistol_Joker_M9_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker M9S 'Pulse Check'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie-Yukon_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie 'NorthWest'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie_DA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie 'Nunavut'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie 'Nunavut'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie SF9 'Yukon'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Mountie SF9 'Yukon'<Color:/>
+InventoryItemTypes_Weapon_Pistol_NFA9_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>N-FA 9<Color:/>
+InventoryItemTypes_Weapon_Pistol_NFA9_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"N-FA 9 "Barrakuda"<Color:/>
+InventoryItemTypes_Weapon_Pistol_NFA9_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"N-FA 9 "Quickdraw"<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_DA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Connoisseur'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_PR1_DA-Assassin_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Assassin'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_PR1_DA-Chrome_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Chrome'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_PR1_DA-Connoisseur_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Connoisseur'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_PR1_DA-GlowInTheDark_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Glow'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Nano_PR1_DA-Gold_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Gold'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCA-Nano_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_ButcherSkin_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Butcher'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Connoisseur'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Connoisseur'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_Connoisseur_RUSJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCA Nano 'Connoisseur'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCANano_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>DNT - TEST DO NOT USE - OCA Nano 'Mobile'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant'<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Clubs_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Clubs<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Clubs_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Clubs<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Diamonds_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Diamonds<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Diamonds_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Diamonds<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Hearts_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Hearts<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Hearts_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Hearts<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Joker_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Joker<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Joker_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Joker<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Spades_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Spades<Color:/>
+InventoryItemTypes_Weapon_Pistol_OCSP-Spades_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>OCSP 'Kommandant' Spades<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker RFP-9<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9-SD_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker RFP-9-SD<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9-SD_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker RFP-9 "Talon"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9-SD_PR1_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker RFP-9 "Talon"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9-Sight_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Joker RFP-9-Scoped<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9-Sight_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker RFP-9 "Fang"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker RFP-9  "Swift Silver"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP9_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Joker RFP-9 "Comanche"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RFP_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>RFP-9 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Pistol_RSA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby RSA<Color:/>
+InventoryItemTypes_Weapon_Pistol_RSA_Dev_GG2_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby 'Fan the Hammer'<Color:/>
+InventoryItemTypes_Weapon_Pistol_RSA_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby RSA: TITAN<Color:/>
+InventoryItemTypes_Weapon_Pistol_RSA_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"Colby RSA "Hunter"<Color:/>
+InventoryItemTypes_Weapon_Pistol_RSA_PR1a_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby RSA: PROMETHEUS<Color:/>
+InventoryItemTypes_Weapon_Pistol_SASPDW_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>S-AS PDW<Color:/>
+InventoryItemTypes_Weapon_Pistol_SASPDW_PR1_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"S-AS PDW "Falcon"<Color:/>
+InventoryItemTypes_Weapon_Pistol_SASPDW_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"S-AS PDW "Hotfoot"<Color:/>
+InventoryItemTypes_Weapon_Pistol_SASPDW_PR1_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>"S-AS PDW "Hotfoot"<Color:/>
+InventoryItemTypes_Weapon_Pistol_Showstopper_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Showstopper<Color:/>
+InventoryItemTypes_Weapon_Pistol_Showstopper_PR1_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Showstopper 'Thunder'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Showstopper_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Showstopper 'Thunder'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Showstopper_PR1b_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Showstopper 'Quickdraw'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Showstopper_PR1b_Joker_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Showstopper 'Quickdraw'<Color:/>
+InventoryItemTypes_Weapon_Pistol_SnubNose_Dev_GG3_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby SNR 'Legacy'<Color:/>
+InventoryItemTypes_Weapon_Pistol_Snubnose_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby SNR 850<Color:/>
+InventoryItemTypes_Weapon_Pistol_Snubnose_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby SNR 850 PR1<Color:/>
+InventoryItemTypes_Weapon_Pistol_Snubnose_PR1_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby SNR 850<Color:/>
+InventoryItemTypes_Weapon_Pistol_Snubnose_PR1_Valentines_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Colby SNR 850 'Cherub'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3-SD_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Bloody Mary'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3-SD_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Bloody Mary'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3-Sight_PR1_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Hitchhiker'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3-Sight_PR1_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Hitchhiker'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_Base_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Jersey Devil'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_DA_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Jersey Devil'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Jersey Devil'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_NoTrade_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Jersey Devil'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_Sight_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Hitchhiker'<Color:/>
+InventoryItemTypes_Weapon_Pistol_UL3_Silencer_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>UL-3 'Bloody Mary'<Color:/>
+;
+;                        Grenade / Throwables 
+;
+InventoryItemTypes_Weapon_Grenade_Concussion_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Concussion Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_EMP_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>EMP Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_Frag_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Frag Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_LTL_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Stun Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_LightFrag_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Low-Yield Fragmentation Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_Percussion_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Percussion Grenade<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Brick_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Half-Brick<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Brick_GG_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Half-Brick<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_EightBall_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Eight-Ball<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Phone-Crim_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SPiN Phone<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Phone-Enf_Armas_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>SPiN Phone<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Snowball_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Snowball<Color:/>
+InventoryItemTypes_Weapon_Grenade_Physical_Snowball_Missions_DisplayName=<Color:R=0.2 G=0.003922 B=0.898039>Snowball<Color:/>
+;
+;                        Character Mods 
+;
+InventoryItemTypes_FnMod_Character_Blowtorch_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Blowtorch<Color:/>
+InventoryItemTypes_FnMod_Character_Blowtorch_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Blowtorch<Color:/>
+InventoryItemTypes_FnMod_Character_CarSurfer_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Car Surfer<Color:/>
+InventoryItemTypes_FnMod_Character_CarSurfer_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Car Surfer<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 1<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 1<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent1__Armas_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 1<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent2_Armas_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 2<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 2<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 2<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 3<Color:/>
+InventoryItemTypes_FnMod_Character_ClottingAgent3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent 3<Color:/>
+InventoryItemTypes_FnMod_Character_Devlar_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Devlar<Color:/>
+InventoryItemTypes_FnMod_Character_FieldSupplier_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Field Supplier<Color:/>
+InventoryItemTypes_FnMod_Character_AmmoCarrier_Radius_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Field Supplier - Wide Radius<Color:/>
+InventoryItemTypes_FnMod_Character_Flag_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Display Banner<Color:/>
+InventoryItemTypes_FnMod_Character_FlakJacket_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Flak Jacket<Color:/>
+InventoryItemTypes_FnMod_Character_FlakJacket_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Flak Jacket<Color:/>
+InventoryItemTypes_FnMod_Character_Fragile_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fragile<Color:/>
+InventoryItemTypes_FnMod_Character_Fragile_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fragile<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 1<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 1<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 2<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 2<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 3<Color:/>
+InventoryItemTypes_FnMod_Character_HappyLandings3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings 3<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 1<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 1<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar2_Armas_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 2<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 2<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 2<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 3<Color:/>
+InventoryItemTypes_FnMod_Character_Kevlar3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar 3<Color:/>
+InventoryItemTypes_FnMod_Character_Minigame_GoldenWeapon_DisplayName=Bunny Shield<Color:/>
+InventoryItemTypes_FnMod_Character_MobileCover_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Mobile Cover<Color:/>
+InventoryItemTypes_FnMod_Character_PreventWeaponDrop_DisplayName=Sticky Fingers<Color:/>
+InventoryItemTypes_FnMod_Character_RadarJammer_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Radar Jammer<Color:/>
+InventoryItemTypes_FnMod_Character_RadarJammer_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Radar Jammer<Color:/>
+InventoryItemTypes_FnMod_Character_RemoteDetonator_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Remote Detonator<Color:/>
+InventoryItemTypes_FnMod_Character_RemoteDetonator_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Remote Detonator<Color:/>
+InventoryItemTypes_FnMod_Character_Spotter_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Spotter<Color:/>
+InventoryItemTypes_FnMod_Character_Spotter_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Spotter<Color:/>
+InventoryItemTypes_FnMod_Character_Valzipram_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Valzipram Tablets<Color:/>
+InventoryItemTypes_FnMod_Character_Valzipram_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Valzipram Tablets<Color:/>
+InventoryItemTypes_FNMod_Character_HardLanding_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hard Landing<Color:/>
+InventoryItemTypes_FNMod_Character_HardLanding_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hard Landing<Color:/>
+;
+;                        Weapon Mods 
+;
+InventoryItemTypes_FnMod_Weapon_AdvancedIronsight_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Advanced Ironsight<Color:/>
+InventoryItemTypes_FnMod_Weapon_AMG_Stabiliser_DisplayName=Intelligent Recoil Stabilizer<Color:/>
+InventoryItemTypes_FnMod_Weapon_BananaMag_Armas_DisplayName=Curved Magazine<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier1_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier2_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier3_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Bandolier50_DisplayName=<Color:R=1.000000 G=0.674510 B=0.000000>Bandolier 50<Color:/>
+InventoryItemTypes_FnMod_Weapon_BurstAvalanche_Armas_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Burst Avalanche<Color:/>
+InventoryItemTypes_FnMod_Weapon_Cantedsight_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Steady Sight<Color:/>
+InventoryItemTypes_FnMod_Weapon_ChamberedRound_Armas_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Chambered Round<Color:/>
+InventoryItemTypes_FnMod_Weapon_ControlledAim_Armas_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Controlled Aim<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket1_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket1_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket1_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 1 - Test A<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket2_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket2_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket2_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 2 - Test A<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket3_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket3_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_CoolingJacket3_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Cooling Jacket 3 - Test A<Color:/>
+InventoryItemTypes_FnMod_Weapon_DoubleDrum_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Double-Drum Mag<Color:/>
+InventoryItemTypes_FnMod_Weapon_EOL-Concussion_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Concussion 40mm Grenades<Color:/>
+InventoryItemTypes_FnMod_Weapon_EOL-LightFrag_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Low-Yield 40mm Grenades<Color:/>
+InventoryItemTypes_FnMod_Weapon_EOL-Percussion_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Percussion 40mm Grenade<Color:/>
+InventoryItemTypes_FnMod_Weapon_EnchantressStock_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Improved Stock<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedBarrel_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>ACES Extended Barrel<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine1_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine2_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ExtendedMagazine3_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Flare_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Flare Ammo<Color:/>
+InventoryItemTypes_FnMod_Weapon_GermanReticle_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Post Dot Sight<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel1_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel1_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel1_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel2_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel2_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel2_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel3_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel3_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HeavyBarrel3_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Heavy Barrel 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HighMagnificationScope_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>High-Magnification Scope<Color:/>
+InventoryItemTypes_FnMod_Weapon_HighMagnificationScope_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>High-Magnification Scope<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight1_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight2_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight3_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_HuntingSight_Anubis_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>"Hunting Sight: "Anubis"<Color:/>
+InventoryItemTypes_FnMod_Weapon_LightweightFrame_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Lightweight Frame<Color:/>
+InventoryItemTypes_FnMod_Weapon_LongRangeRifling_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Long-Range Rifling<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull1_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull2_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_MagazinePull3_OTW_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_MechanicalChoke_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Mechanical Choke<Color:/>
+InventoryItemTypes_FnMod_Weapon_MicroRockets_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Micro-Rockets<Color:/>
+InventoryItemTypes_FnMod_Weapon_Minigame_Infection_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Spectral Flare<Color:/>
+InventoryItemTypes_FnMod_Weapon_MobilitySling_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Mobility Sling<Color:/>
+InventoryItemTypes_FnMod_Weapon_MobilitySling_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Mobility Sling<Color:/>
+InventoryItemTypes_FnMod_Weapon_MuzzleBrake_Horizontal_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Muzzle Brake (Horizontal)<Color:/>
+InventoryItemTypes_FnMod_Weapon_MuzzleBrake_Horizontal_RUS_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Muzzle Brake (Horizontal)<Color:/>
+InventoryItemTypes_FnMod_Weapon_MuzzleBrake_Vertical_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Muzzle Brake (Vertical)<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Hel-Mini_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Minor Hel Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Hel_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Hel Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Hoenir-Mini_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Minor Hoenir Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Hoenir_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hoenir Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Tyr-Mini_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Minor Tyr Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Norsemen-Tyr_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tyr Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_Piercing_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Piercing<Color:/>
+InventoryItemTypes_FnMod_Weapon_Piercing_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Piercing<Color:/>
+InventoryItemTypes_FnMod_Weapon_PistolChoke_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Pistol Choke<Color:/>
+InventoryItemTypes_FnMod_Weapon_Raptor_Silencer_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>XTD-7s Silencer<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight1_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight2_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ReflexSight3_OTW_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling1_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling1_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling1_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling2_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling2_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling2_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling3_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling3_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_Rifling3_OTW_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Improved Rifling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_SelectFire_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Select Fire<Color:/>
+InventoryItemTypes_FnMod_Weapon_ShortBarrel_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>ACES Short Barrel<Color:/>
+InventoryItemTypes_FnMod_Weapon_Silencer_Pistol_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Pistol Silencer<Color:/>
+InventoryItemTypes_FnMod_Weapon_Silencer_Rifle_Integrated_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Integrated Rifle Silencer<Color:/>
+InventoryItemTypes_FnMod_Weapon_Silencer_SMG_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>SMG Silencer<Color:/>
+InventoryItemTypes_FnMod_Weapon_Silencer_SniperRifle_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Sniper Silencer<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Cat_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Cat<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Duck_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Rubber Ducky<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-PurpleCat_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - PurpleCat<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Rapid99_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Rapid 99<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Reaper_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Reaper<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Sluttles_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Sluttles<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Suit-Clubs_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Club<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Suit-Diamonds_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Diamond<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Suit-Hearts_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Heart<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Suit-Joker_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Joker<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Suit-Spades_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Spade<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger-Valentines_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Valentines<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger<Color:/>
+InventoryItemTypes_FnMod_Weapon_Tagger_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling1_OTW_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 1<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling2_OTW_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 2<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_ThreePointSling3_OTW_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:/>
+InventoryItemTypes_FnMod_Weapon_UL3-Damage_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Deadly Fear Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_UL3-Distance_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Eternal Traveler Special<Color:/>
+InventoryItemTypes_FnMod_Weapon_UL3-FireRate_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Speed Demon Special<Color:/>
+;
+;                        Vehicle Mods 
+;
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine1_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine1_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine2_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine2_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine3_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ArmoredEngine3_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Armored Engine 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Brick_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Brick<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Brick_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Brick<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ChassisStrengthening3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_EMPResistance_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fortified Electronics<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Explosives3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_FastFixChassis3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing1_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing1_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing2_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing2_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing3_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Fireproofing3_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Fireproofing 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteeringAngle_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Steering Angle Tuning<Color:/>
+InventoryItemTypes_FnMod_Vehicle_HighBurnFuel_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>High Burn Fuel<Color:/>
+InventoryItemTypes_FnMod_Vehicle_HighBurnFuel_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>High Burn Fuel<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Meteor_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Meteor!<Color:/>
+InventoryItemTypes_FnMod_Vehicle_MobileSpawnPoint_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Spawn Point<Color:/>
+InventoryItemTypes_FnMod_Vehicle_MobileSupplyUnit_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Supply Unit<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Muffler_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Muffler<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Muffler_Joker_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Muffler<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Nitro3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RadarTower_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Radar Tower<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RadarTower_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Radar Tower<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_RammingPlate3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 1<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 2<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_SteelPlating3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 3<Color:/>
+InventoryItemTypes_FnMod_Vehicle_Suspension_Tuning_DisplayName=<Color:R=0.882353 G=0.000000 B=0.000000>Suspension Tuning<Color:/>
+;
+;                        Equipment 
+;
+InventoryItemTypes_Equipment_AmmoCarrier_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Ammo Carrier<Color:/>
+InventoryItemTypes_Equipment_BatteringRam_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Battering Ram 1<Color:/>
+InventoryItemTypes_Equipment_BatteringRam_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Battering Ram 2<Color:/>
+InventoryItemTypes_Equipment_BatteringRam_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Battering Ram 3<Color:/>
+InventoryItemTypes_Equipment_BatteringRam_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Battering Ram 4<Color:/>
+InventoryItemTypes_Equipment_BombDisposal_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Bomb Disposal<Color:/>
+InventoryItemTypes_Equipment_BrassKnuckles_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Brass Knuckles 1<Color:/>
+InventoryItemTypes_Equipment_BrassKnuckles_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Brass Knuckles 2<Color:/>
+InventoryItemTypes_Equipment_BrassKnuckles_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Brass Knuckles 3<Color:/>
+InventoryItemTypes_Equipment_BrassKnuckles_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Brass Knuckles 4<Color:/>
+InventoryItemTypes_Equipment_Camera_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Camera 1<Color:/>
+InventoryItemTypes_Equipment_Camera_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Camera 2<Color:/>
+InventoryItemTypes_Equipment_Camera_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Camera 3<Color:/>
+InventoryItemTypes_Equipment_Camera_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Camera 4<Color:/>
+InventoryItemTypes_Equipment_Crowbar_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Crowbar 1<Color:/>
+InventoryItemTypes_Equipment_Crowbar_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Crowbar 2<Color:/>
+InventoryItemTypes_Equipment_Crowbar_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Crowbar 3<Color:/>
+InventoryItemTypes_Equipment_Crowbar_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Crowbar 4<Color:/>
+InventoryItemTypes_Equipment_Explosives_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Bomb 1<Color:/>
+InventoryItemTypes_Equipment_Explosives_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Bomb 2<Color:/>
+InventoryItemTypes_Equipment_Explosives_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Bomb 3<Color:/>
+InventoryItemTypes_Equipment_Explosives_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Bomb 4<Color:/>
+InventoryItemTypes_Equipment_Hacking_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Netbook 1<Color:/>
+InventoryItemTypes_Equipment_Hacking_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Netbook 2<Color:/>
+InventoryItemTypes_Equipment_Hacking_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Netbook 3<Color:/>
+InventoryItemTypes_Equipment_Hacking_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Netbook 4<Color:/>
+InventoryItemTypes_Equipment_HandcuffKeys_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Universal Key S1<Color:/>
+InventoryItemTypes_Equipment_HandcuffKeys_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Universal Key S2<Color:/>
+InventoryItemTypes_Equipment_HandcuffKeys_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Universal Key S3<Color:/>
+InventoryItemTypes_Equipment_HandcuffKeys_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Universal Key S4<Color:/>
+InventoryItemTypes_Equipment_Handcuffs_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Handcuffs 1<Color:/>
+InventoryItemTypes_Equipment_Handcuffs_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Handcuffs 2<Color:/>
+InventoryItemTypes_Equipment_Handcuffs_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Handcuffs 3<Color:/>
+InventoryItemTypes_Equipment_Handcuffs_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Handcuffs 4<Color:/>
+InventoryItemTypes_Equipment_PaintSprayer_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 1<Color:/>
+InventoryItemTypes_Equipment_PaintSprayer_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 2<Color:/>
+InventoryItemTypes_Equipment_PaintSprayer_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 3<Color:/>
+InventoryItemTypes_Equipment_PaintSprayer_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 4<Color:/>
+InventoryItemTypes_Equipment_PetrolCan_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Gas Can 1<Color:/>
+InventoryItemTypes_Equipment_PetrolCan_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Gas Can 2<Color:/>
+InventoryItemTypes_Equipment_PetrolCan_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Gas Can 3<Color:/>
+InventoryItemTypes_Equipment_PetrolCan_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Gas Can 4<Color:/>
+InventoryItemTypes_Equipment_PoliceBadge_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Officer's Badge<Color:/>
+InventoryItemTypes_Equipment_PoliceBadge_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Sergeant's Badge<Color:/>
+InventoryItemTypes_Equipment_PoliceBadge_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Lieutenant's Badge<Color:/>
+InventoryItemTypes_Equipment_PoliceBadge_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Captain's Badge<Color:/>
+InventoryItemTypes_Equipment_SlimJim_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Slim Jim 1<Color:/>
+InventoryItemTypes_Equipment_SlimJim_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Slim Jim 2<Color:/>
+InventoryItemTypes_Equipment_SlimJim_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Slim Jim 3<Color:/>
+InventoryItemTypes_Equipment_SlimJim_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Slim Jim 4<Color:/>
+InventoryItemTypes_Equipment_SprayCan_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 1<Color:/>
+InventoryItemTypes_Equipment_SprayCan_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 2<Color:/>
+InventoryItemTypes_Equipment_SprayCan_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 3<Color:/>
+InventoryItemTypes_Equipment_SprayCan_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Spray Can 4<Color:/>
+InventoryItemTypes_Equipment_WireCutters_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Wire Cutters 1<Color:/>
+InventoryItemTypes_Equipment_WireCutters_Mk2_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Wire Cutters 2<Color:/>
+InventoryItemTypes_Equipment_WireCutters_Mk3_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Wire Cutters 3<Color:/>
+InventoryItemTypes_Equipment_WireCutters_Mk4_DisplayName=<Color:R=1.000000 G=1.000000 B=1.000000>Wire Cutters 4<Color:/>
+InventoryItemTypes_Equipment__None_DisplayName=
+;
+;                        Usables 
+;
+InventoryItemTypes_Usable_Consumable_Epinephrine_DisplayName=<Color:R=0 G=0.98 B=0.929>Epinephrine Injector<Color:/>
+InventoryItemTypes_Usable_Consumable_Medikit_DisplayName=<Color:R=0 G=0.98 B=0.929>Med Spray<Color:/>
+InventoryItemTypes_Usable_Deployable_BoomBox_DisplayName=<Color:R=0 G=0.98 B=0.929>Boom Box<Color:/>
+InventoryItemTypes_Usable_Deployable_FieldSupplier-Large_DisplayName=<Color:R=0 G=0.98 B=0.929>Resupply Box (Large)<Color:/>
+InventoryItemTypes_Usable_Deployable_FieldSupplier-Medium_DisplayName=<Color:R=0 G=0.98 B=0.929>Resupply Box (Medium)<Color:/>
+InventoryItemTypes_Usable_Deployable_GiftBox_Christmas_DisplayName=<Color:R=0 G=0.98 B=0.929>Secret Santa Gift Box<Color:/>
+InventoryItemTypes_Usable_Deployable_GiftBox_Joker_DisplayName=<Color:R=0 G=0.98 B=0.929>Joker Box Weapon Cache<Color:/>
+InventoryItemTypes_Usable_Deployable_GiftBox_Prototype1_DisplayName=<Color:R=0 G=0.98 B=0.929>Balanced Bundle Box A<Color:/>
+InventoryItemTypes_Usable_Deployable_GiftBox_Prototype2_DisplayName=<Color:R=0 G=0.98 B=0.929>Balanced Bundle Box B<Color:/>
+InventoryItemTypes_Usable_Deployable_GiftBox_Valentines_DisplayName=<Color:R=0 G=0.98 B=0.929>Valentines Gift box<Color:/>
+InventoryItemTypes_Usable_Deployable_MobileCover_DisplayName=<Color:R=0 G=0.98 B=0.929>Mobile Cover<Color:/>
+InventoryItemTypes_Usable_Deployable_SatchelCharge_DisplayName=<Color:R=0 G=0.98 B=0.929>Satchel Charge<Color:/>

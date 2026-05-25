@@ -1,0 +1,580 @@
+
+[ModifierEffects]
+
+;;;            |||   Orange Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_HuntingSight1_Description=<Color:R=1 G=1 B=0>+ 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_HuntingSight1_Description_2=<Color:R=0 G=1 B=0>Slightly<Color:/> improve marksmanship mode
+ModifierEffects_Weapon_HuntingSight1_Description_3=<Color:R=1 G=0 B=0>Slightly<Color:/> inaccuracy while running
+ModifierEffects_Weapon_HuntingSight1_Description_4=
+ModifierEffects_Weapon_HuntingSight2_Description=<Color:R=1 G=1 B=0>+ 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_HuntingSight2_Description_2=<Color:R=0 G=1 B=0>Moderately<Color:/> improve marksmanship mode
+ModifierEffects_Weapon_HuntingSight2_Description_3=<Color:R=1 G=0 B=0>Moderately<Color:/> inaccuracy while running
+ModifierEffects_Weapon_HuntingSight2_Description_4=
+ModifierEffects_Weapon_HuntingSight3_Description=<Color:R=1 G=1 B=0>+ 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_HuntingSight3_Description_2=<Color:R=0 G=1 B=0>Substantially<Color:/> improve marksmanship mode
+ModifierEffects_Weapon_HuntingSight3_Description_3=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+ModifierEffects_Weapon_HuntingSight3_Description_4=
+
+ModifierEffects_Weapon_ReflexSight1_Description=<Color:R=1 G=1 B=0>– 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_ReflexSight1_Description_2=<Color:R=1 G=0 B=0>Slightly<Color:/> reduces marksmanship mode
+ModifierEffects_Weapon_ReflexSight1_Description_3=<Color:R=0 G=1 B=0>Slightly<Color:/> accuracy while running
+ModifierEffects_Weapon_ReflexSight1_Description_4=
+ModifierEffects_Weapon_ReflexSight2_Description=<Color:R=1 G=1 B=0>– 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_ReflexSight2_Description_2=<Color:R=1 G=0 B=0>Moderately<Color:/> reduces marksmanship mode
+ModifierEffects_Weapon_ReflexSight2_Description_3=<Color:R=0 G=1 B=0>Moderately<Color:/> accuracy while running
+ModifierEffects_Weapon_ReflexSight2_Description_4=
+ModifierEffects_Weapon_ReflexSight3_Description=<Color:R=1 G=1 B=0>– 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_ReflexSight3_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> reduces marksmanship mode
+ModifierEffects_Weapon_ReflexSight3_Description_3=<Color:R=0 G=1 B=0>Substantially<Color:/> accuracy while running
+ModifierEffects_Weapon_ReflexSight3_Description_4=
+
+ModifierEffects_Weapon_HighMagnificationScope_Description=<Color:R=1 G=1 B=0>+ 15 Degrees<Color:/> sets zoom level
+ModifierEffects_Weapon_HighMagnificationScope_Description_2=<Color:R=0 G=1 B=0>Substantially<Color:/> improve marksmanship mode
+ModifierEffects_Weapon_HighMagnificationScope_Description_3=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+ModifierEffects_Weapon_HighMagnificationScope_Description_4=<Color:R=1 G=1 B=0>Changes marksmanship crosshair<Color:/>
+ModifierEffects_Weapon_HighMagnificationScope_Description_5=<Color:R=1 G=0 B=0>Disables standard crosshair<Color:/>
+ModifierEffects_Weapon_HighMagnificationScope_Description_6=
+
+ModifierEffects_Weapon_AdvancedIronsight_Description=<Color:R=0 G=1 B=0>Substantially<Color:/> improve marksmanship mode
+ModifierEffects_Weapon_AdvancedIronsight_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+
+ModifierEffects_Weapon_Cantedsight_Description=<Color:R=0 G=1 B=0>Substantially<Color:/> increases accuracy gain when crouched
+ModifierEffects_Weapon_Cantedsight_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+
+ModifierEffects_Weapon_LowMagnificationScope_Description=
+ModifierEffects_Weapon_LowMagnificationScope_Description_2=
+ModifierEffects_Weapon_LowMagnificationScope_Description_3=
+ModifierEffects_Weapon_LowMagnificationScope_Description_4=
+
+;;;            |||   Red Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_Rifling1_Description=<Color:R=0 G=1 B=0>+ 3m<Color:/> Effective range
+ModifierEffects_Weapon_Rifling1_Description_2=<Color:R=1 G=0 B=0>Slightly<Color:/> increases reticle max bloom
+ModifierEffects_Weapon_Rifling1_Description_3=
+ModifierEffects_Weapon_Rifling2_Description=<Color:R=0 G=1 B=0>+ 5m<Color:/> Effective range
+ModifierEffects_Weapon_Rifling2_Description_2=<Color:R=1 G=0 B=0>Moderately<Color:/> increases reticle max bloom
+ModifierEffects_Weapon_Rifling2_Description_3=
+ModifierEffects_Weapon_Rifling3_Description=<Color:R=0 G=1 B=0>+ 7m<Color:/> Effective range
+ModifierEffects_Weapon_Rifling3_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> increases reticle max bloom
+ModifierEffects_Weapon_Rifling3_Description_3=
+
+ModifierEffects_Weapon_CoolingJacket1_Description=<Color:R=0 G=1 B=0>+ 3%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket1_Description_2=<Color:R=1 G=0 B=0>Slightly<Color:/> worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket1_Description_3=<Color:R=1 G=0 B=0>Slightly<Color:/> increases shotgun spread
+ModifierEffects_Weapon_CoolingJacket2_Description=<Color:R=0 G=1 B=0>+ 5%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket2_Description_2=<Color:R=1 G=0 B=0>Moderately<Color:/> worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket2_Description_3=<Color:R=1 G=0 B=0>Moderately<Color:/> increases shotgun spread
+ModifierEffects_Weapon_CoolingJacket3_Description=<Color:R=0 G=1 B=0>+ 7%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket3_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket3_Description_3=<Color:R=1 G=0 B=0>Substantially<Color:/> increases shotgun spread
+
+ModifierEffects_Weapon_HeavyBarrel1_Description=<Color:R=0 G=1 B=0>– 10%<Color:/> Accuracy loss
+ModifierEffects_Weapon_HeavyBarrel1_Description_2=<Color:R=1 G=0 B=0>– 2%<Color:/> Weapon damage
+ModifierEffects_Weapon_HeavyBarrel2_Description=<Color:R=0 G=1 B=0>– 20%<Color:/> Accuracy loss
+ModifierEffects_Weapon_HeavyBarrel2_Description_2=<Color:R=1 G=0 B=0>– 5%<Color:/> Weapon damage
+ModifierEffects_Weapon_HeavyBarrel3_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Accuracy loss
+ModifierEffects_Weapon_HeavyBarrel3_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Weapon damage
+
+ModifierEffects_Weapon_LongRangeRifling_Description=<Color:R=0 G=1 B=0>+ 10m<Color:/> Effective range
+ModifierEffects_Weapon_LongRangeRifling_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Fire rate
+ModifierEffects_Weapon_LongRangeRifling_Description_3=<Color:R=1 G=0 B=0>– 20%<Color:/> Burst rate
+
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Vertical recoil
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description_2=<Color:R=1 G=0 B=0>+ 7%<Color:/> Horizontal recoil
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description_3=
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description_4=
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description_5=
+ModifierEffects_Weapon_MuzzleBrake_Vertical_Description_6=
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Horizontal recoil
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description_2=<Color:R=1 G=0 B=0>+ 10%<Color:/> Vertical recoil
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description_3=
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description_4=
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description_5=
+ModifierEffects_Weapon_MuzzleBrake_Horizontal_Description_6=
+
+ModifierEffects_Weapon_Silencer_Pistol_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Horizontal recoil
+ModifierEffects_Weapon_Silencer_Pistol_Description_2=<Color:R=1 G=0 B=0>+ 25%<Color:/> Vertical recoil
+ModifierEffects_Weapon_Silencer_Pistol_Description_3=
+ModifierEffects_Weapon_Silencer_Pistol_Description_4=<Color:R=1 G=0 B=0>– 10%<Color:/> Hard damage
+ModifierEffects_Weapon_Silencer_Pistol_Description_5=Reduces muzzle flash and audio
+ModifierEffects_Weapon_Silencer_Pistol_Description_6=Removes tracers
+ModifierEffects_Weapon_Silencer_SMG_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Recoil
+ModifierEffects_Weapon_Silencer_SMG_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Hard damage
+ModifierEffects_Weapon_Silencer_SMG_Description_3=Reduces muzzle flash and audio
+ModifierEffects_Weapon_Silencer_SMG_Description_4=Removes tracers
+ModifierEffects_Weapon_Silencer_SniperRifle_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Recoil
+ModifierEffects_Weapon_Silencer_SniperRifle_Description_2=Reduces muzzle flash and audio
+ModifierEffects_Weapon_Silencer_SniperRifle_Description_3=Removes tracers
+ModifierEffects_Weapon_Silencer_SniperRifle_Description_4=
+ModifierEffects_Weapon_Silencer_SniperRifle_Description_5=
+
+;;;            |||   Blue Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_Bandolier1_Description=<Color:R=0 G=1 B=0>+ 20%<Color:/> Ammo stored
+ModifierEffects_Weapon_Bandolier1_Description_2=<Color:R=1 G=0 B=0>+ 25%<Color:/> Resupply time
+ModifierEffects_Weapon_Bandolier2_Description=<Color:R=0 G=1 B=0>+ 35%<Color:/> Ammo stored
+ModifierEffects_Weapon_Bandolier2_Description_2=<Color:R=1 G=0 B=0>+ 50%<Color:/> Resupply time
+ModifierEffects_Weapon_Bandolier3_Description=<Color:R=0 G=1 B=0>+ 50%<Color:/> Ammo stored
+ModifierEffects_Weapon_Bandolier3_Description_2=<Color:R=1 G=0 B=0>+ 75%<Color:/> Resupply time
+
+ModifierEffects_Weapon_MagazinePull1_Description=<Color:R=0 G=1 B=0>– 20%<Color:/> Reload time
+ModifierEffects_Weapon_MagazinePull1_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Magazine capacity
+ModifierEffects_Weapon_MagazinePull2_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Reload time
+ModifierEffects_Weapon_MagazinePull2_Description_2=<Color:R=1 G=0 B=0>– 15%<Color:/> Magazine capacity
+ModifierEffects_Weapon_MagazinePull3_Description=<Color:R=0 G=1 B=0>– 40%<Color:/> Reload time
+ModifierEffects_Weapon_MagazinePull3_Description_2=<Color:R=1 G=0 B=0>– 20%<Color:/> Magazine capacity
+
+ModifierEffects_Weapon_ExtendedMagazine1_Description=<Color:R=0 G=1 B=0>+ 10%<Color:/> Magazine size
+ModifierEffects_Weapon_ExtendedMagazine1_Description_2=<Color:R=1 G=0 B=0>+ 10%<Color:/> Reload time
+ModifierEffects_Weapon_ExtendedMagazine2_Description=<Color:R=0 G=1 B=0>+ 20%<Color:/> Magazine size
+ModifierEffects_Weapon_ExtendedMagazine2_Description_2=<Color:R=1 G=0 B=0>+ 20%<Color:/> Reload time
+ModifierEffects_Weapon_ExtendedMagazine3_Description=<Color:R=0 G=1 B=0>+ 30%<Color:/> Magazine size
+ModifierEffects_Weapon_ExtendedMagazine3_Description_2=<Color:R=1 G=0 B=0>+ 30%<Color:/> Reload time
+
+;;;            |||   Purple Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_ThreePointSling1_Description=<Color:R=0 G=1 B=0>– 13%<Color:/> Equip time
+ModifierEffects_Weapon_ThreePointSling2_Description=<Color:R=0 G=1 B=0>– 26%<Color:/> Equip time
+ModifierEffects_Weapon_ThreePointSling3_Description=<Color:R=0 G=1 B=0>– 39%<Color:/> Equip time
+
+ModifierEffects_Weapon_CombatSling_Description=<Color:R=0 G=1 B=0>+ 50cm/s<Color:/> Movement speed in marksmanship
+ModifierEffects_Weapon_CombatSling_Description_2=
+
+ModifierEffects_Weapon_Silencer_Rifle_Integrated_Description=Reduces muzzle flash and audio
+ModifierEffects_Weapon_Silencer_Rifle_Integrated_Description_2=Removes tracers
+ModifierEffects_Weapon_Silencer_Rifle_Integrated_Description_3=
+ModifierEffects_Weapon_Silencer_Rifle_Integrated_Description_4=
+
+ModifierEffects_Weapon_Tagger_Description=Displays <Color:R=1 G=0.95 B=0>Marker<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger_Description_2=Visible for 8 Seconds to tagged enemies
+
+ModifierEffects_Weapon_LightweightFrame_Description=<Color:R=0 G=1 B=0>Removes existing movement speed penalties
+ModifierEffects_Weapon_LightweightFrame_Description_2=<Color:R=0.7 G=0.7 B=0>Strongly reduced effects for shoulder-fired Rocket Launchers
+ModifierEffects_Weapon_LightweightFrame_Description_3=
+ModifierEffects_Weapon_LightweightFrame_Description_4=<Color:R=1 G=0 B=0>Substantially<Color:/> decreases accuracy when jumping
+
+;;;            |||   Legendary Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_Tagger-Duck_Description=Displays <Color:R=1 G=0.95 B=0>Rubber Ducky<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Duck_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger-Reaper_Description=Displays <Color:R=0.13 G=0.94 B=1>Scythe<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Reaper_Description_2=Visible for 8 Seconds to tagged enemies
+
+ModifierEffects_Weapon_Norsemen-Hel_Description=<Color:R=0 G=1 B=0>+ 70%<Color:/> Base accuracy when firing
+ModifierEffects_Weapon_Norsemen-Hoenir_Description=Up to <Color:R=0 G=1 B=0>– 70%<Color:/> Reload time based on remaining ammo
+ModifierEffects_Weapon_Norsemen-Tyr_Description=<Color:R=0 G=1 B=0>– 39%<Color:/> Equip time
+ModifierEffects_Weapon_Norsemen-Tyr_Description_2=<Color:R=0 G=1 B=0>– 85%<Color:/> Recoil when firing
+
+ModifierEffects_Weapon_Norsemen-Hel-Mini_Description=Up to <Color:R=0 G=1 B=0> + 35%<Color:/> Accuracy when firing
+ModifierEffects_Weapon_Norsemen-Hoenir-Mini_Description=Up to <Color:R=0 G=1 B=0> – 30%<Color:/> Reload time
+ModifierEffects_Weapon_Norsemen-Tyr-Mini_Description=<Color:R=0 G=1 B=0>– 26%<Color:/> Equip time
+ModifierEffects_Weapon_Norsemen-Tyr-Mini_Description_2=<Color:R=0 G=1 B=0>– 55%<Color:/> Recoil when firing
+
+ModifierEffects_Weapon_Silencer_Reaper_Description=<Color:R=0 G=1 B=0>Integratable<Color:/> with barrel modifier
+ModifierEffects_Weapon_Silencer_Reaper_Description_2=<Color:R=0 G=1 B=0>– 50%<Color:/> Recoil
+ModifierEffects_Weapon_Silencer_Reaper_Description_3=Reduces muzzle flash and audio↵Removes tracers
+ModifierEffects_Weapon_Silencer_Reaper_Description_4=
+ModifierEffects_Weapon_Silencer_Reaper_Description_5=
+
+ModifierEffects_Weapon_Piercing_Description=Hits up to <Color:R=0 G=1 B=0>3<Color:/> Targets
+ModifierEffects_Weapon_Piercing_Description_2=<Color:R=1 G=0 B=0>– 30%<Color:/> Damage per-pierce
+ModifierEffects_Weapon_Piercing_Description_3=<Color:R=1 G=0 B=0>– 50%<Color:/> Hard damage
+
+ModifierEffects_Weapon_MicroRockets_Description=Replaces projectile with <Color:R=0.7 G=0 B=0.7>Micro-Rockets<Color:/>
+
+ModifierEffects_Weapon_MechanicalChoke_Description=<Color:R=0.7 G=0 B=0.7>When in Marksmanship Mode<Color:/>
+ModifierEffects_Weapon_MechanicalChoke_Description_2=<Color:R=0 G=1 B=0>– 45%<Color:/> Decreased spread
+ModifierEffects_Weapon_MechanicalChoke_Description_3=<Color:R=1 G=0 B=0>– 20%<Color:/> Decreased fire rate
+
+ModifierEffects_Weapon_DoubleDrumMag_Description=<Color:R=0 G=1 B=0>+ 200%<Color:/> Magazine size
+ModifierEffects_Weapon_DoubleDrumMag_Description_2=<Color:R=0 G=1 B=0>+ 100%<Color:/> Ammo stored
+ModifierEffects_Weapon_DoubleDrumMag_Description_3=<Color:R=0 G=1 B=0>+ 31%<Color:/> Fire rate
+ModifierEffects_Weapon_DoubleDrumMag_Description_4=<Color:R=1 G=0 B=0>+ 60%<Color:/> Reload time
+ModifierEffects_Weapon_DoubleDrumMag_Description_5=Adds <Color:R=1 G=0 B=0>0.59s<Color:/> Delay before firing
+ModifierEffects_Weapon_DoubleDrumMag_Description_6=<Color:R=1 G=0 B=0>Moderately<Color:/> increases recoil
+
+ModifierEffects_Weapon_BurstAvalanche_Description=<Color:R=1 G=0 B=0>– 1<Color:/> Rounds in first burst
+ModifierEffects_Weapon_BurstAvalanche_Description_2=<Color:R=0 G=1 B=0>+ 1<Color:/> Rounds in subsequent bursts
+ModifierEffects_Weapon_BurstAvalanche_Description_3=<Color:R=1 G=0 B=0>– 10%<Color:/> Damage done
+
+ModifierEffects_Weapon_BananaMag_Description=<Color:R=0 G=1 B=0>+ 2<Color:/> Magazine size
+ModifierEffects_Weapon_BananaMag_Description_2=<Color:R=1 G=0 B=0>– 20%<Color:/> Ammo stored
+
+ModifierEffects_Weapon_GermanReticle_Description=<Color:R=0 G=1 B=0>Substantially<Color:/> improves marksmanship mode
+ModifierEffects_Weapon_GermanReticle_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+ModifierEffects_Weapon_GermanReticle_Description_3=<Color:R=1 G=1 B=0>Changes standard crosshair<Color:/>
+ModifierEffects_Weapon_GermanReticle_Description_4=
+
+ModifierEffects_Weapon_ChamberedRound_Description=<Color:R=0.7 G=0 B=0.7>When Magazine is Not-Empty
+ModifierEffects_Weapon_ChamberedRound_Description_2=<>   Reloading provides <Color:R=0 G=1 B=0> + 1<Color:/> extra bullet
+ModifierEffects_Weapon_ChamberedRound_Description_3=<>   <Color:R=0 G=1 B=0>– 30%<Color:/> Reload time
+ModifierEffects_Weapon_ChamberedRound_Description_4=<Color:R=0.7 G=0 B=0.7>When Magazine is Empty
+ModifierEffects_Weapon_ChamberedRound_Description_5=<>   <Color:R=1 G=0 B=0>+ 40%<Color:/> Reload time
+
+ModifierEffects_Weapon_EOL-LightFrag_Description=<> Fires <Color:R=0.7 G=0 B=0.7>'Low– Yield'<Color:/> Contact Grenades
+ModifierEffects_Weapon_EOL_Percussion_Description=<> Fires <Color:R=0.7 G=0 B=0.7>'Percussion'<Color:/> Contact Grenades
+ModifierEffects_Weapon_EOL_Percussion_Description_2=<Color:R=1 G=0 B=0>– 1<Color:/> Magazine capacity
+ModifierEffects_Weapon_EOL-Concussion_Description=<> Fires <Color:R=0.7 G=0 B=0.7>'Concussion'<Color:/> Contact Grenades
+ModifierEffects_Weapon_EOL-Concussion_Description_2=<Color:R=1 G=0 B=0>– 2<Color:/> Magazine capacity
+
+ModifierEffects_Weapon_Raptor_Silencer_Description=Does not appear on radar above <Color:R=0 G=1 B=0>50m<Color:/>
+ModifierEffects_Weapon_Raptor_Silencer_Description_2=Does not appear on radar for first <Color:R=0 G=1 B=0>3<Color:/> Shots
+ModifierEffects_Weapon_Raptor_Silencer_Description_3=Reduces muzzle flash and audio
+ModifierEffects_Weapon_Raptor_Silencer_Description_4=Removes tracers
+
+ModifierEffects_Weapon_AMG_Stabiliser_Description=<Color:R=1 G=0 B=0>+ 50%<Color:/> Vertical recoil
+ModifierEffects_Weapon_AMG_Stabiliser_Description_2=Up to <Color:R=0 G=1 B=0>– 75%<Color:/> Vertical recoil when firing
+ModifierEffects_Weapon_AMG_Stabiliser_Description_3=<Color:R=1 G=0 B=0>+ 25%<Color:/> Horizontal recoil
+ModifierEffects_Weapon_AMG_Stabiliser_Description_4=Up to <Color:R=0 G=1 B=0>– 75%<Color:/> Horizontal recoil when firing
+
+ModifierEffects_Weapon_ControlledAim_Description=<Color:R=1 G=0 B=0>– 50%<Color:/> Fire rate
+ModifierEffects_Weapon_ControlledAim_Description_2=<Color:R=0 G=1 B=0>+ 20<Color:/>%<Color:/> Increases marksmanship accuracy
+
+ModifierEffects_Weapon_ShotgunSlug_Description=Barrel modifier capable of firing <Color:R=0.7 G=0 B=0.7>Slug Ammunition<Color:/>
+
+ModifierEffects_Weapon_BurstKingdom_Description=Barrel modifier capable of firing <Color:R=0.7 G=0 B=0.7>Four-Round Bursts<Color:/>
+ModifierEffects_Weapon_BurstKingdom_Description_2=<Color:R=0 G=1 B=0>Substantially decreases accuracy loss when firing the weapon
+
+ModifierEffects_Weapon_Piercing_NCR_Description=Hits up to <Color:R=0 G=1 B=0>2<Color:/> Targets
+ModifierEffects_Weapon_Piercing_NCR_Description_2=<Color:R=1 G=0 B=0>– 30%<Color:/> Damage per-pierce
+ModifierEffects_Weapon_Piercing_NCR_Description_3=<Color:R=0 G=1 B=0>Substantially<Color:/> improves marksmanship mode
+ModifierEffects_Weapon_Piercing_NCR_Description_4=<Color:R=1 G=1 B=0>+ 5 Degrees<Color:/> zoom level
+ModifierEffects_Weapon_Piercing_NCR_Description_5=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+
+ModifierEffects_Weapon_EnchantressStock_Description=<Color:R=0 G=1 B=0>Substantially<Color:/> reduces accuracy loss while moving and jumping
+;
+ModifierEffects_Weapon_ExtendedBarrel_Description=<Color:R=0 G=1 B=0>+ 6.6%<Color:/> Damage
+ModifierEffects_Weapon_ExtendedBarrel_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Fire rate
+ModifierEffects_Weapon_ExtendedBarrel_Description_3=<Color:R=1 G=0 B=0>– 5.7%<Color:/> Hard damage
+ModifierEffects_Weapon_ExtendedBarrel_Description_4=<Color:R=0 G=1 B=0>– 30%<Color:/> Vertical recoil
+
+ModifierEffects_Weapon_ShortBarrel_Description=<Color:R=0 G=1 B=0>+ 10%<Color:/> Fire rate
+ModifierEffects_Weapon_ShortBarrel_Description_2=<Color:R=1 G=0 B=0>Slightly<Color:/> reduces marksmanship mode
+ModifierEffects_Weapon_ShortBarrel_Description_3=<Color:R=1 G=0 B=0>– 7.5%<Color:/> Minimum accuracy
+
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description=<Color:R=0.7 G=0 B=0.7>When in Marksmanship Mode:<Color:R=1 G=1 B=1>
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description_2=Switches to <Color:R=1 G=0.95 B=0>Semi-Automatic<Color:R=1 G=1 B=1>
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description_3=<Color:R=0 G=1 B=0>Substantially<Color:R=1 G=1 B=1> improves benefit of marksmanship mode
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description_4=<Color:R=0 G=1 B=0>Slightly<Color:R=1 G=1 B=1> improves weapon damage
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description_5=<Color:R=1 G=0 B=0>Moderately<Color:R=1 G=1 B=1> decreases accuracy recovery
+ModifierEffects_Weapon_C9S_Sight_Legendary_Description_6=<Color:R=1 G=0 B=0>Moderately<Color:R=1 G=1 B=1> decreases weapon rate of fire
+
+;;;            |||   Secondary Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_Flare_Description=Spots hostile opponents within 60m of flare
+
+ModifierEffects_Weapon_Tagger_Suit_Clubs_Description=Displays 'Club' above hit targets
+ModifierEffects_Weapon_Tagger_Suit_Clubs_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger_Suit_Diamond_Description=Displays 'Diamond' above hit targets
+ModifierEffects_Weapon_Tagger_Suit_Diamond_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger_Suit_Hearts_Description=Displays 'Heart' above hit targets
+ModifierEffects_Weapon_Tagger_Suit_Hearts_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger_Suit_Spades_Description=Displays 'Spade' above hit targets
+ModifierEffects_Weapon_Tagger_Suit_Spades_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger_Suit_Joker_Description=Displays 'Joker' above hit targets
+ModifierEffects_Weapon_Tagger_Suit_Joker_Description_2=Visible for 8 Seconds to tagged enemies
+
+ModifierEffects_Weapon_PistolChoke_Description=<>  + 8m Effective range
+ModifierEffects_Weapon_PistolChoke_Description_2=<>  – 50% Pellet spread
+ModifierEffects_Weapon_PistolChoke_Description_3=<>  – 45% Fire rate
+ModifierEffects_Weapon_PistolChoke_Description_4=
+
+ModifierEffects_Weapon_SelectFire_Description=<>  When in Marksmanship Mode
+ModifierEffects_Weapon_SelectFire_Description_2=<>       Switches to 4 Round Burst
+ModifierEffects_Weapon_SelectFire_Description_3=<>       + 75% Aim accuracy
+ModifierEffects_Weapon_SelectFire_Description_4=¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ModifierEffects_Weapon_SelectFire_Description_5=<>  Outside Marksmanship↵       – 10% Base accuracy
+ModifierEffects_Weapon_SelectFire_Description_6=
+ModifierEffects_Weapon_SelectFire_Description_7=
+
+ModifierEffects_Weapon_UL3-FireRate_Description=<>  + 10% Accuracy-Loss Per Shot
+ModifierEffects_Weapon_UL3-FireRate_Description_2=¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ModifierEffects_Weapon_UL3-FireRate_Description_3=<>  – 39% Equip time
+ModifierEffects_Weapon_UL3-FireRate_Description_4=<>  + 10% Fire rate
+
+ModifierEffects_Weapon_UL3-Damage_Description=<>  + 5% Weapon damage
+ModifierEffects_Weapon_UL3-Damage_Description_2=<>  – 55% Hard damage
+ModifierEffects_Weapon_UL3-Damage_Description_3=<>  – 5m Effective range 
+ModifierEffects_Weapon_UL3-Damage_Description_4=<>  – 1 Magazine size
+ModifierEffects_Weapon_UL3-Damage_Description_5=¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ModifierEffects_Weapon_UL3-Damage_Description_6=<>  Reduces muzzle flash and audio
+ModifierEffects_Weapon_UL3-Damage_Description_7=<>  Removes tracers
+
+ModifierEffects_Weapon_UL3-Distance_Description=<>  When Starting Firing
+ModifierEffects_Weapon_UL3-Distance_Description_2=<>       Slightly increases base accuracy
+ModifierEffects_Weapon_UL3-Distance_Description_3=<>       Slightly reduces accuracy loss
+ModifierEffects_Weapon_UL3-Distance_Description_4=<>  On Subsequent Rounds Fired
+ModifierEffects_Weapon_UL3-Distance_Description_5=<>       Slightly decreases base accuracy
+ModifierEffects_Weapon_UL3-Distance_Description_6=<>       Substantially increases accuracy loss
+ModifierEffects_Weapon_UL3-Distance_Description_7=¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ModifierEffects_Weapon_UL3-Distance_Description_8=<>  + 30% Magazine Size
+ModifierEffects_Weapon_UL3-Distance_Description_9=<>  + 30% Reload Time
+
+;;;            |||   Unique Weapon Modifier   |||            ;;;
+ModifierEffects_Weapon_Tagger-Valentines_Description=Displays <Color:R=1 G=0.52 B=0.86>Love Hearts<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Valentines_Description_2=Visible for 8 Seconds to tagged enemies
+
+ModifierEffects_Weapon_Tagger-Rapid99_Description=Displays <Color:R=0.13 G=0.94 B=1>Your Personal Logo<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Rapid99_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger-Sluttles_Description=Displays <Color:R=0.13 G=0.94 B=1>Your Personal Logo<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Sluttles_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger-PurpleCat_Description=Displays <Color:R=0.13 G=0.94 B=1>Your Personal Logo<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-PurpleCat_Description_2=Visible for 8 Seconds to tagged enemies
+ModifierEffects_Weapon_Tagger-Cat_Description=Displays <Color:R=0.13 G=0.94 B=1>Cat<Color:/> above hit targets
+ModifierEffects_Weapon_Tagger-Cat_Description_2=Visible for 8 Seconds to tagged enemies
+
+;;;            |||   Consumable   |||            ;;;
+ModifierEffects_Usable_Consumable_Epinephrine_Description=<Color:R=0.7 G=0 B=0.7> While Active
+ModifierEffects_Usable_Consumable_Epinephrine_Description_2=<Color:R=0 G=1 B=0>   + 50%<Color:/> Movement Speed
+ModifierEffects_Usable_Consumable_Epinephrine_Description_3=<Color:R=0 G=1 B=0>   + 20%<Color:/> Sprint Speed
+ModifierEffects_Usable_Consumable_Epinephrine_Description_4=<Color:R=1 G=0 B=0>   – 40%<Color:/> Player Health↵<Color:R=1 G=0 B=0>   – 50%<Color:/> Jump Height
+ModifierEffects_Usable_Consumable_Epinephrine_Description_5=<>
+
+ModifierEffects_Usable_Consumable_Medikit_Description=Immediately health regeneration for all players within <Color: R=0 G=0.8 B=0.8>5m<Color:/>
+ModifierEffects_Usable_Consumable_Medikit_Description_2=<Color:R=1 G=0 B=0>50%<Color:/> Reduced regeneration rate
+
+;;;            |||   Character   |||            ;;;
+ModifierEffects_Character_JumpControl_Description=<Color:R=0 G=1 B=0>+ 400%<Color:/> Air control
+
+ModifierEffects_Character_HardLanding_Description=<Color:R=0 G=1 B=0>+ 75%<Color:/> Damage when landing on target
+ModifierEffects_Character_HardLanding_Description_2=<Color:R=0 G=1 B=0>+ 100%<Color:/> Fall recovery time
+ModifierEffects_Character_HardLanding_Description_3=
+
+ModifierEffects_Character_FieldSupplier_Description=Deploys <Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> for 30 Seconds
+ModifierEffects_Character_FieldSupplier_Description_2=
+
+ModifierEffects_Character_FieldSupplier_Deploy_Description=Deploys <Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> for 30 Seconds
+ModifierEffects_Character_FieldSupplier_Deploy_Description_2=
+
+ModifierEffects_Character_FieldSupplier_Resupply_Description=Deploys <Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> for 30 Seconds
+
+ModifierEffects_Character_FieldSupplier_Radius_Description=Deploys <Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> for 20 Seconds
+ModifierEffects_Character_FieldSupplier_Radius_Description_2=<Color:R=0 G=1 B=0>+ 100%<Color:/> Radius of field supplier
+
+ModifierEffects_Character_Fragile_Description=<Color:R=0 G=1 B=0>+ 14%<Color:R=1 G=1 B=1> Movement speed
+ModifierEffects_Character_Fragile_Description_2=<Color:R=0 G=1 B=0>+ 14%<Color:R=1 G=1 B=1> Sprint speed
+ModifierEffects_Character_Fragile_Description_3=<Color:R=1 G=0 B=0>– 14%<Color:R=1 G=1 B=1> Player Health
+
+ModifierEffects_Character_ClottingAgent1_Description=<Color:R=0 G=1 B=0>– 25%<Color:/> Health regen delay
+ModifierEffects_Character_ClottingAgent1_Description_2=<Color:R=1 G=0 B=0>+ 25%<Color:/> Health regen time
+ModifierEffects_Character_ClottingAgent2_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Health regen delay
+ModifierEffects_Character_ClottingAgent2_Description_2=<Color:R=1 G=0 B=0>+ 50%<Color:/> Health regen time
+ModifierEffects_Character_ClottingAgent3_Description=<Color:R=0 G=1 B=0>– 80%<Color:/> Health regen delay
+ModifierEffects_Character_ClottingAgent3_Description_2=<Color:R=1 G=0 B=0>+ 100%<Color:/> Health regen time
+
+ModifierEffects_Character_HappyLandings1_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Falling damage taken
+ModifierEffects_Character_HappyLandings1_Description_2=<Color:R=1 G=0 B=0>– 0.05m/s<Color:/> Velocity bracing impact
+ModifierEffects_Character_HappyLandings2_Description=<Color:R=0 G=1 B=0>– 70%<Color:/> Falling damage taken
+ModifierEffects_Character_HappyLandings2_Description_2=<Color:R=1 G=0 B=0>– 0.1m/s<Color:/> Velocity bracing impact
+ModifierEffects_Character_HappyLandings3_Description=<Color:R=0 G=1 B=0>– 100%<Color:/> Falling damage taken
+ModifierEffects_Character_HappyLandings3_Description_2=<Color:R=1 G=0 B=0>– 0.15m/s<Color:/> Velocity bracing impact
+
+ModifierEffects_Character_Kevlar1_Description=<Color:R=0 G=1 B=0>+ 10%<Color:/> Player health
+ModifierEffects_Character_Kevlar1_Description_2=<Color:R=1 G=0 B=0>– 15%<Color:/> Movement speed
+ModifierEffects_Character_Kevlar2_Description=<Color:R=0 G=1 B=0>+ 20%<Color:/> Player health
+ModifierEffects_Character_Kevlar2_Description_2=<Color:R=1 G=0 B=0>– 20%<Color:/> Movement speed
+ModifierEffects_Character_Kevlar2_Description_3=<Color:R=1 G=0 B=0>– 10%<Color:/> Sprint speed
+ModifierEffects_Character_Kevlar3_Description=<Color:R=0 G=1 B=0>+ 30%<Color:/> Player health
+ModifierEffects_Character_Kevlar3_Description_2=<Color:R=1 G=0 B=0>– 20%<Color:/> Movement speed
+ModifierEffects_Character_Kevlar3_Description_3=<Color:R=1 G=0 B=0>– 20%<Color:/> Sprint speed
+
+ModifierEffects_Character_CarSurfer_Description=Allows Player to <Color:R=0.13 G=0.94 B=1>Standing on moving vehicles without being dislodged<Color:/>
+
+ModifierEffects_Character_Valzipram_Description=<Color:R=0 G=1 B=0>Greatly<Color:/> increases resilience to vehicle impact
+
+ModifierEffects_Character_FlakJacket_Description=<Color:R=0 G=1 B=0>– 40%<Color:/> Explosion damage taken
+ModifierEffects_Character_FlakJacket_Description_2=<Color:R=1 G=0 B=0>– 1<Color:/> Grenade count
+
+ModifierEffects_Character_RadarJammer_Description=<Color:R=0 G=1 B=0>50m<Color:/> Radar jamming on enemies
+ModifierEffects_Character_RadarJammer_Description_2=<Color:R=1 G=0 B=0>Appear On Radar<Color:/> for Unjammed enemies
+ModifierEffects_Character_RadarJammer_Description_3=
+
+ModifierEffects_Character_Spotter_Description=<Color:R=0.13 G=0.94 B=1>Spotting<Color:/> targets by aimming at them↵Visible for 8 Seconds to tagged enemies
+ModifierEffects_Character_Spotter_Description_2=
+ModifierEffects_Character_Spotter_Description_3=
+
+ModifierEffects_Character_RemoteDetonator_Description=Detonates deployed vehicle after <Color:R=0.7 G=0 B=0.7>2s + 0.05s per meter<Color:/>
+
+
+;;;            |||   Vehicle   |||            ;;;
+ModifierEffects_Vehicle_FieldSupplier_Description=<Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> Places in vehicle trunk
+ModifierEffects_Vehicle_FieldSupplier_Description_2=<Color:R=1 G=0 B=0>Disables on critical damage
+ModifierEffects_Vehicle_FieldSupplier_Description_3=<Color:R=1 G=0 B=0>– 3<Color:/> Cargo capacity
+ModifierEffects_Vehicle_FieldSupplier_Description_4=
+
+ModifierEffects_Vehicle_MobileSpawnPoint_Description=Allows Players to <Color:R=0.13 G=0.94 B=1>Spawn in Mobile Vehicle<Color:/>
+ModifierEffects_Vehicle_MobileSpawnPoint_Description_2=Mobile spawns can be used once ↵in every <Color:R=0.13 G=0.94 B=1>120 Seconds<Color:/>↵
+ModifierEffects_Vehicle_MobileSpawnPoint_Description_3=<Color:R=1 G=0 B=0>Disables On Critical Damage
+ModifierEffects_Vehicle_MobileSpawnPoint_Description_4=Reveals Vehicle On Enemy radar↵
+ModifierEffects_Vehicle_MobileSpawnPoint_Description_5=<Color:R=1 G=1 B=0>Invalid if within 20m of Death Location
+ModifierEffects_Vehicle_MobileSpawnPoint_Description_6=Invalid if enemy within 55m
+
+ModifierEffects_Vehicle_MobileRadarTower_Description=Detects enemies within <Color:R=0 G=1 B=0>20m<Color:/>
+ModifierEffects_Vehicle_MobileRadarTower_Description_2=Vehicle <Color:R=1 G=0 B=0>Appears On Radar<Color:/> Of detected enemies
+ModifierEffects_Vehicle_MobileRadarTower_Description_3=<Color: R=1 G=0 B=0>Disables on critical damage<Color:/>
+
+ModifierEffects_Vehicle_ExtraCargoCapacity1_Description=<Color:R=0 G=1 B=0>+ 1<Color:/> Cargo capacity
+ModifierEffects_Vehicle_ExtraCargoCapacity2_Description=<Color:R=0 G=1 B=0>+ 2<Color:/> Cargo capacity
+ModifierEffects_Vehicle_ExtraCargoCapacity3_Description=<Color:R=0 G=1 B=0>+ 4<Color:/> Cargo capacity
+
+ModifierEffects_Vehicle_ChassisStrengthening1_Description=<Color:R=0 G=1 B=0>– 10%<Color:/> Damage taken from vehicle collisions
+ModifierEffects_Vehicle_ChassisStrengthening1_Description_2=<Color:R=1 G=0 B=0>– 10%<Color:/> Damage done by vehicle collisions
+ModifierEffects_Vehicle_ChassisStrengthening2_Description=<Color:R=0 G=1 B=0>– 20%<Color:/> Damage taken from vehicle collisions
+ModifierEffects_Vehicle_ChassisStrengthening2_Description_2=<Color:R=1 G=0 B=0>– 20%<Color:/> Damage done by vehicle collisions
+ModifierEffects_Vehicle_ChassisStrengthening3_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Damage taken from vehicle collisions
+ModifierEffects_Vehicle_ChassisStrengthening3_Description_2=<Color:R=1 G=0 B=0>– 30%<Color:/> Damage done by vehicle collisions
+
+ModifierEffects_Vehicle_ArmoredEngine1_Description=<Color:R=0 G=1 B=0>+ 40%<Color:/> Delay before engine fire
+ModifierEffects_Vehicle_ArmoredEngine1_Description_2=<Color:R=1 G=0 B=0>+ 40%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_ArmoredEngine1_Description_3=
+ModifierEffects_Vehicle_ArmoredEngine2_Description=<Color:R=0 G=1 B=0>+ 60%<Color:/> Delay before engine fire
+ModifierEffects_Vehicle_ArmoredEngine2_Description_2=<Color:R=1 G=0 B=0>+ 60%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_ArmoredEngine2_Description_3=
+ModifierEffects_Vehicle_ArmoredEngine3_Description=<Color:R=0 G=1 B=0>+ 80%<Color:/> Delay before engine fire
+ModifierEffects_Vehicle_ArmoredEngine3_Description_2=<Color:R=1 G=0 B=0>+ 80%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_ArmoredEngine3_Description_3=
+
+ModifierEffects_Vehicle_Fireproofing1_Description=<Color:R=0 G=1 B=0>– 20%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_Fireproofing1_Description_2=
+ModifierEffects_Vehicle_Fireproofing2_Description=<Color:R=0 G=1 B=0>– 35%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_Fireproofing2_Description_2=
+ModifierEffects_Vehicle_Fireproofing3_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Engine fire damage
+ModifierEffects_Vehicle_Fireproofing3_Description_2=
+
+ModifierEffects_Vehicle_Nitro1_Description=<Color:R=0 G=1 B=0>+ 100%<Color:/> Engine output torque
+ModifierEffects_Vehicle_Nitro1_Description_2=<Color:R=0 G=1 B=0>+ 1m/s<Color:/> Top speed
+ModifierEffects_Vehicle_Nitro1_Description_3=<Color:R=1 G=0 B=0>– 70%<Color:/> Turning speed
+ModifierEffects_Vehicle_Nitro1_Description_4=
+ModifierEffects_Vehicle_Nitro2_Description=<Color:R=0 G=1 B=0>+ 200%<Color:/> Engine output torque
+ModifierEffects_Vehicle_Nitro2_Description_2=<Color:R=0 G=1 B=0>+ 2m/s<Color:/> Top speed
+ModifierEffects_Vehicle_Nitro2_Description_3=<Color:R=1 G=0 B=0>– 80%<Color:/> Turning speed
+ModifierEffects_Vehicle_Nitro2_Description_4=
+ModifierEffects_Vehicle_Nitro3_Description=<Color:R=0 G=1 B=0>+ 400%<Color:/> Engine output torque
+ModifierEffects_Vehicle_Nitro3_Description_2=<Color:R=0 G=1 B=0>+ 3m/s<Color:/> Top speed
+ModifierEffects_Vehicle_Nitro3_Description_3=<Color:R=1 G=0 B=0>– 90%<Color:/> Turning speed
+ModifierEffects_Vehicle_Nitro3_Description_4=<Color:R=1 G=0 B=0>↵Warning  —  May have undesired results on high torque engines<Color:/>
+ModifierEffects_Vehicle_Nitro3_Description_5=<>
+
+ModifierEffects_Vehicle_Brick_Description=<Color:R=0.7 G=0 B=0.7>Vehicle accelerates constantly<Color:/> for the duration of modification
+
+ModifierEffects_Vehicle_Meteor_Description=<Color:R=0.7 G=0 B=0.7>Vehicle accelerates constantly<Color:/>
+ModifierEffects_Vehicle_Meteor_Description_2=<Color:R=0.7 G=0 B=0.7>Vehicle explodes on impact<Color:/>
+ModifierEffects_Vehicle_Meteor_Description_3=Increases top speed of vehicle to <Color:R=0 G=1 B=0>Maximum<Color:/>
+ModifierEffects_Vehicle_Meteor_Description_4=<Color:R=1 G=0 B=0>+ 400%<Color:/> Damage taken from gunfire
+ModifierEffects_Vehicle_Meteor_Description_5=<>
+
+ModifierEffects_Vehicle_FastFixChassis1_Description=<Color:R=0 G=1 B=0>+ 10%<Color:/> Repair time
+ModifierEffects_Vehicle_FastFixChassis2_Description=<Color:R=0 G=1 B=0>+ 20%<Color:/> Repair time
+ModifierEffects_Vehicle_FastFixChassis3_Description=<Color:R=0 G=1 B=0>+ 30%<Color:/> Repair time
+
+ModifierEffects_Vehicle_SteelPlating1_Description=<Color:R=0 G=1 B=0>– 10%<Color:/> Damage from weapons
+ModifierEffects_Vehicle_SteelPlating1_Description_2=<Color:R=1 G=0 B=0>– 2%<Color:/> Max speed
+ModifierEffects_Vehicle_SteelPlating2_Description=<Color:R=0 G=1 B=0>– 20%<Color:/> Damage from weapons
+ModifierEffects_Vehicle_SteelPlating2_Description_2=<Color:R=1 G=0 B=0>– 4%<Color:/> Max speed
+ModifierEffects_Vehicle_SteelPlating3_Description=<Color:R=0 G=1 B=0>– 30%<Color:/> Damage from weapons
+ModifierEffects_Vehicle_SteelPlating3_Description_2=<Color:R=1 G=0 B=0>– 6%<Color:/> Max speed
+
+ModifierEffects_Vehicle_RammingPlate1_Description=<Color:R=0 G=1 B=0>+ 20%<Color:/> Ramming damage
+ModifierEffects_Vehicle_RammingPlate1_Description_2=<Color:R=1 G=0 B=0>+ 20%<Color:/> Collision damage
+ModifierEffects_Vehicle_RammingPlate1_Description_3=<Color:R=1 G=0 B=0>– 35%<Color:/> Brake efficiency
+ModifierEffects_Vehicle_RammingPlate2_Description=<Color:R=0 G=1 B=0>+ 35%<Color:/> Ramming damage
+ModifierEffects_Vehicle_RammingPlate2_Description_2=<Color:R=1 G=0 B=0>+ 35%<Color:/> Collision damage
+ModifierEffects_Vehicle_RammingPlate2_Description_3=<Color:R=1 G=0 B=0>– 35%<Color:/> Brake efficiency
+ModifierEffects_Vehicle_RammingPlate3_Description=<Color:R=0 G=1 B=0>+ 50%<Color:/> Ramming damage
+ModifierEffects_Vehicle_RammingPlate3_Description_2=<Color:R=1 G=0 B=0>+ 50%<Color:/> Collision damage
+ModifierEffects_Vehicle_RammingPlate3_Description_3=<Color:R=1 G=0 B=0>– 35%<Color:/> Brake efficiency
+
+ModifierEffects_Vehicle_HighBurnFuel_Description=When exploding blast deals <Color:R=0.7 G=0 B=0.7>0 Damage<Color:/>
+ModifierEffects_Vehicle_HighBurnFuel_Description_2=
+ModifierEffects_Vehicle_HighBurnFuel_Description_3=Reduces max health vehicle by <Color:R=1 G=0 B=0>15%<Color:/>
+
+ModifierEffects_Vehicle_Explosives1_Description=<Color:R=1 G=1 B=0>+ 5%<Color:/> Ground zero blast radius
+ModifierEffects_Vehicle_Explosives1_Description_2=<Color:R=1 G=1 B=0>+ 15%<Color:/> Blast radius
+ModifierEffects_Vehicle_Explosives2_Description=<Color:R=1 G=1 B=0>+ 10%<Color:/> Ground zero blast radius
+ModifierEffects_Vehicle_Explosives2_Description_2=<Color:R=1 G=1 B=0>+ 30%<Color:/> Blast radius
+ModifierEffects_Vehicle_Explosives3_Description=<Color:R=1 G=1 B=0>+ 20%<Color:/> Ground zero blast radius
+ModifierEffects_Vehicle_Explosives3_Description_2=<Color:R=1 G=1 B=0>+ 45%<Color:/> Blast radius
+
+ModifierEffects_Vehicle_Muffler_Description=<Color:R=0 G=1 B=0>Hides Vehicle<Color:/> from radar while coasting
+ModifierEffects_Vehicle_Muffler_Description_2=<Color: R=1 G=0 B=0>– 65%<Color:/> Engine braking
+
+ModifierEffects_Vehicle_Suspension_Tuning_Description=<Color:R=0 G=1 B=0>– 50%<Color:/> Suspension dampening
+ModifierEffects_Vehicle_Suspension_Tuning_Description_2=<Color:R=0 G=1 B=0>– 50%<Color:/> Suspension stiffness
+
+ModifierEffects_Vehicle_Steeringangle_Description=Increases steering angle 0ms by 10%
+ModifierEffects_Vehicle_Steeringangle_Description_2=Increases steering angle 12ms by 25%
+ModifierEffects_Vehicle_Steeringangle_Description_3=Increases steering angle 22ms by 30%
+
+ModifierEffects_Vehicle_EMPResistance_Description=Reduces the effectiveness of EMP Strikes by <Color:R=0 G=1 B=0>40%
+ModifierEffects_Vehicle_EMPResistance_Description_2=<Color:R=1 G=0 B=0>-6%<Color:/> Max speed
+
+;;;            |||   EVENT   |||            ;;;
+ModifierEffects_Weapon_Minigame_Infection_Description=Spots hostile opponents within 60m of flare
+
+ModifierEffects_Weapon_Bandolier50_Description=Sets ammo stored to <Color:R=0 G=1 B=0>50<Color:/>
+
+ModifierEffects_Usable_Minigame_Hazmat_Description=You do not take damage From aerial poison
+ModifierEffects_Usable_Minigame_Hazmat_Spawn_Description=You do not take damage From aerial poison
+
+ModifierEffects_Character_Minigame_GoldenWeapon_Description=<Color:R=0 G=1 B=0>+ 15%<Color:/> Run speed
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_2=<Color:R=0 G=1 B=0>+ 15%<Color:/> Sprint speed
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_3=<Color:R=0 G=1 B=0>+ 150%<Color:/> Health
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_4=<Color:R=0 G=1 B=0>+ 100%<Color:/> Resilience to vehicle impact
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_5=<Color:R=0 G=1 B=0>– 75%<Color:/> Explosion damage taken
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_6=<Color:R=0 G=1 B=0>+ 150%<Color:/> Stamina
+ModifierEffects_Character_Minigame_GoldenWeapon_Description_7=<Color:R=0 G=1 B=0>– 50%<Color:/> Health regen delay
+
+ModifierEffects_Character_Minigame_Devlar_Description=<Color:R=1.56 G=1 B=1>Cannot be run over<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_2=<Color:R=1 G=0.5 B=0>Impervious to friendly fire<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_3=<Color:R=1 G=1 B=0>Landing on enemies does + 100% damage<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_4=<Color:R=0.43 G=0 B=1>Removes stun animation when landing<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_5=<Color:R=0 G=1 B=0>Falling damage reduced by – 100%<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_6=<Color:R=0.56 G=0 B=1>Falling stamina damage reduced by – 100%<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_7=<Color:R=0.12 G=1 B=0.95>Increases possible jump height by + 10000%<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_8=<Color:R=0 G=0 B=1>Allows players to car surf<Color:/>
+ModifierEffects_Character_Minigame_Devlar_Description_9=<Color:R=1 G=0 B=0>Increases air control by 150%<Color:/>
+
+ModifierEffects_Character_Devlar_Description=<Color:R=1 G=0 B=0>Increases air control by 400%<Color:/>
+ModifierEffects_Character_Devlar_Description_2=<Color:R=1 G=0.5 B=0>Increases sprint speed by + 100%<Color:/>
+ModifierEffects_Character_Devlar_Description_3=<Color:R=1 G=1 B=0>Increases crouch speed by + 3000%<Color:/>
+ModifierEffects_Character_Devlar_Description_4=<Color:R=0 G=1 B=0>Increases health by + 1000%<Color:/>
+ModifierEffects_Character_Devlar_Description_5=<Color:R=0.12 G=1 B=0.95>Increases stamina by + 1000%<Color:/>
+ModifierEffects_Character_Devlar_Description_6=<Color:R=0 G=0 B=1>Allows players to car surf<Color:/>
+ModifierEffects_Character_Devlar_Description_7=<Color:R=0.43 G=0 B=1>Removes stun animation when landing<Color:/>
+ModifierEffects_Character_Devlar_Description_8=<Color:R=1.56 G=1 B=1>Cannot be run over<Color:/>
+ModifierEffects_Character_Devlar_Description_9=<Color:R=0.56 G=0 B=1>Makes you breakfast in bed<Color:/>
+
+ModifierEffects_Character_PreventWeaponDrop_Description=Don't drop weapons on death
+ModifierEffects_Character_PreventWeaponDrop_Description_2=You can no longer pick up weapons
+
+ModifierEffects_Character_Minigame_NoVehicleDamage_Description=
+ModifierEffects_Character_Minigame_NoVehicleDamage_Description_2=
+ModifierEffects_Character_Minigame_NoVehicleDamage_Description_3=
+
+;;;            |||   UNUSED   |||            ;;;
+ModifierEffects_Weapon_HuntingSight_Anubis_Description=<Color:R=0 G=1 B=0>Substantially<Color:/> increases benefit of marksmanship mode
+ModifierEffects_Weapon_HuntingSight_Anubis_Description_2=<Color:R=1 G=1 B=0>Changes Marksmanship crosshair<Color:/>
+ModifierEffects_Weapon_HuntingSight_Anubis_Description_3=<Color:R=1 G=0 B=0>Substantially<Color:/> inaccuracy while running
+ModifierEffects_Weapon_CoolingJacket1_TestA_Description=<Color:R=0 G=1 B=0>+ 3%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket1_TestA_Description_2=<Color:R=1 G=0 B=0>Slightly<Color:/> Worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket1_TestA_Description_3=<Color:R=1 G=0 B=0>Slightly<Color:/> Increases shotgun spread
+ModifierEffects_Weapon_CoolingJacket1_TestA_Description_4=
+ModifierEffects_Weapon_CoolingJacket2_TestA_Description=<Color:R=0 G=1 B=0>+ 5%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket2_TestA_Description_2=<Color:R=1 G=0 B=0>Moderately<Color:/> Worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket2_TestA_Description_3=<Color:R=1 G=0 B=0>Moderately<Color:/> Increases shotgun spread
+ModifierEffects_Weapon_CoolingJacket2_TestA_Description_4=
+ModifierEffects_Weapon_CoolingJacket3_TestA_Description=<Color:R=0 G=1 B=0>+ 7%<Color:/> Fire rate
+ModifierEffects_Weapon_CoolingJacket3_TestA_Description_2=<Color:R=1 G=0 B=0>Substantially<Color:/> Worsens minimum accuracy
+ModifierEffects_Weapon_CoolingJacket3_TestA_Description_3=<Color:R=1 G=0 B=0>Substantially<Color:/> Increases shotgun spread
+ModifierEffects_Weapon_CoolingJacket3_TestA_Description_4=
+
+ModifierEffects_Vehicle_RaisedSuspension1_Description=<Color:R=1 G=1 B=0>20cm<Color:R=1 G=1 B=1>. Front Suspension height
+ModifierEffects_Vehicle_RaisedSuspension1_Description_2=<Color:R=1 G=1 B=0>20cm<Color:R=1 G=1 B=1>. Rear Suspension Height
+ModifierEffects_Vehicle_RaisedSuspension1_Description_3=<Color:R=1 G=0 B=0>CURRENTLY BUGGED  – DO NOT RELEASE
+ModifierEffects_Vehicle_RaisedSuspension1_Description_4=
+
+ModifierEffects_Vehicle_Innocence_Description=<Color:R=0 G=1 B=0>– 100%<Color:/> Damage from collision
+ModifierEffects_Vehicle_Innocence_Description_2=<Color:R=1 G=0 B=0>+ 30%<Color:/> Damage taken from bullets and explosions
+ModifierEffects_Vehicle_Innocence_Description_3=
+ModifierEffects_Vehicle_Guilt_Description=<Color:R=0 G=1 B=0>+ 100%<Color:/> Ramming damage
+ModifierEffects_Vehicle_Guilt_Description_2=<Color:R=1 G=0 B=0>+ 100%<Color:/> Collision damage
+ModifierEffects_Vehicle_Guilt_Description_3=<Color:R=1 G=0 B=0>+ 20%<Color:/> Damage taken from bullets and explosions
+
+ModifierEffects_Character_FieldSupplier_Health_Description=<Color:R=0 G=1 B=0>+ 100%<Color:/>  <Color:R=1 G=1 B=1 Health
+ModifierEffects_Character_FieldSupplier_Health_Description_2=Deploys <Color:R=0.7 G=0 B=0.7>Field Supplier<Color:/> For 30 Seconds
+ModifierEffects_Character_FieldSupplier_Health_Description_3=<Color:R=1 G=0 B=0>– 10 seconds<Color:/> Deploy time

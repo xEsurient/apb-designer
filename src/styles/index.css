@@ -1,0 +1,705 @@
+/* ==========================================================================
+   APB Designer - Global Styles
+   ========================================================================== */
+
+:root {
+  /* Color Palette - Dark Theme APB Inspired */
+  --bg-primary: #121214;
+  --bg-secondary: #1a1a1e;
+  --bg-panel: rgba(30, 30, 35, 0.7);
+  
+  --text-primary: #f0f0f5;
+  --text-secondary: #a0a0b0;
+  --text-muted: #666675;
+  
+  /* APB Accents */
+  --apb-red: #e62314;
+  --apb-red-hover: #ff3322;
+  --apb-gold: #ffaa00;
+  --apb-blue: #2277ff;
+  
+  /* UI Elements */
+  --border-color: #2a2a35;
+  --border-radius: 8px;
+  --border-radius-sm: 4px;
+  
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-glow: 0 0 15px rgba(230, 35, 20, 0.2);
+  
+  /* Typography */
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+  /* Subtle grain/texture or gradient for premium feel */
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(230, 35, 20, 0.05), transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(255, 170, 0, 0.05), transparent 25%);
+}
+
+a {
+  color: var(--apb-red);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--apb-red-hover);
+  text-decoration: underline;
+}
+
+.text-apb-red {
+  color: var(--apb-red);
+}
+
+/* ==========================================================================
+   Layout & App Shell
+   ========================================================================== */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-header {
+  background-color: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 2rem;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-sm);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.logo h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.logo .subtitle {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.main-nav {
+  display: flex;
+  gap: 1rem;
+  height: 100%;
+}
+
+.nav-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-family: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0 1rem;
+  height: 70px;
+  cursor: pointer;
+  position: relative;
+  transition: color 0.2s;
+}
+
+.nav-btn:hover {
+  color: var(--text-primary);
+}
+
+.nav-btn.active {
+  color: var(--text-primary);
+}
+
+.nav-btn.active::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: var(--apb-red);
+  border-radius: 3px 3px 0 0;
+  box-shadow: var(--shadow-glow);
+}
+
+.action-btn {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: var(--border-radius-sm);
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.action-btn:hover {
+  color: var(--text-primary);
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* ==========================================================================
+   Main Content Area
+   ========================================================================== */
+
+.app-main {
+  flex: 1;
+  padding: 2rem;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.tab-content {
+  display: none;
+  animation: fadeIn 0.3s ease-out;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ==========================================================================
+   Panels & Cards (Glassmorphism)
+   ========================================================================== */
+
+.panel {
+  background: var(--bg-panel);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  box-shadow: var(--shadow-md);
+}
+
+.panel h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.panel-desc {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+}
+
+/* ==========================================================================
+   Buttons & Inputs
+   ========================================================================== */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: var(--border-radius-sm);
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-primary {
+  background-color: var(--apb-red);
+  color: white;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary:hover {
+  background-color: var(--apb-red-hover);
+  box-shadow: var(--shadow-glow);
+  transform: translateY(-1px);
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
+.app-footer {
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  padding: 1.5rem 2rem;
+  margin-top: auto;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1400px;
+  margin: 0 auto;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.credits strong {
+  color: var(--text-primary);
+}
+
+/* Utilities */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: var(--text-muted);
+  border: 1px dashed var(--border-color);
+  border-radius: var(--border-radius);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.empty-state p {
+  margin-bottom: 1rem;
+}
+
+/* ==========================================================================
+   Color Tools Styles
+   ========================================================================== */
+
+.color-tools-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+
+@media (max-width: 992px) {
+  .color-tools-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.converter-card, .palette-card {
+  background: rgba(20, 20, 25, 0.6);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+}
+
+.converter-card h3, .palette-card h3 {
+  margin-bottom: 1rem;
+  color: var(--apb-gold);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.converter-inputs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  align-items: flex-end;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.input-group.flex-1 {
+  flex: 1;
+}
+
+.input-group label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.input-group input[type="text"] {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.6rem 1rem;
+  border-radius: var(--border-radius-sm);
+  font-family: monospace;
+  font-size: 1rem;
+}
+
+.input-group input[type="text"]:focus {
+  outline: none;
+  border-color: var(--apb-red);
+  box-shadow: 0 0 0 2px rgba(230, 35, 20, 0.2);
+}
+
+.input-group input[type="color"] {
+  height: 42px;
+  width: 100%;
+  padding: 0;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  background: var(--bg-primary);
+}
+
+.output-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.output-row:last-child {
+  border-bottom: none;
+}
+
+.output-row .label {
+  width: 120px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.output-row code {
+  flex: 1;
+  background: var(--bg-primary);
+  padding: 0.4rem 0.8rem;
+  border-radius: var(--border-radius-sm);
+  font-family: monospace;
+  color: var(--apb-gold);
+  font-size: 0.9rem;
+}
+
+.btn-sm {
+  padding: 0.3rem 0.8rem;
+  font-size: 0.8rem;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+.btn-sm:hover {
+  background: var(--border-color);
+}
+
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.palette-controls {
+  margin-bottom: 1rem;
+}
+
+.palette-controls input {
+  width: 100%;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.6rem 1rem;
+  border-radius: var(--border-radius-sm);
+}
+
+.color-swatch-card {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  overflow: hidden;
+}
+
+.color-swatch-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: rgba(255,255,255,0.02);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.swatch-preview {
+  width: 24px;
+  height: 24px;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.1) inset;
+}
+
+.color-swatch-details {
+  padding: 0.75rem 1rem;
+}
+
+.swatch-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.swatch-row:last-child {
+  margin-bottom: 0;
+}
+
+.swatch-row .label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.swatch-row code {
+  font-family: monospace;
+  font-size: 0.8rem;
+  color: var(--text-primary);
+  background: rgba(255,255,255,0.05);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.swatch-row code:hover {
+  background: rgba(230, 35, 20, 0.2);
+  color: var(--apb-gold);
+}
+
+.success-text {
+  color: #44ff44 !important;
+}
+
+/* ==========================================================================
+   Rainbow Generator Styles
+   ========================================================================== */
+
+.rainbow-layout {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+
+@media (max-width: 992px) {
+  .rainbow-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.panel-sub {
+  background: rgba(20, 20, 25, 0.6);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+}
+
+.panel-sub h3 {
+  margin-bottom: 1.5rem;
+  color: var(--apb-gold);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.color-picker-group {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.color-picker-group .input-group {
+  flex: 1;
+}
+
+textarea {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 1rem;
+  border-radius: var(--border-radius-sm);
+  font-family: monospace;
+  font-size: 0.95rem;
+  resize: vertical;
+  width: 100%;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: var(--apb-red);
+  box-shadow: 0 0 0 2px rgba(230, 35, 20, 0.2);
+}
+
+textarea[readonly] {
+  background: rgba(0, 0, 0, 0.3);
+  color: var(--apb-gold);
+}
+
+.preview-box {
+  margin-top: 1.5rem;
+}
+
+.preview-box label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.in-game-preview {
+  background: #000;
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-sm);
+  padding: 1.5rem;
+  font-family: var(--font-family); /* APB uses a standard sans-serif internally */
+  font-size: 1.2rem;
+  font-weight: 600;
+  min-height: 100px;
+  line-height: 1.5;
+  box-shadow: inset 0 0 20px rgba(255,255,255,0.05);
+  word-break: break-word;
+}
+
+/* ==========================================================================
+   File Editor Styles
+   ========================================================================== */
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  background: var(--bg-panel);
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--border-color);
+}
+
+.file-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.file-name-display {
+  color: var(--apb-gold);
+  font-family: monospace;
+  font-weight: 600;
+}
+
+.editor-table-container {
+  overflow-x: auto;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.editor-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.editor-table th {
+  position: sticky;
+  top: 0;
+  background: var(--bg-secondary);
+  padding: 1rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  border-bottom: 2px solid var(--border-color);
+  z-index: 10;
+}
+
+.editor-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  vertical-align: top;
+}
+
+.editor-table tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.editor-table tr.modified-row td {
+  background: rgba(230, 35, 20, 0.05);
+  border-bottom-color: rgba(230, 35, 20, 0.2);
+}
+
+.col-cat {
+  width: 15%;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.col-id {
+  width: 25%;
+  font-family: monospace;
+  font-size: 0.85rem;
+  color: var(--apb-gold);
+  word-break: break-all;
+}
+
+.col-tag {
+  width: 20%;
+}
+
+.col-text {
+  width: 40%;
+}
+
+.edit-input {
+  width: 100%;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--border-radius-sm);
+  font-family: monospace;
+  font-size: 0.9rem;
+}
+
+.edit-input:focus {
+  outline: none;
+  border-color: var(--apb-red);
+}
+
+textarea.edit-input {
+  resize: vertical;
+  min-height: 32px;
+  overflow: hidden;
+}
+
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}

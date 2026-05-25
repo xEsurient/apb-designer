@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APB Localization Designer</title>
+    <meta name="description" content="A web-based localization editor and color tool for APB: Reloaded." />
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/src/styles/index.css" />
+  </head>
+  <body>
+    <div id="app" class="app-container">
+      <header class="app-header">
+        <div class="header-content">
+          <div class="logo">
+            <h1><span class="text-apb-red">APB</span> DESIGNER</h1>
+            <span class="subtitle">Localization & Color Toolkit</span>
+          </div>
+          <nav class="main-nav">
+            <button class="nav-btn active" data-tab="tab-editor">Editor</button>
+            <button class="nav-btn" data-tab="tab-colors">Color Tools</button>
+            <button class="nav-btn" data-tab="tab-rainbow">Rainbow Generator</button>
+            <button class="nav-btn" data-tab="tab-sync">Data Sync</button>
+          </nav>
+          <div class="header-actions">
+            <button id="btn-settings" class="action-btn" title="Settings">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <main class="app-main">
+        <!-- Editor Tab -->
+        <section id="tab-editor" class="tab-content active">
+          <div class="panel">
+            <h2>Localization Editor</h2>
+            <p class="panel-desc">Load and edit APB localization strings. Changes will be instantly previewed.</p>
+            <div id="editor-container" class="editor-container">
+              <!-- Content will be injected by FileEditor.js -->
+              <div class="empty-state">
+                <p>Select a file to begin editing.</p>
+                <button class="btn btn-primary">Load File</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Color Tools Tab -->
+        <section id="tab-colors" class="tab-content">
+          <div class="panel">
+            <h2>Color Tools</h2>
+            <p class="panel-desc">Convert colors and browse standard in-game tags.</p>
+            <div id="color-tools-container">
+              <!-- Content injected by ColorPalette.js / HexConverter.js -->
+            </div>
+          </div>
+        </section>
+
+        <!-- Rainbow Generator Tab -->
+        <section id="tab-rainbow" class="tab-content">
+          <div class="panel">
+            <h2>Rainbow Text Generator</h2>
+            <p class="panel-desc">Create dynamic color gradients for custom item names and stats.</p>
+            <div id="rainbow-container">
+              <!-- Content injected by RainbowGenerator.js -->
+            </div>
+          </div>
+        </section>
+
+        <!-- Data Sync Tab -->
+        <section id="tab-sync" class="tab-content">
+          <div class="panel">
+            <h2>Data Sync Status</h2>
+            <p class="panel-desc">Check the current database version against the live APBDb.</p>
+            <div id="sync-container">
+              <!-- Content to show version status -->
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="app-footer">
+        <div class="footer-content">
+          <div class="credits">
+            <p><strong>Credits:</strong> Game data provided by <a href="https://apbdb.com/" target="_blank" rel="noopener noreferrer">Speed (APBDb)</a>. Color references and documentation by <a href="https://myamai.neocities.org/apb/localization" target="_blank" rel="noopener noreferrer">myami</a>.</p>
+          </div>
+          <div class="version">
+            <span id="app-version">v1.0.0</span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

@@ -14,7 +14,7 @@ async function checkVersion() {
     const response = await fetch('https://api.apbdb.com/beacon/version');
     const data = await response.json();
     const liveVersion = data.live?.version || data.version;
-    
+
     let localVersion = { version: '0.0.0.0' };
     try {
       const localData = await fs.readFile(VERSION_FILE, 'utf-8');
@@ -26,7 +26,7 @@ async function checkVersion() {
     if (liveVersion && liveVersion !== localVersion.version) {
       console.log(`Update detected: ${localVersion.version} -> ${liveVersion}`);
       await runSync();
-      
+
       // Save new version
       await fs.writeFile(VERSION_FILE, JSON.stringify({
         version: liveVersion,
@@ -46,7 +46,6 @@ async function checkVersion() {
 async function runSync() {
   console.log('Starting data generation...');
   // In a full implementation, all generators would be called here.
-  // For the MVP, we demonstrate with Weapons.
   await generateWeapons(DATA_DIR);
   // await generateInventoryItems(DATA_DIR);
   // await generateVehicles(DATA_DIR);

@@ -9,7 +9,8 @@ export async function generateWeapons(dataDir) {
   
   try {
     const response = await fetch('https://api.apbdb.com/beacon/items?cat=Weapon');
-    const items = await response.json();
+    const data = await response.json();
+    const items = data.items || [];
     
     let fileContent = '[WeaponItemTypes]\\n\\n';
     

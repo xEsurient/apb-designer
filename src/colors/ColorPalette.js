@@ -22,7 +22,7 @@ export class ColorPalette {
 
   async loadColors() {
     try {
-      const response = await fetch('/data/colors.json');
+      const response = await fetch(import.meta.env.BASE_URL + 'data/colors.json');
       this.colors = await response.json();
     } catch (e) {
       console.error("Failed to load colors:", e);

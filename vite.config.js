@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/APB-Designer/',
+  base: '/apb-designer/',
   server: {
     port: 5173,
     open: true

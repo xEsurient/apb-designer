@@ -20,9 +20,10 @@
             <span class="subtitle">Localization & Color Toolkit</span>
           </div>
           <nav class="main-nav">
-            <button class="nav-btn active" data-tab="tab-editor">Editor</button>
+            <button class="nav-btn active" data-tab="tab-home">Home</button>
+            <button class="nav-btn" data-tab="tab-editor">Editor</button>
             <button class="nav-btn" data-tab="tab-colors">Color Tools</button>
-            <button class="nav-btn" data-tab="tab-rainbow">Rainbow Generator</button>
+            <button class="nav-btn" data-tab="tab-rainbow">Color Gradient Generator</button>
             <button class="nav-btn" data-tab="tab-sync">Data Sync</button>
           </nav>
           <div class="header-actions">
@@ -34,8 +35,43 @@
       </header>
 
       <main class="app-main">
+        <!-- Home Tab -->
+        <section id="tab-home" class="tab-content active">
+          <div class="panel">
+            <h2>Welcome to APB Designer</h2>
+            <p class="panel-desc">Download generated game data files below to use in your localization mods.</p>
+            <div id="home-downloads-container">
+              <div class="output-row">
+                <span class="label">Modification Description file</span>
+                <code>ModifierEffects.ger</code>
+                <a href="data/ModifierEffects.ger" target="_blank" class="btn btn-sm" download>Download</a>
+              </div>
+              <div class="output-row">
+                <span class="label">Role Unlocks Description</span>
+                <code>PlayerRoles.ger</code>
+                <a href="data/PlayerRoles.ger" target="_blank" class="btn btn-sm" download>Download</a>
+              </div>
+              <div class="output-row">
+                <span class="label">Mission Task File</span>
+                <code>TaskObjectives.ger</code>
+                <a href="data/TaskObjectives.ger" target="_blank" class="btn btn-sm" download>Download</a>
+              </div>
+              <div class="output-row">
+                <span class="label">Vehicles Stats</span>
+                <code>VehicleItemTypes.ger</code>
+                <a href="data/VehicleItemTypes.ger" target="_blank" class="btn btn-sm" download>Download</a>
+              </div>
+              <div class="output-row">
+                <span class="label">Weapon Stats</span>
+                <code>WeaponItemTypes.ger</code>
+                <a href="data/WeaponItemTypes.ger" target="_blank" class="btn btn-sm" download>Download</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <!-- Editor Tab -->
-        <section id="tab-editor" class="tab-content active">
+        <section id="tab-editor" class="tab-content">
           <div class="panel">
             <h2>Localization Editor</h2>
             <p class="panel-desc">Load and edit APB localization strings. Changes will be instantly previewed.</p>
@@ -63,7 +99,7 @@
         <!-- Rainbow Generator Tab -->
         <section id="tab-rainbow" class="tab-content">
           <div class="panel">
-            <h2>Rainbow Text Generator</h2>
+            <h2>Color Gradient Generator</h2>
             <p class="panel-desc">Create dynamic color gradients for custom item names and stats.</p>
             <div id="rainbow-container">
               <!-- Content injected by RainbowGenerator.js -->

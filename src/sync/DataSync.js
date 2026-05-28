@@ -56,10 +56,6 @@ export class DataSync {
           <span class="label">Last Synced On</span>
           <code>${formattedDate}</code>
         </div>
-        <div class="output-row">
-          <span class="label">Data Source</span>
-          <code>${data.source}</code>
-        </div>
       </div>
       
       <div class="converter-card">

@@ -26,7 +26,7 @@ async function checkVersion() {
       console.log('No local version found, forcing sync.');
     }
 
-    if (true || liveVersion && liveVersion !== localVersion.version) {
+    if (liveVersion && liveVersion !== localVersion.version) {
       console.log(`Update detected: ${localVersion.version} -> ${liveVersion}`);
       await runSync(liveVersion);
 

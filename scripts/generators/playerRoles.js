@@ -8,7 +8,7 @@ export async function generateRoles(dataDir, liveVersion = 'Unknown') {
     const response = await fetch(`https://api.apbdb.com/beacon/roles`);
     const roles = await response.json();
 
-    const dateOfUpdate = new Date().toISOString().replace('T', ' ').split('.')[0];
+    const dateOfUpdate = new Date().toISOString().split('T')[0];
     let fileContent =
       ";   ____             _          __ \n" +
       ";  / __/__ __ ______(_)__ ___  / /_\n" +

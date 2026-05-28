@@ -34,7 +34,7 @@ export async function generateModifiers(dataDir, liveVersion = 'Unknown') {
       page++;
     } while (page <= totalPages);
 
-    const dateOfUpdate = new Date().toISOString().replace('T', ' ').split('.')[0];
+    const dateOfUpdate = new Date().toISOString().split('T')[0];
     let fileContent =
       ";   ____             _          __ \n" +
       ";  / __/__ __ ______(_)__ ___  / /_\n" +

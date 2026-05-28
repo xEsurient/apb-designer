@@ -3,17 +3,19 @@ import { ColorPalette } from './colors/ColorPalette.js';
 import { RainbowGenerator } from './rainbow/RainbowGenerator.js';
 import { FileEditor } from './editor/FileEditor.js';
 import { Settings } from './settings/Settings.js';
+import { DataSync } from './sync/DataSync.js';
 
 /**
  * Main Application Bootstrapper
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  new Settings(); // Init settings first
+  new Settings();
   initTabs();
   initColorTools();
   initRainbowGenerator();
   initFileEditor();
+  initDataSync();
 });
 
 /**
@@ -25,14 +27,11 @@ function initTabs() {
 
   navButtons.forEach(btn => {
     btn.addEventListener('click', () => {
-      // Remove active class from all buttons and tabs
       navButtons.forEach(b => b.classList.remove('active'));
       tabContents.forEach(t => t.classList.remove('active'));
 
-      // Add active class to clicked button
       btn.classList.add('active');
 
-      // Show corresponding tab content
       const targetTabId = btn.getAttribute('data-tab');
       const targetTab = document.getElementById(targetTabId);
       if (targetTab) {
@@ -76,4 +75,13 @@ function initFileEditor() {
   const container = document.getElementById('editor-container');
   if (!container) return;
   new FileEditor('editor-container');
+}
+
+/**
+ * Initializes the Data Sync Viewer
+ */
+function initDataSync() {
+  const container = document.getElementById('sync-container');
+  if (!container) return;
+  new DataSync('sync-container');
 }

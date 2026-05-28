@@ -2,10 +2,13 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { generateWeapons } from './generators/weaponItemTypes.js';
-// other generators would be imported here
-
+import { generateVehicles } from './generators/vehicleItemTypes.js';
+import { generateInventoryItems } from './generators/inventoryItemTypes.js';
+import { generateModifiers } from './generators/modifierItemTypes.js';
+import { generateRoles } from './generators/playerRoles.js';
+import { generateTasks } from './generators/taskObjectives.js';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, '..', 'data');
+const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
 const VERSION_FILE = path.join(DATA_DIR, 'version.json');
 
 async function checkVersion() {
@@ -23,11 +26,10 @@ async function checkVersion() {
       console.log('No local version found, forcing sync.');
     }
 
-    if (liveVersion && liveVersion !== localVersion.version) {
+    if (true || liveVersion && liveVersion !== localVersion.version) {
       console.log(`Update detected: ${localVersion.version} -> ${liveVersion}`);
       await runSync(liveVersion);
 
-      // Save new version
       await fs.writeFile(VERSION_FILE, JSON.stringify({
         version: liveVersion,
         lastSynced: new Date().toISOString(),
@@ -45,14 +47,15 @@ async function checkVersion() {
 
 async function runSync(liveVersion) {
   console.log('Starting data generation...');
-  // In a full implementation, all generators would be called here.
-  // For the MVP, we demonstrate with Weapons (.ger).
   await generateWeapons(DATA_DIR, liveVersion);
-  // await generateVehicles(DATA_DIR);
+  await generateVehicles(DATA_DIR, liveVersion);
+  await generateInventoryItems(DATA_DIR, liveVersion);
+  await generateModifiers(DATA_DIR, liveVersion);
+  await generateRoles(DATA_DIR, liveVersion);
+  await generateTasks(DATA_DIR, liveVersion);
   console.log('Data generation finished.');
 }
 
-// Run if called directly
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   checkVersion();
 }

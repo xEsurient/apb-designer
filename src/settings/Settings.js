@@ -1,7 +1,3 @@
-/**
- * Settings - Manages user preferences in localStorage
- */
-
 export class Settings {
   constructor() {
     this.defaultSettings = {
@@ -64,7 +60,6 @@ export class Settings {
   }
 
   apply() {
-    // Currently only handles theme class on body if we add light mode later
     if (this.current.theme === 'dark') {
       document.body.classList.add('theme-dark');
     }
@@ -72,11 +67,10 @@ export class Settings {
 
   initUI() {
     this.apply();
-    
+
     const settingsBtn = document.getElementById('btn-settings');
     if (!settingsBtn) return;
 
-    // Create hidden file input for import
     const fileInput = document.createElement('input');
     fileInput.type = 'file';
     fileInput.accept = '.json';

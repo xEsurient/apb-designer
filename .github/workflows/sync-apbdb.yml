@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
+      pages: write
+      id-token: write
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
@@ -23,11 +24,25 @@ jobs:
       - name: Run Sync Script
         run: node scripts/sync.js
         
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+      - name: Commit Synced Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git commit -m "🤖 Auto-sync APBDb Data" || echo "No changes to commit"
+          git push
+          
+      - name: Build Vite App
+        run: npm run build
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          commit-message: "😞 chore: update APBDb data"
-          title: "🤓 APBDb Sync"
-          body: "Workflow automated update, APBDb data updated."
-          branch: "update-apbdb-data"
-          base: "main"
+          path: './dist'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

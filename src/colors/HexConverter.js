@@ -1,7 +1,3 @@
-/**
- * HexConverter - Handles conversion between HEX and APB RGBA formats
- */
-
 export class HexConverter {
   constructor(containerId) {
     this.container = document.getElementById(containerId);
@@ -62,18 +58,15 @@ export class HexConverter {
 
     textInput.addEventListener('input', (e) => {
       let val = e.target.value.trim();
-      // Handle missing hash
       if (/^[0-9A-Fa-f]{6}$/.test(val)) {
         val = '#' + val;
       }
-      
-      // Update picker if valid hex
+
       if (/^#[0-9A-Fa-f]{6}$/.test(val)) {
         picker.value = val;
         this.updateOutputs(val);
       }
-      
-      // Handle rgba(r, g, b, a) or r, g, b pasting
+
       const rgbMatch = val.match(/rgba?\(?\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)/i);
       if (rgbMatch) {
         const r = parseInt(rgbMatch[1]);
@@ -99,22 +92,19 @@ export class HexConverter {
         });
       });
     });
-    
-    // Initial update
+
     this.updateOutputs(picker.value);
   }
 
   updateOutputs(hex) {
-    // Convert hex to rgb
     const r = parseInt(hex.slice(1, 3), 16);
     const g = parseInt(hex.slice(3, 5), 16);
     const b = parseInt(hex.slice(5, 7), 16);
 
-    // APB format (0.0 - 1.0)
     const apbR = (r / 255).toFixed(3).replace(/\.?0+$/, '');
     const apbG = (g / 255).toFixed(3).replace(/\.?0+$/, '');
     const apbB = (b / 255).toFixed(3).replace(/\.?0+$/, '');
-    
+
     const apbR_final = apbR === '' ? '0' : apbR;
     const apbG_final = apbG === '' ? '0' : apbG;
     const apbB_final = apbB === '' ? '0' : apbB;

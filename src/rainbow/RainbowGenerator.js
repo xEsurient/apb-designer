@@ -1,7 +1,3 @@
-/**
- * RainbowGenerator - Creates color gradients for APB text
- */
-
 export class RainbowGenerator {
   constructor(containerId) {
     this.container = document.getElementById(containerId);
@@ -11,7 +7,7 @@ export class RainbowGenerator {
   init() {
     this.render();
     this.attachEvents();
-    this.generate(); // initial generation
+    this.generate();
   }
 
   render() {
@@ -134,15 +130,12 @@ export class RainbowGenerator {
             continue;
           }
 
-          // Calculate interpolation factor (0.0 to 1.0)
           const t = charCount > 1 ? i / (charCount - 1) : 0;
-          
-          // Interpolate RGB channels
+
           const r = Math.round(startRgb.r + (endRgb.r - startRgb.r) * t);
           const g = Math.round(startRgb.g + (endRgb.g - startRgb.g) * t);
           const b = Math.round(startRgb.b + (endRgb.b - startRgb.b) * t);
-          
-          // Convert to APB 0.0-1.0 format
+
           const apbR = (r / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';
           const apbG = (g / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';
           const apbB = (b / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';
@@ -152,7 +145,6 @@ export class RainbowGenerator {
           previewHtml += `<span style="color: rgb(${r}, ${g}, ${b})">${char}</span>`;
         }
       } else {
-        // Full Rainbow Mode (HSL)
         const charCount = line.length;
         for (let i = 0; i < charCount; i++) {
           const char = line[i];
@@ -164,7 +156,7 @@ export class RainbowGenerator {
 
           const hue = Math.round((i / charCount) * 360);
           const rgb = this.hslToRgb(hue, 100, 50);
-          
+
           const apbR = (rgb.r / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';
           const apbG = (rgb.g / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';
           const apbB = (rgb.b / 255).toFixed(3).replace(/\\.?0+$/, '') || '0';

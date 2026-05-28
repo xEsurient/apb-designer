@@ -1,7 +1,3 @@
-/**
- * ColorPalette - Renders the hardcoded APB color tags
- */
-
 export class ColorPalette {
   constructor(containerId) {
     this.container = document.getElementById(containerId);
@@ -38,7 +34,7 @@ export class ColorPalette {
     if (!this.colors.length) return;
 
     let gridHtml = '<div class="color-grid">';
-    
+
     this.colors.forEach(color => {
       gridHtml += `
         <div class="color-swatch-card" style="border-left: 4px solid ${color.hex}">
@@ -59,7 +55,7 @@ export class ColorPalette {
         </div>
       `;
     });
-    
+
     gridHtml += '</div>';
 
     this.container.innerHTML = `
@@ -99,7 +95,7 @@ export class ColorPalette {
           const original = e.target.textContent;
           e.target.textContent = 'Copied!';
           e.target.classList.add('success-text');
-          setTimeout(() => { 
+          setTimeout(() => {
             e.target.textContent = original;
             e.target.classList.remove('success-text');
           }, 1000);

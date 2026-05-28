@@ -1,0 +1,713 @@
+;   ____             _          __ 
+;  / __/__ __ ______(_)__ ___  / /_
+; / _/(_-</ // / __/ / -_) _ \/ __/
+;/___/___/\_,_/_/ /_/\__/_//_/\__/    
+;##########################################
+; Database Version: Unknown
+; Generated on: 2026-05-28 00:23:32
+;##########################################
+
+[ModifierItemTypes]
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling1_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped slightly faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling1_Joker_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped slightly faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling2_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped noticeably faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling2_Joker_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped noticeably faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped much faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_Joker_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped much faster.
+
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_Tutorial_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>3-Point Sling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ThreePointSling3_Tutorial_Description=Receiver Modification - ↵A three-point sling attached to the front and rear of the receiver allows the weapon to be equipped much faster.
+
+ModifierItemTypes_FnMod_Weapon_GermanReticle_Armas_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>3-Post Dot Sight<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_GermanReticle_Armas_Description=Upper Rail Modification - ↵Custom High-Magnification Scope greatly improves accuracy when focusing in marksmanship mode, while providing an open 3-post reticle with a central dot to provide a clear view.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedBarrel_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>ACES Extended Barrel<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedBarrel_Description=The ACES Extended Barrel transforms what is primarily an SMG platform into a pseudo-rifle. The longer rifled barrel allows for higher velocity rounds to be used, increasing damage. The reduced fire rate is also a blessing in disguise, making the accuracy bloom more managable.
+
+ModifierItemTypes_FnMod_Weapon_ShortBarrel_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>ACES Short Barrel<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ShortBarrel_Description=The default configuration for the ACES, the Short Barrel allows for the system to output more bullets without worry of ruining the weapon barrel. Accuracy however is decreased due to the increased fire rate and lack of rifling.
+
+ModifierItemTypes_FnMod_Weapon_AdvancedIronsight_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Advanced Ironsight<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_AdvancedIronsight_Description=Upper Rail Modification - ↵Advanced Iron sight which greatly improves accuracy when focusing in marksmanship mode without increased magnification.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine1_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine1_Description=Engine Modification - ↵Kevlar plates around the engine block slightly increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine1_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine1_Joker_Description=Engine Modification - ↵Kevlar plates around the engine block slightly increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine2_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine2_Description=Engine Modification - ↵Kevlar plates around the engine block moderately increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine2_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine2_Joker_Description=Engine Modification - ↵Kevlar plates around the engine block moderately increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine3_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine3_Description=Engine Modification - ↵Kevlar plates around the engine block moderately increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine3_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Armored Engine 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ArmoredEngine3_Joker_Description=Engine Modification - ↵Kevlar plates around the engine block moderately increase the amount of damage the vehicle must take before it is set on fire.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier1_Description=Magazine Modification - ↵Allows the user to carry a small amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier1_Joker_Description=Magazine Modification - ↵Allows the user to carry a small amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier2_Description=Magazine Modification - ↵Allows the user to carry a medium amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier2_Joker_Description=Magazine Modification - ↵Allows the user to carry a medium amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier3_Tutorial_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier3_Tutorial_Description=Magazine Modification - ↵Allows the user to carry a large amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier3_Description=Magazine Modification - ↵Allows the user to carry a large amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Weapon_Bandolier3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Bandolier 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Bandolier3_Joker_Description=Magazine Modification - ↵Allows the user to carry a large amount of extra ammunition for the attached weapon.
+
+ModifierItemTypes_FnMod_Character_Blowtorch_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Blowtorch<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Blowtorch_Description=Activated Modification - ↵This blowtorch will repair any metal objects it hits, especially useful to keep your vehicle in good repair. Not recommended for use as emergency first aid.
+
+ModifierItemTypes_FnMod_Character_Blowtorch_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Blowtorch<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Blowtorch_Joker_Description=Activated Modification - ↵This blowtorch will repair any metal objects it hits, especially useful to keep your vehicle in good repair. Not recommended for use as emergency first aid.
+
+ModifierItemTypes_FnMod_Vehicle_Brick_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Brick<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Brick_Description=Activated Modification - ↵Not exactly the most technologically impressive modification on the market, but a brick on the accelerator will allow the user to jump out of the vehicle while it keeps accelerating towards your intended target, keeping them occupied enough for you to take them down.
+
+ModifierItemTypes_FnMod_Vehicle_Brick_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Brick<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Brick_Joker_Description=Activated Modification - ↵Not exactly the most technologically impressive modification on the market, but a brick on the accelerator will allow the user to jump out of the vehicle while it keeps accelerating towards your intended target, keeping them occupied enough for you to take them down.
+
+ModifierItemTypes_FnMod_Weapon_BurstAvalanche_Armas_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Burst Avalanche<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_BurstAvalanche_Armas_Description=Barrel Modification- ↵These barrel adjustments allow the weapon to fire an extra round per burst of the weapon. Less powerful loads need to be used to stop the barrel wearing out with the increased throughput.
+
+ModifierItemTypes_FnMod_Weapon_BurstKingdom_Armas_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Burst Kingdom<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_BurstKingdom_Armas_Description=Barrel Modification- ↵A burst module designed to turn previously fully automatic weapons into burst rifles with superior accuracy.
+
+ModifierItemTypes_FnMod_Character_CarSurfer_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Car Surfer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_CarSurfer_Description=Utility Modification -  ↵By utilising years of training in balance and poise, you are able to keep steady on the roofs of moving vehicles.
+
+ModifierItemTypes_FnMod_Character_CarSurfer_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Car Surfer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_CarSurfer_Joker_Description=Utility Modification -  ↵By utilising years of training in balance and poise, you are able to keep steady on the roofs of moving vehicles.
+
+ModifierItemTypes_FnMod_Weapon_ChamberedRound_Armas_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Chambered Round<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ChamberedRound_Armas_Description=Receiver Modification- ↵A round left in the chamber speeds up reloading.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening1_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame slightly reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening1_Joker_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame slightly reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening2_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame moderately reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening2_Joker_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame moderately reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening3_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame greatly reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Chassis Strengthening 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ChassisStrengthening3_Joker_Description=Chassis Modification - ↵Improved Alloys in the vehicle's frame greatly reduces the amount of damage it takes from collisions.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent1_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself slightly faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent1_Joker_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself slightly faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent2_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself moderately faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent2_Armas_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent2_Armas_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself moderately faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent2_Joker_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself moderately faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent3_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself much faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent3_Joker_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself much faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Character_ClottingAgent3_Tutorial_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Clotting Agent III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_ClottingAgent3_Tutorial_Description=Health Modification - ↵Coagulants in the bloodstream cause any damage taken to regenerate itself much faster, after the initial delay.
+
+ModifierItemTypes_FnMod_Weapon_EOL-Concussion_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Concussion 40mm Grenades<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_EOL-Concussion_Description=Adaptations to fire concussion style grenades that arm after a medium duration in the air. These bounce very little and do extreme damage to targets caught in their small blast radius, especially vehicles.
+
+ModifierItemTypes_FnMod_Weapon_ControlledAim_Armas_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Controlled Aim<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ControlledAim_Armas_Description=Upper Rail Modification - ↵When entering marksmanship mode the weapon switches state, lowering fire rate and heavily increasing accuracy in order to improve the ability to land shots at range.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket1_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket1_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire slightly closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket1_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket1_Joker_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire slightly closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket2_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket2_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket2_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket2_Joker_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire much closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_Joker_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire much closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_Tutorial_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Cooling Jacket 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_CoolingJacket3_Tutorial_Description=Barrel Modification - ↵A Cooling Jacket reduces the heat generated with continuous fire, allowing the weapon to fire much closer to its cyclic rate.
+
+ModifierItemTypes_FnMod_Weapon_BananaMag_Armas_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Curved Magazine<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_BananaMag_Armas_Description=Magazine Modification- ↵A curved magazine allows you to fit more rounds into the weapon without requiring longer to load or unload. They do however take up more space, reducing the number you can hold in reserve.
+
+ModifierItemTypes_FnMod_Weapon_UL3-Damage_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Deadly Fear Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_UL3-Damage_Description=Magazine Modification- ↵Frangible rounds deal more damage against fleshy targets close up but are less aerodynamic, losing momentum and thus impact potential at range, along with doing almost no damage against hard targets.
+
+ModifierItemTypes_FnMod_Character_Flag_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Display Banner<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Flag_Description=Activated Modification - ↵This deployable banner projects your personal symbol, projecting your dominance to all-comers.
+
+ModifierItemTypes_FnMod_Weapon_DoubleDrum_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Double-Drum Mag<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_DoubleDrum_Description=Magazine Modification - ↵Double-drums massively extend the amount of ammunition the weapon can hold in both the magazine and storage, at costs to several other areas.
+
+ModifierItemTypes_FnMod_Weapon_UL3-Distance_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Eternal Traveler Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_UL3-Distance_Description=Barrel Modification- ↵While quickly overwhelmed, shock absorbers between the barrel and stock provide a small initial increase to accuracy along with heavily reducing the accuracy lost in the initial rounds of a burst.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives1_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame slightly increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives1_Joker_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame slightly increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives2_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame moderately increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives2_Joker_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame moderately increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives3_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame greatly increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Vehicle_Explosives3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Explosives 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Explosives3_Joker_Description=Generic Modification - ↵Explosives and shrapnel within the vehicle's frame greatly increase the blast radius when it explodes.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine1_Description=Magazine Modification - ↵Slightly increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine1_Joker_Description=Magazine Modification - ↵Slightly increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine2_Description=Magazine Modification - ↵Noticeably increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine2_Joker_Description=Magazine Modification - ↵Noticeably increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_Description=Magazine Modification - ↵Greatly increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_Joker_Description=Magazine Modification - ↵Greatly increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_Tutorial_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extended Magazine 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ExtendedMagazine3_Tutorial_Description=Magazine Modification - ↵Greatly increases the ammo capacity of your weapon's magazine.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_Description=Trunk Modification - ↵Slightly increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity1_Joker_Description=Trunk Modification - ↵Slightly increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_Description=Trunk Modification - ↵Moderately increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity2_Joker_Description=Trunk Modification - ↵Moderately increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_Description=Trunk Modification - ↵Greatly increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Extra Cargo Capacity 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_ExtraCargoCapacity3_Joker_Description=Trunk Modification - ↵Greatly increases the vehicle's available cargo storage space.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis1_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis1_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for slightly improved repair time.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis1_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis1_Joker_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for slightly improved repair time.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis2_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis2_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for moderately improved repair time.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis2_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis2_Joker_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for moderately improved repair time.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis3_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis3_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for greatly improved repair time.
+
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis3_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Fast-Fix Chassis 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_FastFixChassis3_Joker_Description=Generic Modification - ↵Easier access to core systems and the vehicle's frame allows for greatly improved repair time.
+
+ModifierItemTypes_FnMod_Character_FieldSupplier_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Field Supplier<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_FieldSupplier_Description=Activated Modification - ↵A Field Deployment Kit that allows players and any teammates nearby to resupply ammunition and switch weapon loadouts.
+
+ModifierItemTypes_FnMod_Character_AmmoCarrier_Radius_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Field Supplier - Wide Radius<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_AmmoCarrier_Radius_Description=Activated Modification - ↵A Field Deployment Kit that allows players and any teammates nearby to resupply ammunition and switch weapon loadouts.   ↵ ↵This version allows teammates to resupply from twice as far away.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing1_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing1_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, slightly reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing1_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing1_Joker_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, slightly reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing2_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing2_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, moderately reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing2_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing2_Joker_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, moderately reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing3_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing3_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, greatly reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Vehicle_Fireproofing3_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Fireproofing 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Fireproofing3_Joker_Description=Engine Modification - ↵Fire Retardant material around the engine slows the spread of flames, greatly reducing the damage it takes from internal fire damage.
+
+ModifierItemTypes_FnMod_Character_FlakJacket_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Flak Jacket<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_FlakJacket_Description=Health Modification - ↵Flak Jackets consist of a number of steel plates stitched into any available clothing. Designed to reduce any shrapnel and other explosive effects, this modification heavily reduces any damage from any explosive weaponry, though you do lose a bit of pocket space.
+
+ModifierItemTypes_FnMod_Character_FlakJacket_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Flak Jacket<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_FlakJacket_Joker_Description=Health Modification - ↵Flak Jackets consist of a number of steel plates stitched into any available clothing. Designed to reduce any shrapnel and other explosive effects, this modification heavily reduces any damage from any explosive weaponry, though you do lose a bit of pocket space.
+
+ModifierItemTypes_FnMod_Vehicle_EMPResistance_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fortified Electronics<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_EMPResistance_Description=Chassis Modification - ↵Copper Plates in the vehicle's chassis greatly reduces the effectiveness of incoming EMP Strikes.
+
+ModifierItemTypes_FnMod_Character_Fragile_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fragile<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Fragile_Description=Health Modification -  ↵Years of track training have honed you into a running machine.
+
+ModifierItemTypes_FnMod_Character_Fragile_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Fragile<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Fragile_Joker_Description=Health Modification -  ↵ ↵Years of track training have honed you into a running machine.
+
+ModifierItemTypes_FnMod_Character_HappyLandings1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings1_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, allowing you to take slightly less damage when falling from a height.
+
+ModifierItemTypes_FnMod_Character_HappyLandings1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings1_Joker_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, allowing you to take slightly less damage when falling from a height.
+
+ModifierItemTypes_FnMod_Character_HappyLandings2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings2_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, allowing you to take a lot less damage when falling from a height.
+
+ModifierItemTypes_FnMod_Character_HappyLandings2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings2_Joker_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, allowing you to take a lot less damage when falling from a height.
+
+ModifierItemTypes_FnMod_Character_HappyLandings3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings3_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, stopping you taking any damage when falling from a height.
+
+ModifierItemTypes_FnMod_Character_HappyLandings3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Happy Landings III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_HappyLandings3_Joker_Description=Utility Modification - ↵Extensive training has improved your ability to land correctly, stopping you taking any damage when falling from a height.
+
+ModifierItemTypes_FNMod_Character_HardLanding_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hard Landing<Color:R=1 G=1 B=1>
+ModifierItemTypes_FNMod_Character_HardLanding_Description=Utility Modification. ↵Failing to brace yourself from falling removes any recovery time when landing. Your legs won't like you for it though.
+
+ModifierItemTypes_FNMod_Character_HardLanding_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hard Landing<Color:R=1 G=1 B=1>
+ModifierItemTypes_FNMod_Character_HardLanding_Joker_Description=Utility Modification. ↵Failing to brace yourself from falling removes any recovery time when landing. Your legs won't like you for it though.
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel1_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel1_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, slightly reducing the accuracy degredation per shot.
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel1_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel1_Joker_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, slightly reducing the accuracy degredation per shot.
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel2_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel2_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, moderately reducing the accuracy degredation per shot.
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel2_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel2_Joker_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, moderately reducing the accuracy degredation per shot.
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, heavily reducing the accuracy degredation per shot
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_Joker_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, heavily reducing the accuracy degredation per shot
+
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_Tutorial_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Heavy Barrel 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HeavyBarrel3_Tutorial_Description=Barrel Modification - ↵A Heavier Barrel reduces the amount of vibration in the weapon, heavily reducing the accuracy degredation per shot
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hel_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Hel Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hel_Description=Barrel Modification- ↵Rounds are cycled through the action more fluidly when the weapon is fired continuously, resulting in better accuracy as you fire more.
+
+ModifierItemTypes_FnMod_Vehicle_HighBurnFuel_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>High Burn Fuel<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_HighBurnFuel_Description=Generic Modification - ↵Specialised Fuel that only ignites under heavy compression removes the dangerous explosion that often occurs under fire during the San Paro daily commute.
+
+ModifierItemTypes_FnMod_Vehicle_HighBurnFuel_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>High Burn Fuel<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_HighBurnFuel_Joker_Description=Generic Modification - ↵Specialised Fuel that only ignites under heavy compression removes the dangerous explosion that often occurs under fire during the San Paro daily commute.
+
+ModifierItemTypes_FnMod_Weapon_HighMagnificationScope_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>High-Magnification Scope<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HighMagnificationScope_Description=Upper Rail Modification - ↵Custom High-Magnification Scope greatly improves accuracy when focusing in marksmanship mode, as well as providing distance to target data.
+
+ModifierItemTypes_FnMod_Weapon_HighMagnificationScope_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>High-Magnification Scope<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HighMagnificationScope_Joker_Description=Upper Rail Modification - ↵Custom High-Magnification Scope greatly improves accuracy when focusing in marksmanship mode, as well as providing distance to target data.
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hoenir_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Hoenir Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hoenir_Description=Magazine Modification- ↵Less bullets make the magazine lighter, allowing it to be removed more easily.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight1_Description=Upper Rail Modification - ↵Pin-hole target aperture sight slightly improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight1_Joker_Description=Upper Rail Modification - ↵Pin-hole target aperture sight slightly improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight2_Description=Upper Rail Modification - ↵Pin-hole target aperture sight noticeably improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight2_Joker_Description=Upper Rail Modification - ↵Pin-hole target aperture sight noticeably improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_Description=Upper Rail Modification - ↵Pin-hole target aperture sight greatly improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_Joker_Description=Upper Rail Modification - ↵Pin-hole target aperture sight greatly improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_Tutorial_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight3_Tutorial_Description=Upper Rail Modification - ↵Pin-hole target aperture sight greatly improves accuracy when focusing in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_HuntingSight_Anubis_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Hunting Sight: "Anubis"<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_HuntingSight_Anubis_Description=Upper Rail Modification - ↵ A custom sight greatly improves accuracy when focusing in marksmanship mode, while providing a unique crosshair.
+
+ModifierItemTypes_FnMod_Weapon_Rifling1_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling1_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling1_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling1_Joker_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling2_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling2_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling2_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling2_Joker_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling3_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling3_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling3_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling3_Joker_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_Rifling3_Tutorial_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Improved Rifling 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Rifling3_Tutorial_Description=Barrel Modification - ↵Precision laser-cut polygonal rifling helps improve the operational range of the weapon, slightly increasing the range while reducing fire rate to protect the barrel.
+
+ModifierItemTypes_FnMod_Weapon_EnchantressStock_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Improved Stock<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_EnchantressStock_Armas_Description=An improved stock allowing for quick target acquisition and superior accuracy on the move.
+
+ModifierItemTypes_FnMod_Weapon_AMG_Stabiliser_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Intelligent Recoil Stabilizer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_AMG_Stabiliser_Description=Receiver Modification - ↵Machine controlled weights are distributed around the receiver to compensate for the recoil in real-time.
+
+ModifierItemTypes_FnMod_Character_Kevlar1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar1_Joker_Description=Health Modification - ↵Subdermal Kevlar Implants slightly decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar2_Joker_Description=Health Modification - ↵Subdermal Kevlar Implants moderately decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar3_Joker_Description=Health Modification - ↵Subdermal Kevlar Implants heavily decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar Implants I<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar1_Description=Health Modification - ↵Subdermal Kevlar Implants slightly decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar Implants II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar2_Description=Health Modification - ↵Subdermal Kevlar Implants moderately decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar2_Armas_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar Implants II<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar2_Armas_Description=Health Modification - ↵Subdermal Kevlar Implants moderately decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Character_Kevlar3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Kevlar Implants III<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Kevlar3_Description=Health Modification - ↵Subdermal Kevlar Implants heavily decrease the amount of damage you take from incoming fire.
+
+ModifierItemTypes_FnMod_Weapon_LightweightFrame_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Lightweight Frame<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_LightweightFrame_Description=Receiver Modification - ↵A light weight weapon frame designed for the heavier end of common firearms to be operated more freely.
+
+ModifierItemTypes_FnMod_Weapon_LongRangeRifling_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Long-Range Rifling<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_LongRangeRifling_Description=Barrel Modification - ↵An experimental barrel consisting of a very thin steel wrapped with carbon fiber, resulting in a weapon that can effectively hit targets much further away, with a moderate reduction to fire rate to prevent the layers from splitting.
+
+ModifierItemTypes_FnMod_Weapon_EOL-LightFrag_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Low-Yield 40mm Grenades<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_EOL-LightFrag_Description=Adaptations to fire low-yield style grenades that arm after a short duration in the air. These do medium damage over an average blast radius.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull1_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull1_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, slightly improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull1_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull1_Joker_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, slightly improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull2_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull2_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, moderately improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull2_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull2_Joker_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, moderately improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, greatly improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_Joker_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, greatly improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_Tutorial_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Magazine Pull 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MagazinePull3_Tutorial_Description=Magazine Modification - ↵Rubberized loops on the magazines allow them to be handled easier, greatly improving reload times.
+
+ModifierItemTypes_FnMod_Weapon_MechanicalChoke_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Mechanical Choke<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MechanicalChoke_Description=Barrel Modification- ↵Complex mechanisms in the barrel allow the weapon to dynamically adjust the Shotgun's choke on the fly. This allows the user to gain a tighter spread by entering marksmanship mode, at the cost of fire rate.
+
+ModifierItemTypes_FnMod_Vehicle_Meteor_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Meteor!<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Meteor_Description=Activated Modification -  ↵When Activated, Meteor will activate several systems in the vehicle. It will accelerate to maximum speed with a small amount of on-board Nitrous Oxide, and impact sensors on the vehicle will trigger a self-destruct when they are triggered by a collision or excessive gunfire.
+
+ModifierItemTypes_FnMod_Weapon_MicroRockets_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Micro-Rockets<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MicroRockets_Description=Magazine Modification - ↵Micro-Rockets are smaller, less powerful projectiles that can be loaded two at a time. They have a smaller blast radius, and are affected by gravity, but fly faster and gain damage as they fly. At 83m each rocket is as effective as an OSMAW.
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hel-Mini_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Minor Hel Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hel-Mini_Description=Barrel Modification- ↵Rounds are cycled through the action  more fluidly when the weapon is fired continuously, resulting in slightly better accuracy as you fire more.
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hoenir-Mini_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Minor Hoenir Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Hoenir-Mini_Description=Magazine Modification- ↵Less bullets make the magazine slightly lighter, allowing it to be removed more easily.
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Tyr-Mini_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Minor Tyr Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Tyr-Mini_Description=Receiver Modification- ↵As more bullets are fired, recoil compensators kick in to reduce recoil and partially stabalise the weapon. A two-point sling also reduces equip time.
+
+ModifierItemTypes_FnMod_Character_MobileCover_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Mobile Cover<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_MobileCover_Description=Activated Modification - ↵Spawns a piece of Mobile Cover, painted with your personal Graffiti.
+
+ModifierItemTypes_FnMod_Vehicle_RadarTower_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Radar Tower<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RadarTower_Description=Trunk Modification - ↵A Mobile Radar Tower in the trunk of your vehicle can detect nearby enemies and show them on your radar even when you are not inside the vehicle. Any enemies detected in this way can see your vehicle on their radar.
+
+ModifierItemTypes_FnMod_Vehicle_RadarTower_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Radar Tower<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RadarTower_Joker_Description=Trunk Modification - ↵A Mobile Radar Tower in the trunk of your vehicle can detect nearby enemies and show them on your radar even when you are not inside the vehicle. Any enemies detected in this way can see your vehicle on their radar.
+
+ModifierItemTypes_FnMod_Vehicle_MobileSpawnPoint_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Spawn Point<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_MobileSpawnPoint_Description=Trunk Modification -  ↵Turns your vehicle into a Mobile Spawn Point. You can spawn from any vehicle with Mobile Spawn Point once every 2 minutes.
+
+ModifierItemTypes_FnMod_Vehicle_MobileSupplyUnit_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Mobile Supply Unit<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_MobileSupplyUnit_Description=Trunk Modification -  ↵Turns your vehicle into an ammo distributor, allowing you and your group to restock your weapons.
+
+ModifierItemTypes_FnMod_Weapon_MobilitySling_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Mobility Sling<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MobilitySling_Description=Receiver Modification - ↵ ↵A Joker manufactured sling designed to act as a stability aid while moving. This allows the user to walk or run faster while in marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_MobilitySling_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Mobility Sling<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MobilitySling_Joker_Description=Receiver Modification - ↵ ↵A Joker manufactured sling designed to act as a stability aid while moving. This allows the user to walk or run faster while in marksmanship mode.
+
+ModifierItemTypes_FnMod_Vehicle_Muffler_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Muffler<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Muffler_Description=Engine Modification - ↵A muffled exhaust hides your vehicle from enemy radar as long as you are not accelerating. Additional tweaks reduce engine braking, allowing you to coast for long distances.
+
+ModifierItemTypes_FnMod_Vehicle_Muffler_Joker_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Muffler<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Muffler_Joker_Description=Engine Modification - ↵A muffled exhaust hides your vehicle from enemy radar as long as you are not accelerating. Additional tweaks reduce engine braking, allowing you to coast for long distances.
+
+ModifierItemTypes_FnMod_Weapon_MuzzleBrake_Horizontal_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Muzzle Brake (Horizontal)<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MuzzleBrake_Horizontal_Description=Barrel Modification - ↵This recoil compensator takes gases produced by the weapon and directs them to the sides, reducing horizontal recoil at the expense of vertical.
+
+ModifierItemTypes_FnMod_Weapon_MuzzleBrake_Vertical_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Muzzle Brake (Vertical)<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_MuzzleBrake_Vertical_Description=Barrel Modification - ↵This recoil compensator takes gases produced by the weapon and directs them upwards, reducing vertical recoil at the expense of horizontal.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro1_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of slightly improved engine performance.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro1_Joker_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of slightly improved engine performance.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro2_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of moderately improved engine performance.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro2_Joker_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of moderately improved engine performance.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro3_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of greatly improved engine performance.
+
+ModifierItemTypes_FnMod_Vehicle_Nitro3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Nitro Booster 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Nitro3_Joker_Description=Activated Modification - ↵NOS injectors allow the user to trigger a period of greatly improved engine performance.
+
+ModifierItemTypes_FnMod_Weapon_EOL-Percussion_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Percussion 40mm Grenade<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_EOL-Percussion_Description=Adaptations to fire percussion style grenades that arm after a very short duration in the air. These do medium damage over an short blast radius.
+
+ModifierItemTypes_FnMod_Weapon_Piercing_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Piercing<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Piercing_Description=Receiver Modification - ↵Adjustments to the firing mechanism of the weapon allow the bullets to pierce most objects they hit (not including vehicles and walls). The act of piercing an object however heavily reduces the hard damage, as well as reducing the damage done to subsequent objects hit.
+
+ModifierItemTypes_FnMod_Weapon_Piercing_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Piercing<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Piercing_Armas_Description=Receiver Modification - ↵Adjustments to the firing mechanism of the weapon allow the bullets to pierce most objects they hit (not including vehicles and walls). The act of piercing an object however heavily reduces the hard damage, as well as reducing the damage done to subsequent objects hit.
+
+ModifierItemTypes_FnMod_Weapon_Piercing_NCR_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Piercing Precision<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Piercing_NCR_Description=Upper Rail Modification - ↵An improved sight coupled with piercing rounds to ensure pin-point accuracy as well as immense stopping power.
+
+ModifierItemTypes_FnMod_Weapon_Piercing_NCR_Armas_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Piercing Precision<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Piercing_NCR_Armas_Description=Upper Rail Modification - ↵An improved sight coupled with piercing rounds to ensure pin-point accuracy as well as immense stopping power.
+
+ModifierItemTypes_FnMod_Weapon_PistolChoke_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Pistol Choke<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_PistolChoke_Description=Barrel Modification- ↵A custom choked barrel for the Showstopper, this tightens the spread of the weapon and increases the effective range. Fire rate has been reduced in order to reduce wear to the barrel.
+
+ModifierItemTypes_FnMod_Weapon_C9S_Sight_Armas_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Prototype Switch<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_C9S_Sight_Armas_Description=Barrel Modification - ↵A custom fitted silencer combined with a prototype weapon switch allowing bullets  ↵to be fired at a much higher velocity for increased damage.
+
+ModifierItemTypes_FnMod_Character_RadarJammer_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Radar Jammer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_RadarJammer_Description=Activated Modification - ↵A mobile jamming device allows you to jam any enemy targets in the area, transmitting your Personal Graffiti directly over their radar. The power for this however highlights you on the radar to any players not jammed.
+
+ModifierItemTypes_FnMod_Character_RadarJammer_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Radar Jammer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_RadarJammer_Joker_Description=Activated Modification - ↵A mobile jamming device allows you to jam any enemy targets in the area, transmitting your Personal Graffiti directly over their radar. The power for this however highlights you on the radar to any players not jammed.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate1_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine slightly increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate1_Joker_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine slightly increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate2_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine noticeably increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate2_Joker_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine noticeably increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate3_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine greatly increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Vehicle_RammingPlate3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Ramming Plate 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_RammingPlate3_Joker_Description=Chassis Modification - ↵Tough Iron Plates mounted at the front of the vehicle's engine greatly increases the force transmitted when ramming enemy vehicles or objects.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight1_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight1_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps slightly improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight1_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight1_Joker_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps slightly improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight2_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight2_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps moderately improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight2_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight2_Joker_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps moderately improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps heavily improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_Joker_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps heavily improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_Tutorial_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Reflex Sight 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ReflexSight3_Tutorial_Description=Upper Rail Modification - ↵Reflex sights allow for faster target aquisition at close ranges without obscuring the user's field of view.  This helps heavily improve accuracy outside marksmanship mode.
+
+ModifierItemTypes_FnMod_Character_RemoteDetonator_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Remote Detonator<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_RemoteDetonator_Description=Activated Modification - ↵A custom detonator paired with small explosives planted within your personal vehicle allows you to explode it from a distance.
+
+ModifierItemTypes_FnMod_Character_RemoteDetonator_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Remote Detonator<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_RemoteDetonator_Joker_Description=Activated Modification - ↵A custom detonator paired with small explosives planted around your personal vehicle allows you to explode it from a distance.
+
+ModifierItemTypes_FnMod_Weapon_SelectFire_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Select Fire<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_SelectFire_Description=Receiver Modification- ↵The weapon will now switch to Burst-Fire Mode when entering Marksmanship.
+
+ModifierItemTypes_FnMod_Weapon_ShotgunSlug_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Shotgun Slug<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_ShotgunSlug_Description=Magazine Modification - ↵Modifies the gun to be able to fire slug ammo. Slug ammo being slightly larger than other shotgun shells also reduces the maximum magazine by one.
+
+ModifierItemTypes_FnMod_Weapon_Silencer_Reaper_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Silencer - Reaper<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Silencer_Reaper_Description=Receiver Modification- ↵A Suppressor designed by none other than Devil Dog himself. Optimized to the utmost to help the user stay unnoticed around San Paro.
+
+ModifierItemTypes_FnMod_Weapon_UL3-FireRate_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Speed Demon Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_UL3-FireRate_Description=Barrel Modification- ↵Despite the extremely efficient nature of this Cooling Jacket, generated heat is still enough with the increased fire rate to expand the barrel and cause the weapon to lose accuracy when fired continually.
+
+ModifierItemTypes_FnMod_Character_Spotter_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Spotter<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Spotter_Description=Activated Modification - ↵Cross-Team Heads-up modifications allow you to target and track enemies you spot through walls and other obstacles, relaying this information to your teammates for a short duration.
+
+ModifierItemTypes_FnMod_Character_Spotter_Joker_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Spotter<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Spotter_Joker_Description=Activated Modification - ↵Cross-Team Heads-up modifications allow you to target and track enemies you spot through walls and other obstacles, relaying this information to your teammates for a short duration.
+
+ModifierItemTypes_FnMod_Weapon_Cantedsight_DisplayName=<Color:R=1.000000 G=0.400000 B=0.000000>Steady Sight<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Cantedsight_Description=Upper Rail Modification - ↵An advanced sight enabling a clear sight picture with integrated features to allow for steadier target acquisition.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating1_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating1_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis slightly reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating1_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 1<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating1_Joker_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis slightly reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating2_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating2_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis noticeably reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating2_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 2<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating2_Joker_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis noticeably reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating3_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating3_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis greatly reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteelPlating3_Joker_DisplayName=<Color:R=0.270588 G=1.000000 B=0.086275>Steel Plating 3<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteelPlating3_Joker_Description=Chassis Modification - ↵Steel Plates in the vehicle's chassis greatly reduces the damage caused by weapons fire.
+
+ModifierItemTypes_FnMod_Vehicle_SteeringAngle_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Steering Angle Tuning<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_SteeringAngle_Description=Tuning Modification - ↵A high-angle performance setup featuring enhanced steering knuckles and rack geometry to allow for tighter steering angles.
+
+ModifierItemTypes_FnMod_Vehicle_Suspension_Tuning_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>Suspension Tuning<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Vehicle_Suspension_Tuning_Description=Tuning Modification - ↵Extra light shock absorbers to soften a vehicle’s suspension and allow for a smoother feel when operating the vehicle.
+
+ModifierItemTypes_FnMod_Weapon_Tagger_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger_Joker_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger_Joker_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Cat_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Cat<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Cat_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Clubs_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Club<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Clubs_Armas_Description=Receiver Modification - ↵Special Card Suit RFID Tags attached to fired rounds mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Diamonds_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Diamond<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Diamonds_Armas_Description=Receiver Modification - ↵Special Card Suit RFID Tags attached to fired rounds mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Hearts_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Heart<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Hearts_Armas_Description=Receiver Modification - ↵Special Card Suit RFID Tags attached to fired rounds mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Joker_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Joker<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Joker_Armas_Description=Receiver Modification - ↵Special Card Suit RFID Tags attached to fired rounds mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-PurpleCat_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - PurpleCat<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-PurpleCat_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Rapid99_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Rapid 99<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Rapid99_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Reaper_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Reaper<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Reaper_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Duck_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Rubber Ducky<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Duck_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Sluttles_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Sluttles<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Sluttles_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Spades_Armas_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Spade<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Suit-Spades_Armas_Description=Receiver Modification - ↵Special Card Suit RFID Tags attached to fired rounds mark enemy targets, highlighting them on your Heads Up Display for you and your team.
+
+ModifierItemTypes_FnMod_Weapon_Tagger-Valentines_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tagger - Valentines<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Tagger-Valentines_Description=Receiver Modification - ↵RFID Tags attached to fired rounds effectively mark enemy targets, highlighting them on your Heads Up Display for you and your team. <Color:R=0.6 G=0.09 B=0.09>This mod is embedded and cannot be removed from the weapon.<Color:R=1 G=1 B=1>
+
+ModifierItemTypes_FnMod_Weapon_Norsemen-Tyr_DisplayName=<Color:R=0.596078 G=0.082353 B=0.768628>Tyr Special<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Norsemen-Tyr_Description=Receiver Modification- ↵As more bullets are fired, recoil compensators kick in to reduce recoil and stabalise the weapon. A three-point sling also reduces equip time.
+
+ModifierItemTypes_FnMod_Character_Valzipram_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Valzipram Tablets<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Valzipram_Description=Utility Modification - ↵Over the counter medication to relax your muscles during times of great stress. This flexibility allows you to survive hits from vehicles at greater speeds.
+
+ModifierItemTypes_FnMod_Character_Valzipram_Joker_DisplayName=<Color:R=0.035294 G=0.470588 B=1.000000>Valzipram Tablets<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Character_Valzipram_Joker_Description=Utility Modification - ↵Over the counter medication to relax your muscles during times of great stress. This flexibility allows you to survive hits from vehicles at greater speeds.
+
+ModifierItemTypes_FnMod_Weapon_Raptor_Silencer_DisplayName=<Color:R=1.000000 G=0.000000 B=0.000000>XTD-7s Silencer<Color:R=1 G=1 B=1>
+ModifierItemTypes_FnMod_Weapon_Raptor_Silencer_Description=Barrel Modification- ↵The XTD-7s Silencer combines high-tech materials with the pinnacle of baffle design in order to create a weapon that's so whisper quiet, it won't show up initially on even the most sophisticated listening devices.
+

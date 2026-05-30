@@ -9,6 +9,6 @@ A web-based localization editor and color tool for APB: Reloaded. Built to run e
 - **Rainbow Generator**: Generate dynamic per-character color gradients (either HSL full rainbow or linear interpolation between two colors) using APB's color tags.
 
 ## Credits
-- **[Mewre]()** — Original concept designer
+- **[Mewre/Mewpri]()** — Original concept designer
 - **[Speed](https://apbdb.com/)** — APBDB (Provides the required data for the changes)
 - **[myami](https://myamai.neocities.org/apb/localization)** — Documentation on APB's custom color tags (HEX,RGB,etc)

@@ -3,8 +3,8 @@
 ; / _/(_-</ // / __/ / -_) _ \/ __/
 ;/___/___/\_,_/_/ /_/\__/_//_/\__/    
 ;##########################################
-; Database Version: 1.33.0.856474
-; Generated on: 2026-06-24
+; Database Version: 1.33.0.857075
+; Generated on: 2026-07-22
 ;##########################################
 
 [WeaponItemTypes]
@@ -44,9 +44,9 @@ WeaponItemTypes_Weapon_Rifle_Oscar_Slot3_Valentines_Description=Time To Kill: 0.
 Weapon_Rifle_Oscar_Slot3_Valentines_Leased=<Color:R=1 G=0.45 B=1>OSCAR "Sweetheart"</Color>
 WeaponItemTypes_Weapon_Rifle_Oscar_Slot3_Valentines_Leased_Description=Time To Kill: 0.3 sec ↵Shots To Kill: 7 ↵Health Damage: 145 x 2 ↵Stamina Damage: 20 x 2 ↵Hard Damage: 17.4 x 2 ↵Effective Range: 35 m↵Burst Interval: 0.175 sec ↵Burst Time To Kill: 0.525 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Armas=<Color:R=1 G=0.45 B=1>STAR 556 'LCR' "Love Gun"</Color>
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Leased=<Color:R=1 G=0.45 B=1>STAR 556 'LCR' "Love Gun"</Color>
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Leased_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_RNDIII_LoveGun_Leased_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR_PR1_Valentines=<Color:R=1 G=0.45 B=1>STAR 556 'Love-Gun'</Color>
 WeaponItemTypes_Weapon_AssaultRifle_STAR_PR1_Valentines_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 19.8 ↵Effective Range: 50 m↵Fire Interval: 0.15 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR_Slot3_Valentines=<Color:R=1 G=0.45 B=1>STAR 556 'Love-Gun'</Color>
@@ -97,10 +97,10 @@ Weapon_SniperRifle_DMR-AV_PR1_Joker=Agrotech DMR-AV PR1
 WeaponItemTypes_Weapon_SniperRifle_DMR-AV_PR1_Joker_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 2.4 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 4 ↵Health Damage: 340 ↵Stamina Damage: 300 ↵Hard Damage: 180.2 ↵Effective Range: 80 m↵Fire Interval: 0.8 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_DMR-AV_PR2=Agrotech DMR-AV PR2
 WeaponItemTypes_Weapon_SniperRifle_DMR-AV_PR2_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 2.4 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 4 ↵Health Damage: 340 ↵Stamina Damage: 300 ↵Hard Damage: 180.2 ↵Effective Range: 80 m↵Fire Interval: 0.8 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
-Weapon_SniperRifle_DMR_Perm=Agrotech DMR-SD
-WeaponItemTypes_Weapon_SniperRifle_DMR_Perm_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.6 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 3 ↵Health Damage: 400 ↵Stamina Damage: 400 ↵Hard Damage: 108.0 ↵Effective Range: 80 m↵Fire Interval: 0.8 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_DMR=Agrotech DMR-SD
 WeaponItemTypes_Weapon_SniperRifle_DMR_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.6 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 3 ↵Health Damage: 400 ↵Stamina Damage: 400 ↵Hard Damage: 108.0 ↵Effective Range: 80 m↵Fire Interval: 0.8 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+Weapon_SniperRifle_DMR_Perm=Agrotech DMR-SD
+WeaponItemTypes_Weapon_SniperRifle_DMR_Perm_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.6 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 3 ↵Health Damage: 400 ↵Stamina Damage: 400 ↵Hard Damage: 108.0 ↵Effective Range: 80 m↵Fire Interval: 0.8 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_FFA_Slot3_ArmasJB=Agrotech FFA 'BullShark'
 WeaponItemTypes_Weapon_Rifle_FFA_Slot3_ArmasJB_Description=Time To Kill: 0.3 sec ↵Shots To Kill: 7 ↵Health Damage: 165 x 3 ↵Stamina Damage: 20 x 3 ↵Hard Damage: 19.8 x 3 ↵Effective Range: 55 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 0.9 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_LMG_ALIG762=ALIG 762
@@ -208,11 +208,11 @@ WeaponItemTypes_Weapon_LMG_CASE_Slot3_Armas_Description=Time To Kill: 0.72 sec �
 Weapon_LMG_CASE-Sight_Slot3_Armas=CASE 'The K.O.'
 WeaponItemTypes_Weapon_LMG_CASE-Sight_Slot3_Armas_Description=Time To Kill: 0.72 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 74.3 ↵Effective Range: 70 m↵Fire Interval: 0.18 sec ↵Reload Time: 3.6 sec ↵Equip Time: 1 sec
 Weapon_SMG_CBMP-Tactical_Slot3_Armas=CBMP-45 'Arrow'
-WeaponItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Armas_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 24.0 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Armas_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 21.6 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
 Weapon_SMG_CBMP-Tactical_Slot3_Joker=CBMP-45 'Arrow'
-WeaponItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Joker_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 24.0 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SMG_CBMP-Tactical_Slot3_Joker_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 21.6 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
 Weapon_SMG_CBMP_Tactical=CBMP-45 'Arrow'
-WeaponItemTypes_Weapon_SMG_CBMP_Tactical_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 24.0 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SMG_CBMP_Tactical_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 21.6 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
 Weapon_SMG_CBMP-Compact_Slot3_Armas=CBMP-45 'Bolt'
 WeaponItemTypes_Weapon_SMG_CBMP-Compact_Slot3_Armas_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 5 ↵Health Damage: 200 ↵Stamina Damage: 20 ↵Hard Damage: 24.0 ↵Effective Range: 25 m↵Fire Interval: 0.175 sec ↵Reload Time: 1.8 sec ↵Equip Time: 1 sec
 Weapon_SMG_CBMP_Compact=CBMP-45 'Bolt'
@@ -242,11 +242,11 @@ WeaponItemTypes_Weapon_AssaultRifle_COBR-A_Slot2_Description=Time To Kill: 0.85 
 Weapon_AssaultRifle_COBR-A_Scoped=COBR-A Scoped
 WeaponItemTypes_Weapon_AssaultRifle_COBR-A_Scoped_Description=Time To Kill: 0.85 sec ↵Shots To Kill: 6 ↵Health Damage: 195 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 50 m↵Fire Interval: 0.17 sec ↵Reload Time: 2 sec ↵Equip Time: 1 sec
 Weapon_Pistol_Colby45AP=Colby .45 AP
-WeaponItemTypes_Weapon_Pistol_Colby45AP_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
+WeaponItemTypes_Weapon_Pistol_Colby45AP_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
 Weapon_Pistol_Colby45AP_Armas=Colby .45 AP
-WeaponItemTypes_Weapon_Pistol_Colby45AP_Armas_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
+WeaponItemTypes_Weapon_Pistol_Colby45AP_Armas_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
 Weapon_Pistol_Colby45AP_Joker=Colby .45 AP
-WeaponItemTypes_Weapon_Pistol_Colby45AP_Joker_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
+WeaponItemTypes_Weapon_Pistol_Colby45AP_Joker_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 225 ↵Stamina Damage: 20 ↵Hard Damage: 29.3 ↵Effective Range: 35 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.45 sec ↵Equip Time: 0.45 sec
 Weapon_Pistol_ColbyCommander=Colby Classic
 WeaponItemTypes_Weapon_Pistol_ColbyCommander_Description=Time To Kill: 1.6 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 100 ↵Hard Damage: 52.5 ↵Effective Range: 70 m↵Fire Interval: 0.8 sec ↵Reload Time: 2.2 sec ↵Equip Time: 0.7 sec
 Weapon_Pistol_ColbyCommander_PR1_ArmasJB=Colby Commander
@@ -382,11 +382,11 @@ WeaponItemTypes_Weapon_Grenade_EMP_Description=Max Health Damage: 125 ↵Max Sta
 Weapon_Explosive_EOL=EOL
 WeaponItemTypes_Weapon_Explosive_EOL_Description=Max Health Damage: 600 ↵Max Stamina Damage: 375 ↵Max Hard Damage: 453.6↵Explosion Radius: 700 cm↵Max Damage Radius: 200 cm ↵Fuse Delay: 3.5 sec↵
 Weapon_Explosive_EOL-Concussion_PR1_Armas=EOL 'Deep Impact'
-WeaponItemTypes_Weapon_Explosive_EOL-Concussion_PR1_Armas_Description=Max Health Damage: 990 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1108.8↵Explosion Radius: 500 cm↵Max Damage Radius: 275 cm ↵Fuse Delay: 2.5 sec↵
+WeaponItemTypes_Weapon_Explosive_EOL-Concussion_PR1_Armas_Description=Max Health Damage: 850 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1105.0↵Explosion Radius: 400 cm↵Max Damage Radius: 225 cm ↵Fuse Delay: 2.5 sec↵
 Weapon_Explosive_EOL-Concussion_Slot3_Armas=EOL 'Deep Impact' Mk4
-WeaponItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_Description=Max Health Damage: 990 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1108.8↵Explosion Radius: 500 cm↵Max Damage Radius: 275 cm ↵Fuse Delay: 2.5 sec↵
+WeaponItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_Description=Max Health Damage: 850 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1105.0↵Explosion Radius: 400 cm↵Max Damage Radius: 225 cm ↵Fuse Delay: 2.5 sec↵
 Weapon_Explosive_EOL-Concussion_Slot3_Armas_NoTrade=EOL 'Deep Impact' Mk4
-WeaponItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_NoTrade_Description=Max Health Damage: 990 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1108.8↵Explosion Radius: 500 cm↵Max Damage Radius: 275 cm ↵Fuse Delay: 2.5 sec↵
+WeaponItemTypes_Weapon_Explosive_EOL-Concussion_Slot3_Armas_NoTrade_Description=Max Health Damage: 850 ↵Max Stamina Damage: 600 ↵Max Hard Damage: 1105.0↵Explosion Radius: 400 cm↵Max Damage Radius: 225 cm ↵Fuse Delay: 2.5 sec↵
 Weapon_Explosive_EOL-LightFrag_PR1_Armas=EOL 'Kickback'
 WeaponItemTypes_Weapon_Explosive_EOL-LightFrag_PR1_Armas_Description=Max Health Damage: 575 ↵Max Stamina Damage: 350 ↵Max Hard Damage: 393.3↵Explosion Radius: 650 cm↵Max Damage Radius: 200 cm ↵Fuse Delay: 2 sec↵
 Weapon_Explosive_EOL-LightFrag_Slot3_Armas=EOL 'Kickback' Mk4
@@ -446,17 +446,17 @@ WeaponItemTypes_Weapon_Pistol_FlareGun_Description=Time To Kill: 0 sec ↵Shots 
 Weapon_Pistol_FlareGun_Joker=Flare Gun PR1
 WeaponItemTypes_Weapon_Pistol_FlareGun_Joker_Description=Time To Kill: 0 sec ↵Shots To Kill: 0 ↵Health Damage: 0 ↵Stamina Damage: 0 ↵Hard Damage: 0.0 ↵Effective Range: 0 m↵Fire Interval: 1 sec ↵Reload Time: 1.5 sec ↵Equip Time: 1 sec
 Weapon_Pistol_Frog_Armas=FR0G
-WeaponItemTypes_Weapon_Pistol_Frog_Armas_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog_Armas_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Frog-Kokoe_PR1_Armas=FR0G 'Kokoe' PR1
-WeaponItemTypes_Weapon_Pistol_Frog-Kokoe_PR1_Armas_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog-Kokoe_PR1_Armas_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Frog-Rocket_PR1_Armas=FR0G 'Rocket'
-WeaponItemTypes_Weapon_Pistol_Frog-Rocket_PR1_Armas_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog-Rocket_PR1_Armas_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Frog-Rocket_Joker=FR0G 'Rocket' PR1
-WeaponItemTypes_Weapon_Pistol_Frog-Rocket_Joker_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog-Rocket_Joker_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Frog_DA=FR0G 'Thumbnail'
-WeaponItemTypes_Weapon_Pistol_Frog_DA_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog_DA_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Frog-Thumbnail_PR1_Armas=FR0G 'Thumbnail' PR2
-WeaponItemTypes_Weapon_Pistol_Frog-Thumbnail_PR1_Armas_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Frog-Thumbnail_PR1_Armas_Description=Time To Kill: 0.864 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 20 ↵Hard Damage: 25.2 ↵Effective Range: 12 m↵Fire Interval: 0.216 sec ↵Reload Time: 1.3 sec ↵Equip Time: 0.35 sec
 Weapon_Grenade_Frag=Frag Grenade
 WeaponItemTypes_Weapon_Grenade_Frag_Description=Max Health Damage: 750 ↵Max Stamina Damage: 375 ↵Max Hard Damage: 567.0↵Explosion Radius: 700 cm↵Max Damage Radius: 300 cm ↵Fuse Delay: 4 sec↵
 Weapon_SniperRifle_HVR762-SD_Joker=Golden N-HVR 762-SD Dvah JT2 PR1
@@ -545,10 +545,10 @@ Weapon_SMG_C9_Slot3_Joker=Joker C9 JT3
 WeaponItemTypes_Weapon_SMG_C9_Slot3_Joker_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 8 ↵Health Damage: 125 ↵Stamina Damage: 20 ↵Hard Damage: 15.0 ↵Effective Range: 30 m↵Fire Interval: 0.1 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
 Weapon_SMG_C9-SD-Sight_Slot3_ArmasJB=Joker C9S 'Prototype'
 WeaponItemTypes_Weapon_SMG_C9-SD-Sight_Slot3_ArmasJB_Description=Time To Kill: 0.704 sec ↵Shots To Kill: 9 ↵Health Damage: 124 ↵Stamina Damage: 20 ↵Hard Damage: 14.9 ↵Effective Range: 30 m↵Fire Interval: 0.088 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
-Weapon_SMG_C9-SD_Slot3_GunGame=Joker C9S EX-III JT2 PR1
-WeaponItemTypes_Weapon_SMG_C9-SD_Slot3_GunGame_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 8 ↵Health Damage: 125 ↵Stamina Damage: 20 ↵Hard Damage: 13.5 ↵Effective Range: 30 m↵Fire Interval: 0.1 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
 Weapon_SMG_C9-SD_Slot3_Armas=Joker C9S EX-III JT2 PR1
 WeaponItemTypes_Weapon_SMG_C9-SD_Slot3_Armas_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 8 ↵Health Damage: 125 ↵Stamina Damage: 20 ↵Hard Damage: 13.5 ↵Effective Range: 30 m↵Fire Interval: 0.1 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
+Weapon_SMG_C9-SD_Slot3_GunGame=Joker C9S EX-III JT2 PR1
+WeaponItemTypes_Weapon_SMG_C9-SD_Slot3_GunGame_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 8 ↵Health Damage: 125 ↵Stamina Damage: 20 ↵Hard Damage: 13.5 ↵Effective Range: 30 m↵Fire Interval: 0.1 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_JokerCarbine_PR3_Armas=Joker Carbine "Punchline"
 WeaponItemTypes_Weapon_Rifle_JokerCarbine_PR3_Armas_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_CR5_Joker=Joker CR-5
@@ -568,9 +568,9 @@ WeaponItemTypes_Weapon_AssaultRifle_CR5_PR1_Armas_Description=Time To Kill: 0.7 
 Weapon_AssaultRifle_CR5_PR2_Armas=Joker CR-5 PR2
 WeaponItemTypes_Weapon_AssaultRifle_CR5_PR2_Armas_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 18.5 ↵Effective Range: 50 m↵Fire Interval: 0.14 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_Pistol_Joker_M9=Joker M9
-WeaponItemTypes_Weapon_Pistol_Joker_M9_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 22.2 ↵Effective Range: 20 m↵Fire Interval: 0.16 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Joker_M9_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 22.2 ↵Effective Range: 20 m↵Fire Interval: 0.18 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_Joker_M9_ArmasJB=Joker M9S 'Pulse Check'
-WeaponItemTypes_Weapon_Pistol_Joker_M9_ArmasJB_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 22.2 ↵Effective Range: 20 m↵Fire Interval: 0.16 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.35 sec
+WeaponItemTypes_Weapon_Pistol_Joker_M9_ArmasJB_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 22.2 ↵Effective Range: 20 m↵Fire Interval: 0.18 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_RFP9=Joker RFP-9
 WeaponItemTypes_Weapon_Pistol_RFP9_Description=Time To Kill: 0.35 sec ↵Shots To Kill: 8 ↵Health Damage: 133 x 3 ↵Stamina Damage: 20 x 3 ↵Hard Damage: 16.0 x 3 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.75 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.35 sec
 Weapon_Pistol_RFP9_PR1_Armas=Joker RFP-9 "Comanche"
@@ -632,27 +632,27 @@ WeaponItemTypes_Weapon_Shotgun_TAS20_Slot1_Joker_Description=Time To Kill: 0.7 s
 Weapon_Grenade_LightFrag=Low-Yield Fragmentation Grenade
 WeaponItemTypes_Weapon_Grenade_LightFrag_Description=Max Health Damage: 515 ↵Max Stamina Damage: 365 ↵Max Hard Damage: 434.7↵Explosion Radius: 550 cm↵Max Damage Radius: 350 cm ↵Fuse Delay: 3 sec↵
 Weapon_Secondary_Mountie_Base=Mountie - Base
-WeaponItemTypes_Weapon_Secondary_Mountie_Base_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Secondary_Mountie_Base_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Secondary_Mountie_Compact=Mountie - Compact
-WeaponItemTypes_Weapon_Secondary_Mountie_Compact_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Secondary_Mountie_Compact_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Secondary_Mountie_Stock=Mountie - Stock
-WeaponItemTypes_Weapon_Secondary_Mountie_Stock_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Secondary_Mountie_Stock_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Mountie_Armas=Mountie 'NorthWest'
-WeaponItemTypes_Weapon_Pistol_Mountie_Armas_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_Mountie_Armas_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Mountie_DA=Mountie 'Nunavut'
-WeaponItemTypes_Weapon_Pistol_Mountie_DA_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_Mountie_DA_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Mountie_PR1_Armas=Mountie 'Nunavut' PR1
-WeaponItemTypes_Weapon_Pistol_Mountie_PR1_Armas_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_Mountie_PR1_Armas_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Mountie_PR1_ArmasJB=Mountie SF9 'Yukon'
-WeaponItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Mountie_PR1_ArmasJB_NoTrade=Mountie SF9 'Yukon'
-WeaponItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.78 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 1.056 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_Mountie_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.82 sec ↵Shots To Kill: 11 ↵Health Damage: 92 x 4 ↵Stamina Damage: 20 x 4 ↵Hard Damage: 11.0 x 4 ↵Effective Range: 40 m↵Burst Interval: 0.35 sec ↵Burst Time To Kill: 0.864 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_NFA9=N-FA 9
-WeaponItemTypes_Weapon_Pistol_NFA9_Description=Time To Kill: 0.63 sec ↵Shots To Kill: 15 ↵Health Damage: 70 ↵Stamina Damage: 20 ↵Hard Damage: 6.3 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_NFA9_Description=Time To Kill: 0.675 sec ↵Shots To Kill: 16 ↵Health Damage: 66 ↵Stamina Damage: 20 ↵Hard Damage: 5.9 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_NFA9_PR1=N-FA 9 "Barrakuda"
-WeaponItemTypes_Weapon_Pistol_NFA9_PR1_Description=Time To Kill: 0.63 sec ↵Shots To Kill: 15 ↵Health Damage: 70 ↵Stamina Damage: 20 ↵Hard Damage: 6.3 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_NFA9_PR1_Description=Time To Kill: 0.675 sec ↵Shots To Kill: 16 ↵Health Damage: 66 ↵Stamina Damage: 20 ↵Hard Damage: 5.9 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_NFA9_PR1_Armas=N-FA 9 "Quickdraw" PR1
-WeaponItemTypes_Weapon_Pistol_NFA9_PR1_Armas_Description=Time To Kill: 0.63 sec ↵Shots To Kill: 15 ↵Health Damage: 70 ↵Stamina Damage: 20 ↵Hard Damage: 6.3 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_NFA9_PR1_Armas_Description=Time To Kill: 0.675 sec ↵Shots To Kill: 16 ↵Health Damage: 66 ↵Stamina Damage: 20 ↵Hard Damage: 5.9 ↵Effective Range: 30 m↵Fire Interval: 0.045 sec ↵Reload Time: 1.1 sec ↵Equip Time: 0.4 sec
 Weapon_SniperRifle_HVR243_Joker=N-HVR 243 'Scout'
 WeaponItemTypes_Weapon_SniperRifle_HVR243_Joker_Description=Time To Kill: 1.75 sec ↵Shots To Kill: 2 ↵Health Damage: 575 ↵Stamina Damage: 300 ↵Hard Damage: 69.0 ↵Effective Range: 90 m↵Fire Interval: 1.75 sec ↵Reload Time: 2.3 sec ↵Equip Time: 0.7 sec
 Weapon_SniperRifle_HVR243_Slot1=N-HVR 243 'Scout' Nol
@@ -738,17 +738,17 @@ WeaponItemTypes_Weapon_AssaultRifle_ISSR-FoldedStock_Description=Time To Kill: 0
 Weapon_AssaultRifle_ISSR-Stock=N-ISSR-a
 WeaponItemTypes_Weapon_AssaultRifle_ISSR-Stock_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 4 ↵Health Damage: 270 ↵Stamina Damage: 100 ↵Hard Damage: 40.5 ↵Effective Range: 45 m↵Fire Interval: 0.28 sec ↵Reload Time: 2 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Dogear_Slot2_Armas=N-ISSR-B 'Dog-Ear'
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Dogear_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Dogear_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Recon_Slot1=N-ISSR-B 'Recon'
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot1_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot1_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Recon_Slot2_Armas=N-ISSR-B 'Recon'
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Recon_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Wisp_Slot2_Armas=N-ISSR-B 'Wisp'
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Armas_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Wisp_Joker=N-ISSR-B 'Wisp' JT1 PR1
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Joker_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Joker_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_ISSR-Wisp_Slot2_Joker=N-ISSR-B 'Wisp' JT2 PR1
-WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Joker_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_ISSR-Wisp_Slot2_Joker_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_LMG_NSSW=N-SSW 74
 WeaponItemTypes_Weapon_LMG_NSSW_Description=Time To Kill: 0.775 sec ↵Shots To Kill: 6 ↵Health Damage: 190 ↵Stamina Damage: 20 ↵Hard Damage: 29.4 ↵Effective Range: 65 m↵Fire Interval: 0.155 sec ↵Reload Time: 2.85 sec ↵Equip Time: 1 sec
 Weapon_LMG_NSSW_Slot3_5Day=N-SSW 74
@@ -827,16 +827,16 @@ Weapon_Shotgun_NFAS-Ogre=NFAS Ogre
 WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS-Ogre_Slot3=NFAS Ogre Dvah
 WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_Slot3_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
-Weapon_Shotgun_NFAS=NFAS-12
-WeaponItemTypes_Weapon_Shotgun_NFAS_Description=Time To Kill: 0.58 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 5.1 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.29 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS_Perm=NFAS-12
 WeaponItemTypes_Weapon_Shotgun_NFAS_Perm_Description=Time To Kill: 0.58 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 5.1 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.29 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
-Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB=NFAS-12 'True Ogre'
-WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
+Weapon_Shotgun_NFAS=NFAS-12
+WeaponItemTypes_Weapon_Shotgun_NFAS_Description=Time To Kill: 0.58 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 5.1 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.29 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_NoTrade=NFAS-12 'True Ogre'
 WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_NoTrade_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS-Ogre_PR2_RUSJB=NFAS-12 'True Ogre'
 WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_RUSJB_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
+Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB=NFAS-12 'True Ogre'
+WeaponItemTypes_Weapon_Shotgun_NFAS-Ogre_PR2_ArmasJB_Description=Time To Kill: 0.4 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 4.0 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.2 sec ↵Reload Time: 3.2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS_PR3_Armas=NFAS-12 "The Janitor" PR3
 WeaponItemTypes_Weapon_Shotgun_NFAS_PR3_Armas_Description=Time To Kill: 0.58 sec ↵Shots To Kill: 3 ↵Health Damage: 33 x 12 ↵Stamina Damage: 20 x 12 ↵Hard Damage: 5.1 x 12 ↵Effective Range: 20 m↵Fire Interval: 0.29 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Shotgun_NFAS_Slot2=NFAS-12 Adeen
@@ -1006,27 +1006,27 @@ WeaponItemTypes_Weapon_Rifle_OBIR_PR3_Description=Time To Kill: 0.3 sec ↵Shots
 Weapon_Rifle_OBIR_PR4=OBIR.4 "Desert Storm Mk-IV"
 WeaponItemTypes_Weapon_Rifle_OBIR_PR4_Description=Time To Kill: 0.3 sec ↵Shots To Kill: 7 ↵Health Damage: 145 x 3 ↵Stamina Damage: 20 x 3 ↵Hard Damage: 20.3 x 3 ↵Effective Range: 55 m↵Burst Interval: 0.45 sec ↵Burst Time To Kill: 0.9 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_Pistol_OCANano=OCA Nano
-WeaponItemTypes_Weapon_Pistol_OCANano_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_OCANano_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_PR1_DA-Assassin=OCA Nano 'Assassin'
-WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Assassin_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Assassin_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_OCANano_ButcherSkin_NoTrade=OCA Nano 'Butcher'
-WeaponItemTypes_Weapon_Pistol_OCANano_ButcherSkin_NoTrade_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_OCANano_ButcherSkin_NoTrade_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_PR1_DA-Chrome=OCA Nano 'Chrome'
-WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Chrome_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Chrome_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_DA=OCA Nano 'Connoisseur'
-WeaponItemTypes_Weapon_Pistol_Nano_DA_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_DA_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_PR1_DA-Connoisseur=OCA Nano 'Connoisseur'
-WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Connoisseur_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Connoisseur_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_OCANano_Connoisseur_ArmasJB=OCA Nano 'Connoisseur'
-WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_OCANano_Connoisseur_ArmasJB_NoTrade=OCA Nano 'Connoisseur'
-WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_NoTrade_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_ArmasJB_NoTrade_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_OCANano_Connoisseur_RUSJB=OCA Nano 'Connoisseur'
-WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_RUSJB_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_OCANano_Connoisseur_RUSJB_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 10.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_PR1_DA-GlowInTheDark=OCA Nano 'Glow'
-WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-GlowInTheDark_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-GlowInTheDark_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_Nano_PR1_DA-Gold=OCA Nano 'Gold'
-WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Gold_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Pistol_Nano_PR1_DA-Gold_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1.35 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 10 ↵Health Damage: 142 ↵Stamina Damage: 110 ↵Hard Damage: 11.8 ↵Effective Range: 30 m↵Fire Interval: 0.15 sec ↵Reload Time: 1.2 sec ↵Equip Time: 0.4 sec
 Weapon_SMG_OCA=OCA-EW 626
 WeaponItemTypes_Weapon_SMG_OCA_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 8 ↵Health Damage: 125 ↵Stamina Damage: 20 ↵Hard Damage: 15.0 ↵Effective Range: 30 m↵Fire Interval: 0.1 sec ↵Reload Time: 1.9 sec ↵Equip Time: 0.8 sec
 Weapon_SMG_OCA_Perm=OCA-EW 626
@@ -1258,13 +1258,13 @@ WeaponItemTypes_Weapon_SniperRifle_Apoc_Death_Slot1_Joker_Description=Time To Ki
 Weapon_SniperRifle_Apoc_Death_Slot3_Joker=S-247 'Oblivion' JT3
 WeaponItemTypes_Weapon_SniperRifle_Apoc_Death_Slot3_Joker_Description=Time To Kill: 1.425 sec ↵Shots To Kill: 4 ↵Health Damage: 325 ↵Stamina Damage: 200 ↵Hard Damage: 39.0 ↵Effective Range: 90 m↵Fire Interval: 0.475 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1.2 sec
 Weapon_Pistol_SASPDW=S-AS PDW
-WeaponItemTypes_Weapon_Pistol_SASPDW_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_SASPDW_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_SASPDW_PR1=S-AS PDW "Falcon"
-WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_SASPDW_PR1_Armas=S-AS PDW "Hotfoot"
-WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Armas_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Armas_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_Pistol_SASPDW_PR1_Joker=S-AS PDW "Hotfoot"
-WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Joker_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
+WeaponItemTypes_Weapon_Pistol_SASPDW_PR1_Joker_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 25 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.4 sec
 Weapon_AssaultRifle_Fanatic=S1-FA 'Frenzy'
 WeaponItemTypes_Weapon_AssaultRifle_Fanatic_Description=Time To Kill: 0.69 sec ↵Shots To Kill: 7 ↵Health Damage: 153 ↵Stamina Damage: 20 ↵Hard Damage: 15.3 ↵Effective Range: 50 m↵Fire Interval: 0.115 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_Fanatic_Slot3_Armas=S1-FA 'Frenzy'
@@ -1290,33 +1290,33 @@ WeaponItemTypes_Weapon_LMG_Fanatic_Slot1_Joker_Description=Time To Kill: 0.6 sec
 Weapon_LMG_Fanatic_Slot3_Joker=S1-TIC 'Rabid' JT3
 WeaponItemTypes_Weapon_LMG_Fanatic_Slot3_Joker_Description=Time To Kill: 0.6 sec ↵Shots To Kill: 6 ↵Health Damage: 175 ↵Stamina Damage: 20 ↵Hard Damage: 17.5 ↵Effective Range: 65 m↵Fire Interval: 0.12 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_SBSR=SBSR
-WeaponItemTypes_Weapon_Rifle_SBSR_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Slot3=SBSR 'Coroner'
-WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Slot3_5Day=SBSR 'Coroner'
-WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_5Day_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_5Day_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Slot3_Armas=SBSR 'Coroner'
-WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Armas_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Armas_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Slot1_Joker=SBSR 'Coroner' JT1
-WeaponItemTypes_Weapon_Rifle_SBSR_Slot1_Joker_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Slot1_Joker_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Slot3_Joker=SBSR 'Coroner' JT3
-WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Joker_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Slot3_Joker_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR_Slot3=SBSR 'IRS'
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR_Slot3_5Day=SBSR 'IRS'
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_5Day_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_5Day_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR_Slot3_Armas=SBSR 'IRS'
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Armas_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Armas_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR_Slot1_Joker=SBSR 'IRS' JT1
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot1_Joker_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot1_Joker_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR_Slot3_Joker=SBSR 'IRS' JT3
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Joker_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Slot3_Joker_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Legends_E_Slot3=SBSR Coroner 'Lenda'
-WeaponItemTypes_Weapon_Rifle_SBSR_Legends_E_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Legends_E_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_Rifle_SBSR_Legends_C_Slot3=SBSR Coroner 'Terminus'
-WeaponItemTypes_Weapon_Rifle_SBSR_Legends_C_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 250 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_Rifle_SBSR_Legends_C_Slot3_Description=Time To Kill: 1.01 sec ↵Shots To Kill: 3 ↵Health Damage: 350 ↵Stamina Damage: 245 ↵Hard Damage: 66.5 ↵Effective Range: 75 m↵Fire Interval: 0.505 sec ↵Reload Time: 2.6 sec ↵Equip Time: 1.2 sec
 Weapon_SniperRifle_SBSR=SBSR_
-WeaponItemTypes_Weapon_SniperRifle_SBSR_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 250 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
+WeaponItemTypes_Weapon_SniperRifle_SBSR_Description=Time To Kill: 1.45 sec ↵Shots To Kill: 3 ↵Health Damage: 400 ↵Stamina Damage: 245 ↵Hard Damage: 116.0 ↵Effective Range: 90 m↵Fire Interval: 0.725 sec ↵Reload Time: 3.2 sec ↵Equip Time: 1.2 sec
 Weapon_AssaultRifle_NTEC-Scope_Joker=Scoped N-TEC 5
 WeaponItemTypes_Weapon_AssaultRifle_NTEC-Scope_Joker_Description=Time To Kill: 0.7 sec ↵Shots To Kill: 6 ↵Health Damage: 185 ↵Stamina Damage: 20 ↵Hard Damage: 18.5 ↵Effective Range: 55 m↵Fire Interval: 0.14 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_NTEC-Scope_PR3_WinterSpecOps_FC=Scoped N-TEC 5 'Spec-Ops'
@@ -1429,12 +1429,12 @@ Weapon_LTL_DartGun=Stabba - TG-8
 WeaponItemTypes_Weapon_LTL_DartGun_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 6 ↵Health Damage: 5 ↵Stamina Damage: 175 ↵Hard Damage: 1.7 ↵Effective Range: 0 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.6 sec
 Weapon_LTL_DartGun_PR1=Stabba - TG-8 "Thunderbolt"
 WeaponItemTypes_Weapon_LTL_DartGun_PR1_Description=<Color:R=1 G=0.502 B=0.0>Time To Stun<Color:R=1 G=1 B=1>: 1 sec ↵<Color:R=1 G=0.502 B=0.0>Shots To Stun<Color:R=1 G=1 B=1>: 6 ↵Health Damage: 5 ↵Stamina Damage: 175 ↵Hard Damage: 1.7 ↵Effective Range: 0 m↵Fire Interval: 0.2 sec ↵Reload Time: 1.6 sec ↵Equip Time: 0.6 sec
+Weapon_Rifle_SACR_Joker=STAC 10
+WeaponItemTypes_Weapon_Rifle_SACR_Joker_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_SACR=STAC 10
 WeaponItemTypes_Weapon_Rifle_SACR_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_SACR-Scope=STAC 10
 WeaponItemTypes_Weapon_Rifle_SACR-Scope_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
-Weapon_Rifle_SACR_Joker=STAC 10
-WeaponItemTypes_Weapon_Rifle_SACR_Joker_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_SACR-Scope_Slot3_5Day=STAC 10 - Scope
 WeaponItemTypes_Weapon_Rifle_SACR-Scope_Slot3_5Day_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 27.0 ↵Effective Range: 35 m↵Fire Interval: 0.15 sec ↵Reload Time: 2 sec ↵Equip Time: 0.8 sec
 Weapon_Rifle_SACR-Scope_Slot3_Armas=STAC 10 - Scope R&D III
@@ -1452,19 +1452,19 @@ WeaponItemTypes_Weapon_AssaultRifle_STAR_Description=Time To Kill: 0.75 sec ↵S
 Weapon_AssaultRifle_STAR_Slot3_Hazard_FC=STAR 556 'Hazard'
 WeaponItemTypes_Weapon_AssaultRifle_STAR_Slot3_Hazard_FC_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 19.8 ↵Effective Range: 50 m↵Fire Interval: 0.15 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_PR3_5Day=STAR 556 'LCR' "Old Glory"
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_5Day_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_5Day_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_PR3_Armas=STAR 556 'LCR' "Old Glory"
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR3_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_PR1_Armas=STAR 556 'LCR' PR1
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR1_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR1_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_Star-LCR_PR1_Joker=STAR 556 'LCR' PR1
-WeaponItemTypes_Weapon_AssaultRifle_Star-LCR_PR1_Joker_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_Star-LCR_PR1_Joker_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_Test_AssaultRifle_STAR_Preset_FN1=STAR 556 'LCR' PR1
-WeaponItemTypes_Weapon_Test_AssaultRifle_STAR_Preset_FN1_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Test_AssaultRifle_STAR_Preset_FN1_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR-LCR_PR2_Armas=STAR 556 'LCR' PR2
-WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR2_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_AssaultRifle_STAR-LCR_PR2_Armas_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_Test_AssaultRifle_STAR_Preset_FN2=STAR 556 'LCR' PR2
-WeaponItemTypes_Weapon_Test_AssaultRifle_STAR_Preset_FN2_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 210 ↵Stamina Damage: 2 ↵Hard Damage: 23.1 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
+WeaponItemTypes_Weapon_Test_AssaultRifle_STAR_Preset_FN2_Description=Time To Kill: 1.08 sec ↵Shots To Kill: 5 ↵Health Damage: 230 ↵Stamina Damage: 2 ↵Hard Damage: 25.3 ↵Effective Range: 75 m↵Fire Interval: 0.27 sec ↵Reload Time: 2.8 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR_PR1=STAR 556 I "Army Ant"
 WeaponItemTypes_Weapon_AssaultRifle_STAR_PR1_Description=Time To Kill: 0.75 sec ↵Shots To Kill: 6 ↵Health Damage: 180 ↵Stamina Damage: 20 ↵Hard Damage: 19.8 ↵Effective Range: 50 m↵Fire Interval: 0.15 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_AssaultRifle_STAR_PR2=STAR 556 II "Mantis"
@@ -1504,25 +1504,25 @@ WeaponItemTypes_Weapon_LMG_Swarm_Slot2_Description=Time To Kill: 0.8 sec ↵Shot
 Weapon_LMG_Swarm_Sight=Swarm Sight
 WeaponItemTypes_Weapon_LMG_Swarm_Sight_Description=Time To Kill: 0.8 sec ↵Shots To Kill: 6 ↵Health Damage: 195 ↵Stamina Damage: 20 ↵Hard Damage: 40.9 ↵Effective Range: 70 m↵Fire Interval: 0.16 sec ↵Reload Time: 3.6 sec ↵Equip Time: 1 sec
 Weapon_Pistol_UL3-SD_PR1_Armas=UL-3 'Bloody Mary'
-WeaponItemTypes_Weapon_Pistol_UL3-SD_PR1_Armas_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3-SD_PR1_Armas_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3-SD_PR1_ArmasJB_NoTrade=UL-3 'Bloody Mary'
-WeaponItemTypes_Weapon_Pistol_UL3-SD_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3-SD_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_Silencer=UL-3 'Bloody Mary'
-WeaponItemTypes_Weapon_Pistol_UL3_Silencer_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_Silencer_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3-Sight_PR1_Armas=UL-3 'Hitchhiker'
-WeaponItemTypes_Weapon_Pistol_UL3-Sight_PR1_Armas_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3-Sight_PR1_Armas_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3-Sight_PR1_ArmasJB_NoTrade=UL-3 'Hitchhiker'
-WeaponItemTypes_Weapon_Pistol_UL3-Sight_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3-Sight_PR1_ArmasJB_NoTrade_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_Sight=UL-3 'Hitchhiker'
-WeaponItemTypes_Weapon_Pistol_UL3_Sight_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_Sight_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_Base=UL-3 'Jersey Devil'
-WeaponItemTypes_Weapon_Pistol_UL3_Base_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_Base_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_DA=UL-3 'Jersey Devil'
-WeaponItemTypes_Weapon_Pistol_UL3_DA_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_DA_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_PR2_ArmasJB=UL-3 'Jersey Devil'
-WeaponItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_Pistol_UL3_PR2_ArmasJB_NoTrade=UL-3 'Jersey Devil'
-WeaponItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_NoTrade_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.07 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
+WeaponItemTypes_Weapon_Pistol_UL3_PR2_ArmasJB_NoTrade_Description=Time To Kill: 0.876 sec ↵Shots To Kill: 13 ↵Health Damage: 80 ↵Stamina Damage: 20 ↵Hard Damage: 7.2 ↵Effective Range: 30 m↵Fire Interval: 0.073 sec ↵Reload Time: 1.5 sec ↵Equip Time: 0.6 sec
 Weapon_SMG_VAS-C2_Slot1=VAS C2 NFCP 1
 WeaponItemTypes_Weapon_SMG_VAS-C2_Slot1_Description=Time To Kill: 0.63 sec ↵Shots To Kill: 7 ↵Health Damage: 150 ↵Stamina Damage: 20 ↵Hard Damage: 15.0 ↵Effective Range: 35 m↵Fire Interval: 0.105 sec ↵Reload Time: 2.4 sec ↵Equip Time: 0.8 sec
 Weapon_LMG_VAS-SW2-Base=VAS SW2
@@ -1588,8 +1588,8 @@ WeaponItemTypes_Weapon_AssaultRifle_VespaStock_Description=Time To Kill: 0.84 se
 Weapon_AssaultRifle_VespaTactical=Vespa Tactical
 WeaponItemTypes_Weapon_AssaultRifle_VespaTactical_Description=Time To Kill: 0.84 sec ↵Shots To Kill: 4 ↵Health Damage: 270 ↵Stamina Damage: 100 ↵Hard Damage: 40.5 ↵Effective Range: 45 m↵Fire Interval: 0.28 sec ↵Reload Time: 2 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_Vesper=Vesper
-WeaponItemTypes_Weapon_SniperRifle_Vesper_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_Vesper_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_VesperFoldingStock=Vesper Folding Stock
-WeaponItemTypes_Weapon_SniperRifle_VesperFoldingStock_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_VesperFoldingStock_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
 Weapon_SniperRifle_VesperTactical=Vesper Tactical
-WeaponItemTypes_Weapon_SniperRifle_VesperTactical_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 265 ↵Stamina Damage: 170 ↵Hard Damage: 50.4 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
+WeaponItemTypes_Weapon_SniperRifle_VesperTactical_Description=Time To Kill: 0.9 sec ↵Shots To Kill: 4 ↵Health Damage: 315 ↵Stamina Damage: 170 ↵Hard Damage: 59.9 ↵Effective Range: 83 m↵Fire Interval: 0.3 sec ↵Reload Time: 2.75 sec ↵Equip Time: 1 sec
